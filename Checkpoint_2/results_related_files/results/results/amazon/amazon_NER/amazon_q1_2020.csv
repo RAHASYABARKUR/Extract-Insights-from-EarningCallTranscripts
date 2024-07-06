@@ -1,0 +1,278 @@
+word,label
+Good day,DATE
+Amazon.com,ORG
+Today,DATE
+Shelly Kay,PERSON
+Shelly Kay,PERSON
+today,DATE
+Brian Olsavsky,PERSON
+Dave Fildes,PERSON
+today,DATE
+the quarter,DATE
+the comparable period of 2019,DATE
+"today, April 30",DATE
+2020,DATE
+today,DATE
+SEC,GPE
+annual,DATE
+SEC,ORG
+today,DATE
+SEC,ORG
+COVID-19,DISEASE
+SEC,GPE
+third,ORDINAL
+Brian,PERSON
+Brian Olsavsky,PERSON
+Q&A,ORG
+the past two months,DATE
+Whole Foods,PRODUCT
+Amazon,ORG
+early March,DATE
+the holiday season,DATE
+months,DATE
+six foot,QUANTITY
+100 million,CARDINAL
+tens of millions,CARDINAL
+Whole Foods,PRODUCT
+hours,TIME
+Amazon,ORG
+"an additional 175,000",CARDINAL
+one to four days,DATE
+third,ORDINAL
+Third,ORDINAL
+more than half,CARDINAL
+third,ORDINAL
+more than 60%,PERCENT
+Whole Foods,PRODUCT
+80,CARDINAL
+more than 150,CARDINAL
+Amazon,ORG
+AWS,PRODUCT
+assist healthcare,ORG
+coronavirus,DISEASE
+AWS,PRODUCT
+Amazon,ORG
+6 million,CARDINAL
+Los Angeles,GPE
+Miami,GPE
+Nashville,GPE
+Orlando,GPE
+Francisco,GPE
+Seattle,GPE
+Washington DC,GPE
+up to 25,CARDINAL
+Alexa,PRODUCT
+COVID-19,DISEASE
+more than $600 million,MONEY
+Q1,GPE
+$4 billion,MONEY
+hourly,TIME
+hundreds of millions of dollars,MONEY
+COVID-19,DISEASE
+Q1,LOC
+$400 million,MONEY
+the next few quarters,DATE
+first,ORDINAL
+Doug Anmuth,PERSON
+JPMorgan,ORG
+Douglas Anmuth,PERSON
+First,ORDINAL
+$4 billion,MONEY
+hundreds of millions,MONEY
+the next quarter,DATE
+Brian Olsavsky,PERSON
+first,ORDINAL
+about $300 million,MONEY
+the next few weeks,DATE
+next few months,DATE
+Brian,PERSON
+Morgan Stanley,ORG
+Brian,PERSON
+two,CARDINAL
+Brian,PERSON
+first,ORDINAL
+Amazon,ORG
+second,ORDINAL
+Amazon,ORG
+Brian Olsavsky,PERSON
+Amazon,ORG
+digital,ORG
+March,DATE
+first,ORDINAL
+Prime Video,PRODUCT
+Alexa,PRODUCT
+Alexa,PRODUCT
+Mark Mahaney,PERSON
+Mark Mahaney,PERSON
+First,ORDINAL
+Amazon,ORG
+Amazon,ORG
+second,ORDINAL
+AWS,PRODUCT
+AWS,PRODUCT
+Brian Olsavsky,PERSON
+$41 billion,MONEY
+33%,PERCENT
+millions,CARDINAL
+one day,DATE
+one day,DATE
+one to four days,DATE
+one-day,DATE
+one-day,DATE
+$1 billion,MONEY
+one-day,DATE
+the old days,DATE
+two-day,DATE
+three-day,DATE
+four-day,DATE
+one-day,DATE
+one-day,DATE
+the day,DATE
+one-day,DATE
+that day,DATE
+Q3,GPE
+Heath Terry,PERSON
+Goldman Sachs,ORG
+Heath Terry,PERSON
+AWS,PRODUCT
+Yesterday,DATE
+Microsoft,ORG
+two years,DATE
+two months,DATE
+April,DATE
+AWS,PRODUCT
+$4 billion,MONEY
+the second quarter,DATE
+profitability quarter over quarter,DATE
+one-day,DATE
+Brian Olsavsky,PERSON
+first,ORDINAL
+AWS,PRODUCT
+digital,ORG
+United States,COUNTRY
+AWS,PRODUCT
+$4 billion,MONEY
+above zero,CARDINAL
+$4 billion,MONEY
+third,ORDINAL
+the quarter,DATE
+a couple of hundred million dollar,MONEY
+one-day,DATE
+one-day,DATE
+last year,DATE
+the past four quarters,DATE
+AWS,PRODUCT
+$800 million,MONEY
+year-over-year,DATE
+Q1,LOC
+the year,DATE
+over 13 years,DATE
+Q1,GPE
+Dave Fildes,PERSON
+about $800 million,MONEY
+nearly $100 million,MONEY
+the first quarter,DATE
+the year,DATE
+Eric Sheridan,PERSON
+UBS,ORG
+Eric Sheridan,PERSON
+Maybe two,CARDINAL
+Europe,LOC
+Asia,LOC
+India,COUNTRY
+the month of March,DATE
+COVID-19,DISEASE
+one,CARDINAL
+Brian Olsavsky,PERSON
+Eric,PERSON
+second,ORDINAL
+one,CARDINAL
+India,COUNTRY
+India,COUNTRY
+Indian,NORP
+India,COUNTRY
+France,COUNTRY
+French,NORP
+French,NORP
+the middle of April,DATE
+French,NORP
+order many millions,CARDINAL
+Justin Post,PERSON
+America,COUNTRY
+Justin Post,PERSON
+second,ORDINAL
+2Q,CARDINAL
+June,DATE
+Dave Fildes,PERSON
+Justin,PERSON
+David,PERSON
+Prime Now,PRODUCT
+Whole Foods,PRODUCT
+March,DATE
+April,DATE
+more than 60%,PERCENT
+Whole Foods,PRODUCT
+roughly 80,CARDINAL
+more than 150,CARDINAL
+year-over-year,DATE
+about 8%,PERCENT
+Whole Foods,PRODUCT
+Whole Foods,PRODUCT
+some recent quarters,DATE
+Brian Olsavsky,PERSON
+Justin,PERSON
+digital,ORG
+Alexa,PRODUCT
+Prime Video,PRODUCT
+U.K.,GPE
+Germany,COUNTRY
+Prime Video,PRODUCT
+Prime membership,PRODUCT
+Justin Post,PERSON
+second,ORDINAL
+quarter,CARDINAL
+Dave Fildes,PERSON
+this quarter,DATE
+Stephen,PERSON
+Credit Suisse,ORG
+Stephen,PERSON
+Brian,PERSON
+third,ORDINAL
+this quarter,DATE
+first,ORDINAL
+third,ORDINAL
+Brian Olsavsky,PERSON
+PPE,ORG
+Stephen,PERSON
+third,ORDINAL
+this quarter,DATE
+first,ORDINAL
+Brian Olsavsky,PERSON
+Stephen,PERSON
+1P,CARDINAL
+MFN,ORG
+3P,CARDINAL
+third,ORDINAL
+John Blackledge,PERSON
+John Blackledge,PERSON
+the first quarter,DATE
+the second quarter,DATE
+"175,000",CARDINAL
+quantify,GPE
+the end of the third quarter,DATE
+Dave Fildes,PERSON
+second,ORDINAL
+"175,000",CARDINAL
+"80,000",CARDINAL
+the end of the quarter,DATE
+"95,000",CARDINAL
+April,DATE
+last quarter,DATE
+March,DATE
+Amazon,ORG
+one,CARDINAL
+Brian Olsavsky,PERSON
+today,DATE
+the end of the quarter,DATE
+Amazon,ORG
+next quarter,DATE

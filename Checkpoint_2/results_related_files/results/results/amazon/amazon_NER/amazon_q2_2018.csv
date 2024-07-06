@@ -1,0 +1,339 @@
+word,label
+Amazon.com,ORG
+2018,DATE
+Today,DATE
+Dave Fildes,PERSON
+Dave Fildes,PERSON
+2018,DATE
+today,DATE
+Brian Olsavsky,PERSON
+today,DATE
+the quarter,DATE
+the comparable period of,DATE
+2017,DATE
+"today, July 26, 2018",DATE
+today,DATE
+SEC,ORG
+annual,DATE
+SEC,ORG
+today,DATE
+SEC,ORG
+first,ORDINAL
+Justin Post,PERSON
+Merrill Lynch,ORG
+Justin Post,PERSON
+America,COUNTRY
+Merrill Lynch,ORG
+the quarter,DATE
+year-over-year,DATE
+the quarter,DATE
+Brian,PERSON
+Justin,PERSON
+the quarter,DATE
+a strong quarter,DATE
+AWS,PRODUCT
+its third consecutive quarter,DATE
+49%,PERCENT
+the first half of the year,DATE
+year-over-year,DATE
+20%,PERCENT
+the full trailing 12 months,DATE
+the last 6 months,DATE
+America,COUNTRY
+year-over-year,DATE
+Australia,GPE
+Echo,PRODUCT
+Alexa,PRODUCT
+France,COUNTRY
+Echo,PRODUCT
+India,COUNTRY
+Japan,COUNTRY
+the last quarter,DATE
+Mark Mahaney,PERSON
+RBC Capital Markets,ORG
+Mark Mahaney,PERSON
+RBC Capital Markets,ORG
+two,CARDINAL
+17%,PERCENT
+Brian,PERSON
+Brian,PERSON
+last year,DATE
+Q2,GPE
+27%,PERCENT
+any quarter,DATE
+last year,DATE
+$49 to $35,MONEY
+25,MONEY
+last year,DATE
+Amazon,ORG
+Kindle,PRODUCT
+third,ORDINAL
+the last 18 months,DATE
+one,CARDINAL
+26%,PERCENT
+the end of June,DATE
+12 month,DATE
+23%,PERCENT
+the second half of last year,DATE
+the first half of this year,DATE
+the first half of the year,DATE
+the holiday,DATE
+Last year,DATE
+first,ORDINAL
+this year,DATE
+Douglas Anmuth,PERSON
+JPMorgan,ORG
+Douglas,PERSON
+JPMorgan,ORG
+two,CARDINAL
+First,ORDINAL
+3Q,NORP
+this year,DATE
+secondly,ORDINAL
+Brian,PERSON
+today,DATE
+the end of next quarter,DATE
+the last two years,DATE
+30%,PERCENT
+2016,DATE
+2017,DATE
+this year,DATE
+the last few years,DATE
+today,DATE
+the last two years,DATE
+next quarter,DATE
+the second half of the year,DATE
+today,DATE
+Mark,PERSON
+Mark A.,PERSON
+Citigroup,ORG
+"Global Markets, Inc.
+
+Thanks. On AWS",ORG
+Alexa,PRODUCT
+Alexa,PRODUCT
+Alexa,PRODUCT
+Brian,PERSON
+AWS,PRODUCT
+the last three quarters,DATE
+800,CARDINAL
+this year,DATE
+last year,DATE
+a record year,DATE
+"more than 80,000",CARDINAL
+AWS,PRODUCT
+multiple years,DATE
+quarter-to-quarter,DATE
+this quarter,DATE
+year-over-year,DATE
+Dave Fildes,PERSON
+second,ORDINAL
+Alexa,PRODUCT
+Dave,PERSON
+Prime Day,DATE
+Heath Terry,PERSON
+Goldman Sachs,ORG
+Heath Terry,PERSON
+Goldman Sachs,ORG
+AWS,PRODUCT
+AWS,PRODUCT
+AWS,PRODUCT
+Brian,PERSON
+$4.6 billion,MONEY
+last year,DATE
+quarter-to-quarter,DATE
+last year,DATE
+the first half,DATE
+the first two quarters,DATE
+82%,PERCENT
+67%,PERCENT
+This year,DATE
+33%,PERCENT
+Q1,GPE
+1%,PERCENT
+AWS,ORG
+AWS,PRODUCT
+Amazon,ORG
+AWS,PRODUCT
+Brian,PERSON
+Morgan Stanley,ORG
+Brian,PERSON
+Morgan Stanley,ORG
+two,CARDINAL
+first,ORDINAL
+Brian,PERSON
+second,ORDINAL
+the current quarter,DATE
+Brian,PERSON
+Dave,PERSON
+billion dollar,MONEY
+Amazon,ORG
+third,ORDINAL
+Amazon,ORG
+hundreds of thousands,MONEY
+Dave Fildes,PERSON
+Brian,PERSON
+Dave,PERSON
+first,ORDINAL
+$640 million,MONEY
+2018,DATE
+$640 million,MONEY
+this second quarter,DATE
+about $2.2 billion,MONEY
+the second quarter,DATE
+about last quarter,CARDINAL
+year-over-year,DATE
+Eric Sheridan,PERSON
+UBS,ORG
+Eric,PERSON
+UBS Securities,ORG
+Two,CARDINAL
+Whole Foods,PRODUCT
+Whole Foods,PRODUCT
+Prime Now,PRODUCT
+Prime Now,PRODUCT
+Brian,PERSON
+a big quarter,DATE
+Whole Foods,PRODUCT
+Whole Foods,PRODUCT
+Whole Foods,PRODUCT
+Whole Foods,PRODUCT
+365,CARDINAL
+10%,PERCENT
+millions of dollars,MONEY
+daily,DATE
+20,CARDINAL
+the Prime Day,DATE
+Whole Foods,PRODUCT
+a week,DATE
+Whole Foods,PRODUCT
+Prime membership,PRODUCT
+Whole Foods,PRODUCT
+5%,PERCENT
+Whole Foods,PRODUCT
+second,ORDINAL
+first,ORDINAL
+Whole Foods,PRODUCT
+Amazon,ORG
+this quarter,DATE
+Whole Foods,PRODUCT
+Prime Now,PRODUCT
+50,CARDINAL
+9,CARDINAL
+Prime Now,PRODUCT
+Whole Foods,PRODUCT
+two,CARDINAL
+Prime Now,PRODUCT
+Whole Foods,PRODUCT
+Prime Now,PRODUCT
+Amazon,ORG
+Ross Sandler,PERSON
+Barclays,ORG
+Ross Sandler,PERSON
+Barclays,ORG
+two,CARDINAL
+First,ORDINAL
+tens of millions,CARDINAL
+Echo,PRODUCT
+second,ORDINAL
+India,COUNTRY
+Western Europe,LOC
+Brian,PERSON
+second,ORDINAL
+the last few quarters,DATE
+Europe,LOC
+Japan,COUNTRY
+about earlier,CARDINAL
+America,COUNTRY
+India,COUNTRY
+Fifth,ORDINAL
+Fifth,ORDINAL
+Anniversary,DATE
+India,COUNTRY
+Indian,NORP
+Echo,PRODUCT
+Alexa,PRODUCT
+France,COUNTRY
+Echo,PRODUCT
+India,COUNTRY
+Japan,COUNTRY
+Echo,PRODUCT
+Alexa,PRODUCT
+Italy,COUNTRY
+Mexico,COUNTRY
+Spain,COUNTRY
+this year,DATE
+Australia,PERSON
+Netherlands,CARDINAL
+Dave Fildes,PERSON
+Dave,PERSON
+tens of millions,CARDINAL
+Amazon Music,PRODUCT
+Amazon Music,PRODUCT
+more than 30,CARDINAL
+tens of millions,CARDINAL
+Amazon Music,PRODUCT
+Alexa,PRODUCT
+Alexa,PRODUCT
+Amazon,ORG
+"more than 45,000",CARDINAL
+Youssef Squali,PERSON
+Robinson,NORP
+Youssef Squali,PERSON
+Robinson,PERSON
+45,CARDINAL
+1P.,CARDINAL
+3P,CARDINAL
+two,CARDINAL
+two,CARDINAL
+last 12 months,DATE
+two,CARDINAL
+Dave Fildes,PERSON
+Youssef this,PERSON
+Dave,PERSON
+45,CARDINAL
+first,ORDINAL
+3P,CARDINAL
+three,CARDINAL
+Washington,GPE
+January 1,DATE
+Pennsylvania,GPE
+April 1,DATE
+July 1,DATE
+second,ORDINAL
+early days,DATE
+Jason Helfstein,PERSON
+Oppenheimer & Company,ORG
+Jason Helfstein,PERSON
+Oppenheimer,ORG
+Alexa,PRODUCT
+third,ORDINAL
+Amazon,ORG
+Prime Video,PRODUCT
+Brian,PERSON
+Alexa,PRODUCT
+Alexa,PRODUCT
+Dave,PERSON
+"over 45,000",CARDINAL
+"over 13,000",CARDINAL
+"2,500",CARDINAL
+Alexa,PRODUCT
+Jeff,PERSON
+Alexa,PRODUCT
+the past year,DATE
+Polk,DISEASE
+Acer,GPE
+Hewlett,PERSON
+Lenovo,ORG
+Alexa,PRODUCT
+Alexa,PRODUCT
+Alexa,PRODUCT
+Dave Fildes,PERSON
+second,ORDINAL
+today,DATE
+the last few quarters,DATE
+Dave Fildes,PERSON
+today,DATE
+the end of the quarter,DATE
+Amazon,ORG
+next quarter,DATE

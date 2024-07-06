@@ -1,0 +1,338 @@
+word,label
+Amazon.com,ORG
+Q3,QUARTER
+2017,DATE
+Today,DATE
+Dave Fildes,PERSON
+Dave Fildes,PERSON
+2017,DATE
+today,DATE
+Brian Olsavsky,PERSON
+today,DATE
+the quarter,DATE
+the comparable period of,DATE
+2016,DATE
+"today, October 26, 2017",DATE
+today,DATE
+SEC,ORG
+Annual,DATE
+SEC,ORG
+today,DATE
+SEC,GPE
+first,ORDINAL
+Justin Post,PERSON
+Merrill Lynch,ORG
+Justin Post,PERSON
+America,COUNTRY
+Merrill Lynch,ORG
+Whole Foods,PRODUCT
+AWS,PRODUCT
+Dave Fildes,PERSON
+Justin,PERSON
+Dave,PERSON
+the three months,DATE
+"around 34%, 35%",PERCENT
+$99 upfront,MONEY
+the past few years,DATE
+Amazon,ORG
+multi-year,DATE
+month-to-month,DATE
+last year,DATE
+monthly,DATE
+Brian,PERSON
+Whole Foods,PRODUCT
+late August,DATE
+this quarter,DATE
+$1.3 billion,MONEY
+$21 million,MONEY
+Whole Foods,PRODUCT
+Amazon,ORG
+Whole Foods,PRODUCT
+Whole Foods,PRODUCT
+Amazon,ORG
+Whole Foods,PRODUCT
+Amazon,ORG
+Whole Foods,PRODUCT
+Mark Mahaney,PERSON
+RBC Capital Markets,ORG
+Mark Mahaney,PERSON
+RBC Capital Markets,ORG
+two,CARDINAL
+first,ORDINAL
+Whole Foods,PRODUCT
+the quarter,DATE
+Brian,PERSON
+Q3,COUNTRY
+the quarter,DATE
+a record day,DATE
+Prime Day,DATE
+the third year,DATE
+AWS,PRODUCT
+$18 billion,MONEY
+last quarter,DATE
+$16 billion,MONEY
+AWS,PRODUCT
+Mark Mahaney,PERSON
+RBC Capital Markets,ORG
+Brian,PERSON
+Souq,PERSON
+this quarter,DATE
+Diwali,PERSON
+India,COUNTRY
+a few days earlier,DATE
+Q3,GPE
+Prime Day,DATE
+the quarter,DATE
+Amazon,ORG
+Mark Mahaney,PERSON
+RBC Capital Markets,ORG
+Brian,PERSON
+Brian,PERSON
+Morgan Stanley,ORG
+Brian,PERSON
+Morgan Stanley,ORG
+two,CARDINAL
+Whole Foods,PRODUCT
+two,CARDINAL
+second,ORDINAL
+59%,PERCENT
+Brian,PERSON
+Whole Foods,PRODUCT
+28,CARDINAL
+John,PERSON
+Amazon.com,ORG
+Amazon,ORG
+Prime Now,PRODUCT
+Whole Foods,PRODUCT
+Whole Foods,PRODUCT
+the summer,DATE
+59%,PERCENT
+600,CARDINAL
+Amazon Prime,PRODUCT
+the last recent quarters,DATE
+Prime Day,DATE
+monthly,DATE
+Echo,PRODUCT
+Echo,PRODUCT
+Echo,PRODUCT
+Eric Sheridan,PERSON
+UBS,ORG
+Eric,PERSON
+UBS Securities,ORG
+year-on-year,DATE
+Dave Fildes,PERSON
+Eric,PERSON
+Dave,PERSON
+earlier this quarter,DATE
+"about 120,000",CARDINAL
+this year,DATE
+earlier this year,DATE
+greater than 30%,PERCENT
+Amazon,ORG
+Brian,PERSON
+77%,PERCENT
+year-over-year,DATE
+the quarter,DATE
+Whole Foods,PRODUCT
+Souq,PERSON
+Amazon,ORG
+47%,PERCENT
+42%,PERCENT
+Q3,COUNTRY
+the holidays,DATE
+AWS,PRODUCT
+Prime Video,PRODUCT
+Douglas Anmuth,PERSON
+JPMorgan,ORG
+Douglas,PERSON
+JPMorgan,ORG
+Brian,PERSON
+Whole Foods,PRODUCT
+Brian,PERSON
+Whole Foods,PRODUCT
+Prime Now,PRODUCT
+Whole Foods,PRODUCT
+Whole Foods,PRODUCT
+Amazon,ORG
+Amazon,ORG
+Whole Foods,PRODUCT
+Whole Foods,PRODUCT
+Amazon,ORG
+Amazon,ORG
+Whole Foods,PRODUCT
+10 years to 20 years,DATE
+Douglas,PERSON
+JPMorgan,ORG
+Brian,PERSON
+Mark,PERSON
+Mark A.,PERSON
+Citigroup,ORG
+"Global Markets, Inc.
+
+Thank",ORG
+58%,PERCENT
+the quarter,DATE
+Amazon,ORG
+Brian,PERSON
+58%,PERCENT
+the quarter,DATE
+year-over-year,DATE
+India,COUNTRY
+a year ago,DATE
+India,COUNTRY
+the first 12 months,DATE
+10 million,CARDINAL
+Prime Video,PRODUCT
+Amazon,ORG
+first,ORDINAL
+this year,DATE
+Amazon,ORG
+India,COUNTRY
+India,COUNTRY
+Echo,PRODUCT
+Alexa,PRODUCT
+India,COUNTRY
+Indian,NORP
+India,COUNTRY
+Souq,PERSON
+Prime Now,PRODUCT
+last year,DATE
+Prime Video,PRODUCT
+over 200,CARDINAL
+Ross Sandler,PERSON
+Barclays,ORG
+Ross Sandler,PERSON
+Barclays,ORG
+Two,CARDINAL
+Brazil,COUNTRY
+Brazil,CARDINAL
+Brazil,COUNTRY
+Australia,LOC
+India,COUNTRY
+Whole Foods,PRODUCT
+460,CARDINAL
+Whole Foods,PRODUCT
+Amazon Books,PRODUCT
+Dave Fildes,PERSON
+Ross,PERSON
+Dave,PERSON
+Brazil,COUNTRY
+Brazil,COUNTRY
+third,ORDINAL
+Brazil,COUNTRY
+a number of years,DATE
+Kindle,PRODUCT
+third,ORDINAL
+Brazilians,DATE
+Brian,PERSON
+Whole Foods,PRODUCT
+465,CARDINAL
+12,CARDINAL
+California,GPE
+Washington,GPE
+Austin,GPE
+Whole Foods,PRODUCT
+Heath Terry,PERSON
+Goldman Sachs,ORG
+Heath Terry,PERSON
+Goldman Sachs,ORG
+Brian,PERSON
+Amazon,ORG
+AWS,PRODUCT
+the fourth quarter,DATE
+last year,DATE
+Q3,GPE
+two,CARDINAL
+AWS,PRODUCT
+the end of the year,DATE
+Dave Fildes,PERSON
+Dave,PERSON
+first,ORDINAL
+Amazon,ORG
+our third year,DATE
+Amazon,ORG
+Germany,COUNTRY
+Amazon,ORG
+today,DATE
+Brian,PERSON
+AWS,PRODUCT
+last year,DATE
+last year,DATE
+AWS,PRODUCT
+December,DATE
+the end of November,DATE
+early December,DATE
+AWS,PRODUCT
+Scott Devitt,PERSON
+Scott,PERSON
+Nicolaus & Co.,ORG
+two,CARDINAL
+First,ORDINAL
+Prime Now,PRODUCT
+Whole Foods,PRODUCT
+four,CARDINAL
+secondly,ORDINAL
+Brian,PERSON
+coming years,DATE
+Brian,PERSON
+2018,DATE
+year-after-year,DATE
+Amazon,ORG
+two,CARDINAL
+Prime Video,PRODUCT
+next year,DATE
+second,ORDINAL
+Whole Foods,PRODUCT
+Whole Foods,PRODUCT
+Amazon,ORG
+Prime Now,PRODUCT
+wait days,DATE
+Jason Helfstein,PERSON
+Oppenheimer,ORG
+Jason Helfstein,PERSON
+Oppenheimer,ORG
+two,CARDINAL
+Whole Foods,PRODUCT
+second,ORDINAL
+Fire TV,PRODUCT
+Prime Video,PRODUCT
+Brian,PERSON
+Whole Foods,PRODUCT
+early next month,DATE
+the entire quarter,DATE
+The quarter,DATE
+the four week,DATE
+Amazon,ORG
+this quarter,DATE
+Dave,PERSON
+Dave Fildes,PERSON
+Jason,PERSON
+Dave,PERSON
+Prime Video,PRODUCT
+first,ORDINAL
+first,ORDINAL
+Ron Josey,DATE
+JMP Securities,ORG
+Ronald V. Josey - JMP Securities,DATE
+the last several months,DATE
+Whole Foods,PRODUCT
+Amazon,ORG
+Brian,PERSON
+Amazon,ORG
+Dave Fildes,PERSON
+Brian,PERSON
+12 months,DATE
+Sunday,DATE
+weekend,DATE
+3,CARDINAL
+afternoon,TIME
+midnight,ORDINAL
+Amazon,ORG
+Amazon,ORG
+Thursday Night,TIME
+two hours,TIME
+Dave Fildes,PERSON
+today,DATE
+the end the quarter,DATE
+Amazon,ORG
+next quarter,DATE

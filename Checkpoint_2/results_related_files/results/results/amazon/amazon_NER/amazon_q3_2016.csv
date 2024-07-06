@@ -1,0 +1,331 @@
+word,label
+Good day,DATE
+Amazon.com,ORG
+Q3,QUARTER
+Today,DATE
+Darin Manney,PERSON
+Darin Manney - Amazon.com,PERSON
+2016,DATE
+today,DATE
+Brian Olsavsky,PERSON
+today,DATE
+the quarter,DATE
+the comparable period of 2015,DATE
+"today, October 27, 2016",DATE
+today,DATE
+SEC,ORG
+annual,DATE
+SEC,ORG
+today,DATE
+SEC,ORG
+first,ORDINAL
+Douglas Anmuth,PERSON
+JPMorgan,ORG
+Douglas,PERSON
+JPMorgan,ORG
+4Q,CARDINAL
+Brian,PERSON
+Doug,PERSON
+Prime Now,PRODUCT
+India,COUNTRY
+India,COUNTRY
+Q4,GPE
+Douglas,PERSON
+JPMorgan,ORG
+Gene Munster,PERSON
+Piper Jaffray,ORG
+Eugene,PERSON
+Charles,PERSON
+Munster,PERSON
+Piper Jaffray,ORG
+second,ORDINAL
+half,CARDINAL
+the second half of 2015,DATE
+AWS,PRODUCT
+plateau,GPE
+Brian,PERSON
+Gene,PERSON
+between first half and second half of this year,DATE
+second,ORDINAL
+second,ORDINAL
+half of last year,DATE
+the call last quarter,DATE
+First,ORDINAL
+year-over-year,DATE
+the second half of the year,DATE
+Q3,GPE
+the quarter,DATE
+Q3,GPE
+18,CARDINAL
+five,CARDINAL
+October,DATE
+the year,DATE
+26,CARDINAL
+America,COUNTRY
+14,CARDINAL
+last year,DATE
+2012,DATE
+11,CARDINAL
+the third quarter,DATE
+Q3,GPE
+Q4,PERSON
+Amazon,ORG
+Amazon,ORG
+30%,PERCENT
+year-over-year,DATE
+Last year,DATE
+just under 20%,PERCENT
+next year,DATE
+this year,DATE
+2018,DATE
+2017,DATE
+the second half of this year,DATE
+Echo,PRODUCT
+Alexa,PRODUCT
+India,COUNTRY
+AWS,PRODUCT
+7:54,TIME
+Brian,PERSON
+Morgan Stanley,ORG
+Brian,PERSON
+Morgan Stanley,ORG
+two,CARDINAL
+first,ORDINAL
+Brian,PERSON
+quarter next year,DATE
+second,ORDINAL
+AWS,PRODUCT
+Amazon,ORG
+AWS,PRODUCT
+Brian,PERSON
+next year,DATE
+2018,DATE
+next year,DATE
+this year,DATE
+Darin Manney - Amazon.com,PERSON
+Brian,PERSON
+Darin,PERSON
+AWS,PRODUCT
+AWS,PRODUCT
+AWS,PRODUCT
+AWS,PRODUCT
+AWS,PRODUCT
+AWS,PRODUCT
+Ohio,GPE
+this past quarter,DATE
+a few months,DATE
+AWS,PRODUCT
+Mark Mahaney,PERSON
+RBC Capital Markets,ORG
+Mark Mahaney,PERSON
+RBC Capital Markets,ORG
+Brian,PERSON
+two,CARDINAL
+Maryland,GPE
+us,GPE
+Brian,PERSON
+Mark,PERSON
+this quarter,DATE
+Virginia,GPE
+Maryland,GPE
+Dallas,GPE
+Chicago,GPE
+monthly,DATE
+14.99,MONEY
+London,COUNTRY
+Prime Now,PRODUCT
+one to two hours,TIME
+up to 40,CARDINAL
+seven,CARDINAL
+17,CARDINAL
+last year,DATE
+Amazon,ORG
+Prime Now,PRODUCT
+19,CARDINAL
+two last year,DATE
+this year,DATE
+Prime Now,PRODUCT
+Darin Manney - Amazon.com,PERSON
+Mark,PERSON
+Darin,PERSON
+EGM,ORG
+Brian,PERSON
+the first half of this year,DATE
+Mark,PERSON
+Mark A.,PERSON
+Citigroup,ORG
+"Global Markets, Inc. (Broker)
+
+Thanks a lot. In some of these incremental investment areas like warehouses, logistics and also content, I know",ORG
+year-on-year,DATE
+first,ORDINAL
+Brian,PERSON
+second,ORDINAL
+this holiday season,DATE
+around holiday,DATE
+the New Year,DATE
+Q4,GPE
+Darin Manney - Amazon.com,PERSON
+Mark,PERSON
+Brian,PERSON
+the second half,DATE
+Youssef Squali,PERSON
+Cantor Fitzgerald,ORG
+Youssef Squali,PERSON
+Cantor Fitzgerald,ORG
+Two,CARDINAL
+Prime Video,PRODUCT
+Prime Video,PRODUCT
+Prime Video,PRODUCT
+2017,DATE
+2016,DATE
+2017,DATE
+Brian,PERSON
+first,ORDINAL
+four,CARDINAL
+UK,GPE
+Germany,COUNTRY
+Japan,COUNTRY
+India,COUNTRY
+Amazon Studios,PRODUCT
+third,ORDINAL
+next year,DATE
+the end of next quarter,DATE
+Q3,GPE
+Amazon,ORG
+18,CARDINAL
+one quarter,DATE
+five,CARDINAL
+the first three weeks,DATE
+the next quarter,DATE
+this year,DATE
+Colin Sebastian,PERSON
+Baird Equity Research,ORG
+Colin A.,PERSON
+Sebastian,PERSON
+secondly,ORDINAL
+AWS,PRODUCT
+Google,ORG
+today,DATE
+Brian,PERSON
+the holiday,DATE
+AWS,PRODUCT
+Google,ORG
+Q3,COUNTRY
+52nd,ORDINAL
+AWS,PRODUCT
+last quarter,DATE
+this year,DATE
+last year,DATE
+722,CARDINAL
+this quarter,DATE
+Justin Post,PERSON
+Merrill Lynch,ORG
+Justin Post,PERSON
+America,COUNTRY
+Merrill Lynch,ORG
+fourth quarter,DATE
+AWS,PRODUCT
+last year,DATE
+several years ago,DATE
+Brian,PERSON
+next year,DATE
+today,DATE
+the second half of this year,DATE
+AWS,PRODUCT
+Alexa,PRODUCT
+Echo,PRODUCT
+AWS,PRODUCT
+two,CARDINAL
+decades,DATE
+AWS,PRODUCT
+fourth,ORDINAL
+fifth,ORDINAL
+Heath Terry,PERSON
+Goldman Sachs,ORG
+Heath Terry,PERSON
+Goldman Sachs,ORG
+2014,DATE
+Brian,PERSON
+the first half of this year,DATE
+the last half,DATE
+the second half of last year,DATE
+the second half of this year,DATE
+the first half,DATE
+John Blackledge,PERSON
+Cowen & Company,ORG
+John Blackledge,PERSON
+Cowen & Co.,ORG
+two,CARDINAL
+Amazon,ORG
+one to two days,DATE
+second,ORDINAL
+Darin Manney - Amazon.com,PERSON
+John,PERSON
+Amazon,ORG
+one,CARDINAL
+Amazon,ORG
+Brian,PERSON
+three,CARDINAL
+one,CARDINAL
+Seattle,GPE
+San,GPE
+Diego,GPE
+Portland,GPE
+two,CARDINAL
+Boston,LOC
+one,CARDINAL
+Chicago,DATE
+Fire TV,PRODUCT
+Echo,PRODUCT
+Ben Schachter,PERSON
+Macquarie,ORG
+Ben Schachter,PERSON
+Macquarie,ORG
+this year,DATE
+Brian,PERSON
+this holiday,DATE
+the holiday,DATE
+38%,PERCENT
+year-over-year,DATE
+Q3,COUNTRY
+Prime Now,PRODUCT
+AWS,PRODUCT
+Echo,PRODUCT
+Alexa,PRODUCT
+Ben Schachter,PERSON
+Macquarie,ORG
+second,ORDINAL
+second,ORDINAL
+Neil,PERSON
+Mizuho,GPE
+Neil A.,PERSON
+India,COUNTRY
+India,COUNTRY
+today,DATE
+Brian,PERSON
+India,COUNTRY
+India,COUNTRY
+this past quarter,DATE
+India,COUNTRY
+third,ORDINAL
+India,COUNTRY
+India,COUNTRY
+Darin Manney - Amazon.com,PERSON
+Brian,PERSON
+Ben,ORG
+Ben,PERSON
+Darin,PERSON
+28%,PERCENT
+this year,DATE
+the prior quarter,DATE
+Brian,PERSON
+AFN,ORG
+Amazon,ORG
+first,ORDINAL
+28%,PERCENT
+Darin Manney - Amazon.com,PERSON
+today,DATE
+the end of the quarter,DATE
+Amazon.com,ORG
+next quarter,DATE

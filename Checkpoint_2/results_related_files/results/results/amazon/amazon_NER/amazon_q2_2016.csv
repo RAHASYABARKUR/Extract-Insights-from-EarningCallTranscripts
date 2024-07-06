@@ -1,0 +1,493 @@
+word,label
+Good day,DATE
+Amazon.com,ORG
+Today,DATE
+Darin Manney,PERSON
+Darin Manney,PERSON
+Amazon,ORG
+2016,DATE
+today,DATE
+Brian Olsavsky,PERSON
+"today, July 28, 2016",DATE
+today,DATE
+SEC,ORG
+annual,DATE
+today,DATE
+the quarter,DATE
+SEC,ORG
+the comparable period of 2015,DATE
+Brian,PERSON
+Brian,PERSON
+Darin,PERSON
+our second quarter,DATE
+42%,PERCENT
+$12.7 billion,MONEY
+$7.3 billion,MONEY
+$4.4 billion,MONEY
+$3.9 billion,MONEY
+$2.4 billion,MONEY
+$2.5 billion,MONEY
+$492 million,MONEY
+31%,PERCENT
+$30.4 billion,MONEY
+30%,PERCENT
+$166 million,MONEY
+year-over-year,DATE
+28%,PERCENT
+49%,PERCENT
+America,COUNTRY
+28%,PERCENT
+$17.7 billion,MONEY
+America,COUNTRY
+$702 million,MONEY
+4%,PERCENT
+$348 million,MONEY
+the prior year,DATE
+$5 million,MONEY
+30%,PERCENT
+$9.8 billion,MONEY
+$184 million,MONEY
+28%,PERCENT
+$135 million,MONEY
+$189 million,MONEY
+the prior year,DATE
+$40 million,MONEY
+Amazon,ORG
+58%,PERCENT
+$2.9 billion,MONEY
+Amazon,ORG
+$718 million,MONEY
+24.9%,PERCENT
+$305 million,MONEY
+the prior year,DATE
+$1.3 billion,MONEY
+4.2%,PERCENT
+approximately 220,CARDINAL
+year-over-year,DATE
+$45 million,MONEY
+$857 million or $1.78,MONEY
+$92 million or $0.19,MONEY
+today,DATE
+2016,DATE
+between $31 billion and $33.5 billion,MONEY
+between 22% and 32%,PERCENT
+approximately 30,CARDINAL
+between $50 million and $650 million,MONEY
+$406 million,MONEY
+third quarter 2015,DATE
+first,ORDINAL
+Darin Manney,PERSON
+Amazon,ORG
+Brian,PERSON
+SEC,ORG
+one,CARDINAL
+first,ORDINAL
+Mark,PERSON
+Citi,GPE
+Mark A.,PERSON
+Citigroup,ORG
+"Global Markets, Inc. (Broker)
+
+Thanks for taking my question. We've noticed some data",ORG
+America,COUNTRY
+India,COUNTRY
+Q3,COUNTRY
+Q3,COUNTRY
+Brian,PERSON
+Mark,PERSON
+$31 billion to $33.5 billion,MONEY
+22% to 32%,PERCENT
+60%,PERCENT
+the prior year,DATE
+a record day,DATE
+Amazon,ORG
+Q3,COUNTRY
+this year,DATE
+18,CARDINAL
+this quarter,DATE
+six,CARDINAL
+Q3,QUARTER
+last year,DATE
+up to 21,CARDINAL
+the year,DATE
+Q3,COUNTRY
+10,CARDINAL
+the first three quarters of last year,DATE
+Q4,GPE
+Q4,GPE
+This year,DATE
+28%,PERCENT
+Amazon,ORG
+last year,DATE
+22%,PERCENT
+600,CARDINAL
+this year,DATE
+last year,DATE
+22%,PERCENT
+last year,DATE
+26%,PERCENT
+the second half of this year,DATE
+the second half of 2015,DATE
+Amazon,ORG
+later this year,DATE
+Amazon,ORG
+the second half of last year,DATE
+India,COUNTRY
+AWS,PRODUCT
+two,CARDINAL
+Q3,GPE
+Darin Manney,PERSON
+Amazon,ORG
+Mark,PERSON
+approximately 30,CARDINAL
+Mark A.,PERSON
+Citigroup,ORG
+"Global Markets, Inc. (Broker)
+
+And, Brian",ORG
+the second half,DATE
+Brian,PERSON
+Mark A.,PERSON
+Citigroup,ORG
+"Global Markets, Inc. (Broker)
+
+Thanks.",ORG
+Douglas Anmuth,PERSON
+JPMorgan,ORG
+Douglas,PERSON
+JPMorgan,ORG
+the holiday season,DATE
+3Q,CARDINAL
+the third quarter,DATE
+Brian,PERSON
+Prime Day,DATE
+Amazon,ORG
+60%,PERCENT
+Prime Day 2015,DATE
+a record day,DATE
+Amazon,ORG
+a great day,DATE
+a great day,DATE
+Prime Day 2015,DATE
+Prime Day,DATE
+Prime Day,DATE
+a great day,DATE
+first,ORDINAL
+Darin Manney,PERSON
+Amazon,ORG
+this year,DATE
+America,COUNTRY
+AWS,PRODUCT
+this quarter,DATE
+Gene Munster,PERSON
+Piper Jaffray,ORG
+Gene Munster,PERSON
+Piper Jaffray,ORG
+afternoon,TIME
+First,ORDINAL
+Prime Now,PRODUCT
+Darin Manney,PERSON
+Amazon,ORG
+Gene,PERSON
+300 million,CARDINAL
+today,DATE
+Brian,PERSON
+Prime Now,PRODUCT
+Prime Now,PRODUCT
+more than 40,CARDINAL
+metro,FAC
+the past quarter,DATE
+Germany,COUNTRY
+Spain,COUNTRY
+France,COUNTRY
+two-hour,TIME
+tens of thousands,CARDINAL
+the same day,DATE
+11,CARDINAL
+27,CARDINAL
+same day,DATE
+Prime Now,PRODUCT
+Heath Terry,PERSON
+Goldman Sachs,ORG
+Heath Terry,PERSON
+Goldman Sachs,ORG
+Q3,GPE
+AWS,PRODUCT
+Brian,PERSON
+AWS,PRODUCT
+nine,CARDINAL
+four,CARDINAL
+the coming year,DATE
+Mumbai,GPE
+this past quarter,DATE
+AWS,PRODUCT
+Q3,COUNTRY
+Carlos Kirjner,PERSON
+Bernstein,ORG
+Carlos Kirjner,PERSON
+Bernstein,ORG
+Two,CARDINAL
+year-on-year,DATE
+the last two quarters,DATE
+mid-2010,DATE
+AWS,PRODUCT
+second,ORDINAL
+Prime Now,PRODUCT
+Prime Now,PRODUCT
+Brian,PERSON
+Amazon,ORG
+Amazon,ORG
+Amazon,ORG
+AWS,PRODUCT
+quarter-to-quarter,DATE
+AWS,PRODUCT
+Prime Now,PRODUCT
+London,COUNTRY
+Boston,GPE
+two,CARDINAL
+London,GPE
+first,ORDINAL
+seven years,DATE
+2007,DATE
+Seattle,GPE
+America,COUNTRY
+Boston,LOC
+London,COUNTRY
+Prime Now,PRODUCT
+one-hour,TIME
+two-hour,TIME
+Brian,PERSON
+Morgan Stanley,ORG
+Brian,PERSON
+Morgan Stanley,ORG
+two,CARDINAL
+first,ORDINAL
+Echo,PRODUCT
+Echo,PRODUCT
+Echo,PRODUCT
+second,ORDINAL
+AWS,PRODUCT
+AWS,PRODUCT
+the first half of this year,DATE
+Brian,PERSON
+Echo,PRODUCT
+Tab,PERSON
+Fire TV,PRODUCT
+this past year,DATE
+"1,900",CARDINAL
+third,ORDINAL
+Alexa,PRODUCT
+Kayak,ORG
+Lyft,GPE
+Honeywell,ORG
+Echo,PRODUCT
+Amazon,ORG
+Echo,PRODUCT
+Amazon,ORG
+AWS,PRODUCT
+quarter-to-quarter,DATE
+year-over-year,DATE
+Mark Mahaney,PERSON
+RBC Capital Markets,ORG
+Mark Mahaney,PERSON
+RBC Capital Markets,ORG
+Brian,PERSON
+North American,NORP
+last quarter,DATE
+Brian,PERSON
+Mark,PERSON
+Prime membership,PRODUCT
+America,COUNTRY
+Youssef Squali,PERSON
+Cantor Fitzgerald,ORG
+Youssef Squali,PERSON
+Cantor Fitzgerald,ORG
+Two,CARDINAL
+Brian,PERSON
+the last couple of quarters,DATE
+delta,ORG
+second,ORDINAL
+Prime Video,PRODUCT
+one,CARDINAL
+Brian,PERSON
+second,ORDINAL
+first,ORDINAL
+Prime Video,PRODUCT
+Prime Video,PRODUCT
+the second half of the year,DATE
+last year's,DATE
+second,ORDINAL
+Amazon,ORG
+India,COUNTRY
+India,COUNTRY
+Amazon,ORG
+today,DATE
+Amazon,ORG
+Q3,COUNTRY
+quarter-to-quarter,DATE
+Jason Helfstein,PERSON
+Oppenheimer,ORG
+Helfstein,PERSON
+Oppenheimer,ORG
+Jason Helfstein,PERSON
+AWS,PRODUCT
+AWS,PRODUCT
+Google,ORG
+Microsoft,ORG
+AWS,PRODUCT
+Brian,PERSON
+first,ORDINAL
+AWS,PRODUCT
+three,CARDINAL
+us,GPE
+AWS,PRODUCT
+mobile,PERSON
+AWS,PRODUCT
+422,CARDINAL
+the first half of this year,DATE
+last year,DATE
+722,CARDINAL
+Colin Sebastian,PERSON
+Robert W. Baird,PERSON
+Colin A.,PERSON
+Sebastian,PERSON
+secondly,ORDINAL
+Brian,PERSON
+First,ORDINAL
+EGM,ORG
+EGM,ORG
+America,COUNTRY
+32%,PERCENT
+36%,PERCENT
+many years,DATE
+Brian Pitz,PERSON
+Jefferies,ORG
+Brian,PERSON
+Pitz,PERSON
+Jefferies,ORG
+First,ORDINAL
+the next four to five weeks,DATE
+Brian,PERSON
+second,ORDINAL
+Prime Day,DATE
+Fire TV,PRODUCT
+Echo,PRODUCT
+first,ORDINAL
+Amazon,ORG
+Justin Post,PERSON
+Merrill Lynch,ORG
+Justin Post,PERSON
+Merrill Lynch,ORG
+"Pierce, Fenner & Smith, Inc.",ORG
+First,ORDINAL
+second,ORDINAL
+Darin Manney,PERSON
+Amazon,ORG
+Justin,PERSON
+Darin,PERSON
+Brian,PERSON
+America,COUNTRY
+monthly,DATE
+Ross Sandler,PERSON
+Deutsche Bank,ORG
+Ross Sandler,PERSON
+Deutsche Bank,ORG
+two,CARDINAL
+First,ORDINAL
+UK,GPE
+a couple years,DATE
+second,ORDINAL
+AWS,PRODUCT
+Darin Manney,PERSON
+Amazon,ORG
+Ross,PERSON
+Darin,PERSON
+first,ORDINAL
+UK,GPE
+millions,CARDINAL
+UK,GPE
+one,CARDINAL
+UK,GPE
+today,DATE
+Brian,PERSON
+AWS,PRODUCT
+Eric Sheridan,PERSON
+UBS,ORG
+Eric,PERSON
+UBS Securities,ORG
+one,CARDINAL
+one,CARDINAL
+year-on-year,DATE
+the second half,DATE
+second half of this year,DATE
+first,ORDINAL
+half of this year,DATE
+China,COUNTRY
+China,COUNTRY
+China,COUNTRY
+Darin Manney,PERSON
+Amazon,ORG
+Eric,PERSON
+Darin,PERSON
+second,ORDINAL
+China,COUNTRY
+China,COUNTRY
+China,COUNTRY
+China,COUNTRY
+Chinese,NORP
+Chinese,NORP
+Amazon,ORG
+Chinese,NORP
+China,COUNTRY
+early days,DATE
+Brian,PERSON
+$1.3 billion,MONEY
+2014,DATE
+the second half of 2015,DATE
+Victor Anthony,PERSON
+Victor Anthony,PERSON
+India,COUNTRY
+India,COUNTRY
+second,ORDINAL
+about $500 million,MONEY
+Italy,COUNTRY
+Brian,PERSON
+India,COUNTRY
+India,COUNTRY
+third,ORDINAL
+this week,DATE
+Indian,NORP
+hundreds,CARDINAL
+one-day,DATE
+two-day,DATE
+Prime Video,PRODUCT
+Indian,NORP
+Motorola,ORG
+Samsung,ORG
+Lenovo,ORG
+India,COUNTRY
+Amazonian,NORP
+India,COUNTRY
+India,COUNTRY
+India,COUNTRY
+Indian,NORP
+Darin Manney,PERSON
+Amazon,ORG
+Italy,COUNTRY
+Italy,COUNTRY
+Europe,LOC
+Italy,COUNTRY
+2010,DATE
+â¬450 million,CARDINAL
+"1,700",CARDINAL
+Italy,COUNTRY
+Rome,GPE
+Italy,COUNTRY
+Europe,LOC
+the coming years,DATE
+Darin Manney,PERSON
+Amazon,ORG
+today,DATE
+the end of the quarter,DATE
+Amazon.com,ORG
+next quarter,DATE

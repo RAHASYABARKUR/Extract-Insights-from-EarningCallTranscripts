@@ -1,0 +1,14 @@
+apple,amazon,boa
+appl.pt,amazon.pt,boa.pt
+apple_path,amazon_path,boa_path
+apple_name,amazon_name,boa_name
+apple_quarter,amazon_quarter,boa_quarter
+Country,Country,Country
+Country replace,Country replace,Country replace
+apple,amazon,fin
+apple replace,amazon replace,fin replace
+prod_apple.csv,prod_amazon.csv,prod_boa.csv
+country_apple.csv,country_amazon.csv,country_boa.csv
+country_apple.png,country_amazon.png,country_boa.png
+product_apple.mp4,product_amazon.mp4,product_boa.mp4
+30,15,22

@@ -1,0 +1,373 @@
+word,label
+Amazon.com,ORG
+Today,DATE
+Darin Manney,PERSON
+Darin Manney - Amazon.com,PERSON
+2016,DATE
+today,DATE
+Brian Olsavsky,PERSON
+today,DATE
+the quarter,DATE
+the comparable period of 2015,DATE
+"today, February 2, 2017",DATE
+today,DATE
+SEC,ORG
+Annual,DATE
+SEC,ORG
+today,DATE
+SEC,ORG
+SEC,ORG
+SEC,ORG
+2015,DATE
+SEC,ORG
+10-K.,CARDINAL
+2016,DATE
+SEC,ORG
+March 1,DATE
+first,ORDINAL
+John Blackledge,PERSON
+Cowan,GPE
+John Blackledge,PERSON
+Cowen & Co.,ORG
+the first quarter,DATE
+2017,DATE
+Brian,PERSON
+John,PERSON
+First,ORDINAL
+17% to 25%,PERCENT
+approximately 250,CARDINAL
+$730 million,MONEY
+14% to 23%,PERCENT
+the leap year,DATE
+last year,DATE
+Last year,DATE
+the extra day of leap year,DATE
+150,CARDINAL
+Q1,GPE
+This year,DATE
+150-basis,CARDINAL
+John,PERSON
+the second half of last year,DATE
+26,CARDINAL
+last year,DATE
+23,CARDINAL
+the second half of the year,DATE
+Digital,ORG
+digital,ORG
+the second half of the year,DATE
+two,CARDINAL
+Prime Now,PRODUCT
+Alexa,PRODUCT
+Echo,PRODUCT
+India,COUNTRY
+Scott Devitt,PERSON
+Scott Devitt,PERSON
+Nicolaus & Co.,ORG
+2017,DATE
+quarterly,DATE
+Amazon,ORG
+Brian,PERSON
+one,CARDINAL
+Prime Video,PRODUCT
+2016,DATE
+Prime hours,TIME
+Prime Video,PRODUCT
+the second half,DATE
+Q4,GPE
+over 200,CARDINAL
+the second half of last year,DATE
+2017,DATE
+Ben Schachter,PERSON
+Macquarie,ORG
+Benjamin Schachter,PERSON
+Macquarie,ORG
+China,COUNTRY
+Darin Manney - Amazon.com,PERSON
+Ben,PERSON
+Darin,PERSON
+China,COUNTRY
+China,COUNTRY
+Chinese,NORP
+China,COUNTRY
+China,COUNTRY
+Justin Post,PERSON
+America,COUNTRY
+Merrill Lynch,ORG
+Justin Post,PERSON
+America,COUNTRY
+Merrill Lynch,ORG
+India,COUNTRY
+China,COUNTRY
+China,COUNTRY
+this year,DATE
+Brian,PERSON
+India,COUNTRY
+India,COUNTRY
+the last few years,DATE
+last summer,DATE
+Prime Video,PRODUCT
+India,COUNTRY
+India,COUNTRY
+Darin Manney - Amazon.com,PERSON
+China,COUNTRY
+China,COUNTRY
+China,COUNTRY
+China,COUNTRY
+Heath Terry,PERSON
+Goldman Sachs,ORG
+Heath Terry,PERSON
+Goldman Sachs,ORG
+Two,CARDINAL
+third,ORDINAL
+150-basis,CARDINAL
+leap year,DATE
+the first quarter,DATE
+the fourth quarter,DATE
+AWS,PRODUCT
+November,DATE
+Brian,PERSON
+second,ORDINAL
+first,ORDINAL
+AWS,PRODUCT
+$14 billion,MONEY
+$14 billion,MONEY
+seven,CARDINAL
+Q4,GPE
+December 1,DATE
+about 1/3,CARDINAL
+Q4,GPE
+Q4,PERSON
+last year,DATE
+"over 1,000",CARDINAL
+700,CARDINAL
+2015,DATE
+second,ORDINAL
+first,ORDINAL
+70%,PERCENT
+2016,DATE
+Amazon,ORG
+nearly 40%,PERCENT
+last year,DATE
+24%,PERCENT
+Amazon,ORG
+every day,DATE
+Colin Sebastian,PERSON
+Robert W. Baird,PERSON
+Colin,PERSON
+Sebastian,PERSON
+the quarter,DATE
+Cincinnati,GPE
+Brian,PERSON
+Colin,PERSON
+first,ORDINAL
+this holiday season,DATE
+the holiday,DATE
+12 months,DATE
+second,ORDINAL
+Cincinnati,GPE
+Kentucky,GPE
+Hebron,GPE
+Kentucky,GPE
+thousands,CARDINAL
+AFN,CARDINAL
+Amazon,ORG
+last year,DATE
+year-over-year,DATE
+Mark,PERSON
+Mark A.,PERSON
+Citigroup,ORG
+"Global Markets, Inc.
+
+Thank",ORG
+the last several quarters,DATE
+year,DATE
+this quarter,DATE
+24%,PERCENT
+the 26%,PERCENT
+Q4 of 2015,DATE
+the past few quarters,DATE
+this quarter,DATE
+Q1,GPE
+AWS,PRODUCT
+Brian,PERSON
+second,ORDINAL
+December 1,DATE
+leap day,EVENT
+FX,ORG
+$730 million,MONEY
+250,CARDINAL
+Darin Manney - Amazon.com,PERSON
+Mark,PERSON
+Darin,PERSON
+the 24%,PERCENT
+Brian,PERSON
+28%,PERCENT
+Amazon,ORG
+first,ORDINAL
+nearly 40%,PERCENT
+2016,DATE
+FREE Two-Day,DATE
+Same-Day,DATE
+Next-Day,DATE
+Prime Now,PRODUCT
+1-Hour,CARDINAL
+Prime membership,PRODUCT
+Douglas Anmuth,PERSON
+JPMorgan,ORG
+Douglas,PERSON
+JPMorgan,ORG
+secondly,ORDINAL
+26,CARDINAL
+2016,DATE
+2017,DATE
+Brian,PERSON
+first,ORDINAL
+second,ORDINAL
+2017,DATE
+20%,PERCENT
+2015,DATE
+30%,PERCENT
+2016,DATE
+40%,PERCENT
+Mark Mahaney,PERSON
+RBC Capital Markets,ORG
+Mark Mahaney,PERSON
+RBC Capital Markets,ORG
+Two,CARDINAL
+First,ORDINAL
+the year,DATE
+Echo,PRODUCT
+Amazon,ORG
+Echo,PRODUCT
+Amazon,ORG
+Brian,PERSON
+Echo,PRODUCT
+Echo,PRODUCT
+early days,DATE
+Alexa,PRODUCT
+Echo,PRODUCT
+nine,CARDINAL
+9x,CARDINAL
+year-over-year,DATE
+the holiday period,DATE
+Echo,PRODUCT
+Alexa,PRODUCT
+"4,000",CARDINAL
+Alexa,PRODUCT
+October,DATE
+Alexa,PRODUCT
+Echo,PRODUCT
+Tens of thousands,CARDINAL
+Alexa,PRODUCT
+tens of thousands,CARDINAL
+Alexa,PRODUCT
+Alexa,PRODUCT
+the quarter,DATE
+Alexa,PRODUCT
+Fire TV,PRODUCT
+Echo,PRODUCT
+Alexa,PRODUCT
+Echo,PRODUCT
+Alexa,PRODUCT
+Amazon,ORG
+Darin Manney - Amazon.com,PERSON
+Mark,PERSON
+Darin,PERSON
+this quarter,DATE
+300 million,CARDINAL
+Brian,PERSON
+this year,DATE
+Brian,PERSON
+Morgan Stanley,ORG
+Brian,PERSON
+Morgan Stanley,ORG
+two,CARDINAL
+first,ORDINAL
+UK,GPE
+secondly,ORDINAL
+Amazon,ORG
+Brian,PERSON
+first,ORDINAL
+Amazon,ORG
+UK,GPE
+more years,DATE
+London,GPE
+Amazon,ORG
+second,ORDINAL
+Amazon,ORG
+Seattle,GPE
+the fourth quarter,DATE
+only one,CARDINAL
+Amazon,ORG
+three,CARDINAL
+Seattle,GPE
+San,GPE
+Diego,GPE
+Portland,GPE
+five,CARDINAL
+today,DATE
+Jason Helfstein,PERSON
+Oppenheimer,ORG
+Jason Helfstein,PERSON
+Oppenheimer,ORG
+Two,CARDINAL
+the first quarter in 2017,DATE
+India,COUNTRY
+AWS,PRODUCT
+AWS,PRODUCT
+Brian,PERSON
+America,COUNTRY
+last year,DATE
+26,CARDINAL
+Prime Video,PRODUCT
+India,COUNTRY
+Prime Video,PRODUCT
+America,COUNTRY
+two,CARDINAL
+AWS,PRODUCT
+Last year,DATE
+UK,GPE
+Canada,COUNTRY
+42,CARDINAL
+16,CARDINAL
+India,COUNTRY
+Darin Manney - Amazon.com,PERSON
+AWS,PRODUCT
+millions,CARDINAL
+AWS,PRODUCT
+AWS,PRODUCT
+many years,DATE
+Q4,LOC
+2016,DATE
+Eric Sheridan,PERSON
+UBS,ORG
+Eric,PERSON
+UBS Securities,ORG
+two,CARDINAL
+America,COUNTRY
+one,CARDINAL
+India,COUNTRY
+Brian,PERSON
+Darin Manney - Amazon.com,PERSON
+contra,ORG
+EGM,ORG
+India,COUNTRY
+today,DATE
+Anthony DiClemente,PERSON
+Nomura,ORG
+Anthony DiClemente,PERSON
+Nomura,ORG
+Prime Video,PRODUCT
+the hours,TIME
+the hours,TIME
+Prime Video,PRODUCT
+Amazon Prime,PRODUCT
+app,ORG
+Brian,PERSON
+two,CARDINAL
+Prime Video,PRODUCT
+Darin Manney - Amazon.com,PERSON
+today,DATE
+the end of the quarter,DATE
+Amazon.com,ORG
+next quarter,DATE

@@ -1,0 +1,322 @@
+word,label
+Amazon.com,ORG
+2019,DATE
+Today,DATE
+Shelly Kay,PERSON
+Shelly Kay,PERSON
+2019,DATE
+today,DATE
+Brian Olsavsky,PERSON
+Dave Fildes,PERSON
+the quarter,DATE
+the comparable period of,DATE
+2018,DATE
+"today, January 30, 2020",DATE
+SEC,ORG
+Annual,DATE
+SEC,ORG
+today,DATE
+SEC,ORG
+first,ORDINAL
+Heath Terry,PERSON
+Goldman Sachs,ORG
+Heath Terry,PERSON
+AWS,PRODUCT
+the quarter,DATE
+quarter-over-quarter,DATE
+the year,DATE
+Brian Olsavsky,PERSON
+one,CARDINAL
+gap,ORG
+AWS,PRODUCT
+millions,CARDINAL
+tens of thousands,CARDINAL
+69,CARDINAL
+22,CARDINAL
+Colin Sebastian,PERSON
+Robert W. Baird,PERSON
+Colin Sebastian,PERSON
+third,ORDINAL
+Brian Olsavsky,PERSON
+31%,PERCENT
+MFN,ORG
+third,ORDINAL
+one-day,DATE
+the year,DATE
+2020,DATE
+Justin Post,PERSON
+America,COUNTRY
+Justin Post,PERSON
+the quarter,DATE
+AWS,PRODUCT
+Brian Olsavsky,PERSON
+$87.4 billion,MONEY
+$86.5 billion,MONEY
+$400 million,MONEY
+roughly $400 million,MONEY
+the middle of November,DATE
+one-day,DATE
+the year,DATE
+more than 150 million,CARDINAL
+Q4,GPE
+one-day,DATE
+one-day,DATE
+AWS,PRODUCT
+2018,DATE
+AWS,PRODUCT
+30%,PERCENT
+prior years,DATE
+multiyear,DATE
+$30 billion,MONEY
+year-end,DATE
+54%,PERCENT
+year-over-year,DATE
+Jason Helfstein,PERSON
+Oppenheimer,ORG
+Jason Helfstein,PERSON
+AWS,PRODUCT
+AWS,PRODUCT
+Brian Olsavsky,PERSON
+$30 billion,MONEY
+the end of 2018,DATE
+$40 billion,MONEY
+the end of 2019,DATE
+year-over-year,DATE
+quarter-over-quarter,DATE
+our many years,DATE
+December,DATE
+over 100,CARDINAL
+December,DATE
+first,ORDINAL
+Stephen,PERSON
+Credit Suisse,ORG
+Stephen,PERSON
+India,COUNTRY
+second,ORDINAL
+Amazon,ORG
+Dave Fildes,PERSON
+Stephen,PERSON
+Dave,PERSON
+India,COUNTRY
+$1 billion,MONEY
+India,COUNTRY
+more than 10 million,CARDINAL
+2025,DATE
+$1 billion,MONEY
+$10 billion,MONEY
+Indian,NORP
+2025,DATE
+India,COUNTRY
+2013,DATE
+"over 700,000",CARDINAL
+additional one million,CARDINAL
+India,COUNTRY
+2025,DATE
+Amazon,ORG
+India,COUNTRY
+India,COUNTRY
+Brian,PERSON
+Morgan Stanley,ORG
+Brian,PERSON
+two,CARDINAL
+first,ORDINAL
+Brian,PERSON
+one,CARDINAL
+one-day,DATE
+next-day,DATE
+about $1 billion,MONEY
+that current quarter,DATE
+one-day,DATE
+2020,DATE
+one day,DATE
+Brian Olsavsky,PERSON
+last year,DATE
+close to $800 million,MONEY
+the second quarter,DATE
+Q3,GPE
+Q3,GPE
+Q4,GPE
+$1.5 billion,MONEY
+approximately $1 billion,MONEY
+year-over-year,DATE
+zero,CARDINAL
+first,ORDINAL
+last year,DATE
+two-day,DATE
+one-day,DATE
+last year,DATE
+15%,PERCENT
+the last two years,DATE
+this year,DATE
+one-day,DATE
+Q1,GPE
+one-day,DATE
+Third,ORDINAL
+the years,DATE
+third,ORDINAL
+one-day,DATE
+Dan,GPE
+BMO Capital Markets,ORG
+Dan,PERSON
+one-day,DATE
+the second quarter,DATE
+one-day,DATE
+the holiday season,DATE
+Brian Olsavsky,PERSON
+one-day,DATE
+one-day,DATE
+the year,DATE
+last year,DATE
+2020,DATE
+one-day,DATE
+Europe,LOC
+Japan,COUNTRY
+one-day,DATE
+2020,DATE
+Dave Fildes,PERSON
+about 41%,PERCENT
+year-over-year,DATE
+the fourth quarter,DATE
+the third quarter,DATE
+Eric Sheridan,PERSON
+UBS,ORG
+Eric Sheridan,PERSON
+two,CARDINAL
+AWS,PRODUCT
+AWS,PRODUCT
+second,ORDINAL
+AWS,PRODUCT
+Brian Olsavsky,PERSON
+AWS,PRODUCT
+Q4 of 2019,DATE
+four years,DATE
+three years,DATE
+four year,DATE
+four years,DATE
+three,CARDINAL
+over 13 years,DATE
+AWS,PRODUCT
+Amazon,ORG
+AWS,PRODUCT
+AWS,PRODUCT
+the last two years,DATE
+800,MONEY
+$800 million,MONEY
+the quarter,DATE
+quarter-to-quarter,DATE
+about $2.3 billion,MONEY
+2020,DATE
+Dave Fildes,PERSON
+Dave,PERSON
+$800 million,MONEY
+the year,DATE
+AWS,PRODUCT
+Ron Josey,DATE
+JMP Securities,ORG
+Ron Josey,PERSON
+Brian,PERSON
+the holiday season,DATE
+holiday shopping season,DATE
+third,ORDINAL
+about the six less days,DATE
+last quarter,DATE
+Japanese,NORP
+Brian Olsavsky,PERSON
+First,ORDINAL
+two,CARDINAL
+last quarter,DATE
+Japan,COUNTRY
+8% to 10%,PERCENT
+October 1,DATE
+Japanese,NORP
+Q3,COUNTRY
+October 1,DATE
+Diwali,PERSON
+Indian,NORP
+the third quarter this year,DATE
+2019,DATE
+2018,DATE
+Q3,COUNTRY
+two,CARDINAL
+about 300,CARDINAL
+Dave Fildes,PERSON
+Brian Olsavsky,PERSON
+first,ORDINAL
+the holiday season,DATE
+the middle of November,DATE
+November through the holiday season,DATE
+Black Friday,DATE
+Monday,DATE
+the six days,DATE
+Thanksgiving,DATE
+Doug Anmuth,PERSON
+JPMorgan,ORG
+Doug Anmuth,PERSON
+Amazon Fresh,PRODUCT
+14.99,MONEY
+"2,000",CARDINAL
+two-hour,TIME
+Brian Olsavsky,PERSON
+Amazon Fresh,PRODUCT
+Whole Foods,PRODUCT
+the fourth quarter year-over-year,DATE
+Whole Foods,PRODUCT
+Prime Now,PRODUCT
+Amazon,ORG
+Mark Mahaney,PERSON
+RBC Capital Markets,ORG
+Mark Mahaney,PERSON
+three,CARDINAL
+the quarter,DATE
+last quarter,DATE
+this quarter,DATE
+Second,ORDINAL
+every year,DATE
+the last five years,DATE
+This year,DATE
+the fourth quarter,DATE
+AWS,PRODUCT
+one,CARDINAL
+Sunday,DATE
+AWS,PRODUCT
+the Seattle Seahawks,ORG
+49ers,CARDINAL
+Brian Olsavsky,PERSON
+49ers,CARDINAL
+first,ORDINAL
+second,ORDINAL
+Dave Fildes,PERSON
+third,ORDINAL
+3P,CARDINAL
+Brian,PERSON
+many billions of dollars,MONEY
+AWS,PRODUCT
+around 43%,PERCENT
+year-over-year,DATE
+2018,DATE
+one-day,DATE
+Brian,PERSON
+$1.5 billion,MONEY
+Brian Olsavsky,PERSON
+Q4,GPE
+AWS,PRODUCT
+quarter,CARDINAL
+one,CARDINAL
+this year,DATE
+2018,DATE
+zero,CARDINAL
+2016,DATE
+2017,DATE
+Q1 of 2019,DATE
+last year,DATE
+one day,DATE
+one-day,DATE
+Q1 of last year,DATE
+between quarters anymore,DATE
+$800 million,MONEY
+$3 billion to $4.2 billion,MONEY
+Dave Fildes,PERSON
+today,DATE
+the end of the quarter,DATE
+Amazon,ORG
+next quarter,DATE

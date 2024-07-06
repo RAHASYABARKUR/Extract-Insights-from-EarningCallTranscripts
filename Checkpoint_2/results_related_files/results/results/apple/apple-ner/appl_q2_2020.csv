@@ -1,0 +1,572 @@
+word,label
+Good day,DATE
+Apple,ORG
+Second Quarter Fiscal Year 2020,DATE
+Tejas Gala,PERSON
+Tejas Gala,PERSON
+afternoon,TIME
+first,ORDINAL
+today,DATE
+Tim Cook,PERSON
+Luca Maestri,PERSON
+today,DATE
+COVID-19,CARDINAL
+Companyâs,CARDINAL
+SEC,ORG
+today,DATE
+the associated press release,ORG
+Apple,ORG
+Iâd,PERSON
+Tim,PERSON
+Tim Cook,PERSON
+Tejas,PERSON
+afternoon,TIME
+today,DATE
+youâre,NORP
+Today,DATE
+Apple,ORG
+$58.3 billion,MONEY
+quarterly,DATE
+Wearables,NORP
+quarterly,DATE
+Apple,ORG
+Apple,ORG
+the quarter,DATE
+COVID-19,CARDINAL
+Apple,ORG
+January,DATE
+COVID-19,DISEASE
+Apple,ORG
+more than 30 million,CARDINAL
+iPad Pro,PRODUCT
+Magic Keyboard,PRODUCT
+MacBook Air,PRODUCT
+iPhone SE,PRODUCT
+more than 7.5 million,CARDINAL
+more than 1 million,CARDINAL
+these every week,DATE
+a quarter,DATE
+Luca,PERSON
+COVID-19,DISEASE
+Apple News,PRODUCT
+125 million,CARDINAL
+monthly,DATE
+Apple Card,PRODUCT
+March,DATE
+April,DATE
+Oprah,PERSON
+Lady Gaga,PERSON
+Apple,ORG
+TV,PRODUCT
+FaceTime,PRODUCT
+daily,DATE
+this quarter,DATE
+first,ORDINAL
+later this quarter,DATE
+COVID-19,DISEASE
+CDC,ORG
+today,DATE
+app,ORG
+nearly 2 million,CARDINAL
+3 million,CARDINAL
+just this month,DATE
+Google,ORG
+Americans,NORP
+2,CARDINAL
+1,CARDINAL
+a quarter,DATE
+February,DATE
+the end of March,DATE
+iPads,PRODUCT
+tens of thousands,CARDINAL
+Ontario,GPE
+Canada,COUNTRY
+Glasgow,GPE
+Scotland,COUNTRY
+Puerto Rico,GPE
+"100,000",CARDINAL
+"350,000",CARDINAL
+New York City,GPE
+iPad,PRODUCT
+early March,DATE
+Apple Watch,PRODUCT
+ECG,ORDINAL
+Apple Watch,PRODUCT
+ECG,PRODUCT
+Stanford,ORG
+iPad,PRODUCT
+iPhone,PRODUCT
+COVID-19,DISEASE
+Apple,ORG
+the quarter,DATE
+$58.3 billion,MONEY
+$45 billion,MONEY
+three,CARDINAL
+the March quarter,DATE
+the first five weeks of the quarter,DATE
+a record second quarter,DATE
+the next five weeks of the quarter,DATE
+COVID-19,DISEASE
+China,COUNTRY
+iPhone,PRODUCT
+China,COUNTRY
+February,DATE
+China,COUNTRY
+the last three weeks of the quarter,DATE
+China,COUNTRY
+March 13th,DATE
+iPhone,PRODUCT
+Wearables,NORP
+the coming quarter,DATE
+COVID-19,CARDINAL
+iPhone,PRODUCT
+fiscal 2016,DATE
+2020,DATE
+Apple,ORG
+five-year,DATE
+$350 billion,MONEY
+United States,COUNTRY
+today,DATE
+Apple,ORG
+Luca,PERSON
+Luca Maestri,PERSON
+Tim,PERSON
+afternoon,TIME
+the end of January,DATE
+Apple,ORG
+the quarter,DATE
+$58.3 billion,MONEY
+1%,PERCENT
+a year ago,DATE
+COVID-19,DISEASE
+100,CARDINAL
+$45 billion,MONEY
+3%,PERCENT
+a very strong January,DATE
+the last three weeks of the quarter,DATE
+COVID-19,CARDINAL
+iPhone,PRODUCT
+a year ago,DATE
+year-over-year,DATE
+17%,PERCENT
+$13.3 billion,MONEY
+this later,DATE
+38.4%,PERCENT
+30.3%,PERCENT
+380,CARDINAL
+COVID-19,DISEASE
+65.4%,PERCENT
+100,CARDINAL
+the quarter,DATE
+14.4%,PERCENT
+16.5%,PERCENT
+$11.2 billion,MONEY
+2.55,MONEY
+4%,PERCENT
+$13.3 billion,MONEY
+$2.2 billion,MONEY
+a year ago,DATE
+iPhone,PRODUCT
+$29 billion,MONEY
+7%,PERCENT
+year-over-year,DATE
+iPhone,PRODUCT
+COVID-19,DISEASE
+the quarter,DATE
+February,DATE
+the quarter,DATE
+five weeks,DATE
+COVID-19,DISEASE
+China,COUNTRY
+the next five weeks,DATE
+the last three weeks of the quarter,DATE
+the end of the quarter,DATE
+iPhones,PRODUCT
+451,CARDINAL
+iPhone,PRODUCT
+99%,PERCENT
+iPhone 11,PRODUCT
+11 Pro,PRODUCT
+11 Pro,PRODUCT
+$13.3 billion,MONEY
+App Store,PRODUCT
+Apple Music,PRODUCT
+App Store,PRODUCT
+March quarter,DATE
+AppleCare,PRODUCT
+Apple,ORG
+TV,PRODUCT
+Apple Arcade,PRODUCT
+Apple News,PRODUCT
+Apple Card,PRODUCT
+Tim,PERSON
+â16,ORG
+2020,DATE
+App Store,PRODUCT
+third,ORDINAL
+over 30%,PERCENT
+year-over-year,DATE
+first party,ORG
+Apple Music,PRODUCT
+AppleCare,PRODUCT
+March quarter,DATE
+three,CARDINAL
+the March quarter,DATE
+over 515 million,CARDINAL
+125 million,CARDINAL
+a year ago,DATE
+over 35 million,CARDINAL
+600 million,CARDINAL
+the end of calendar 2020,DATE
+Wearables,NORP
+March quarter,DATE
+$6.3 billion,MONEY
+23%,PERCENT
+year-over-year,DATE
+five,CARDINAL
+Wearables,NORP
+140,CARDINAL
+Apple Watch,PRODUCT
+over 75%,PERCENT
+Apple Watch,PRODUCT
+the quarter,DATE
+Iâd,PERSON
+iPad,PRODUCT
+Mac,ORG
+$5.4 billion,MONEY
+iPad,PRODUCT
+$4.4 billion,MONEY
+the end of the quarter,DATE
+iPad Pro,PRODUCT
+first,ORDINAL
+MacBook Air,PRODUCT
+around half,CARDINAL
+iPads,PRODUCT
+the quarter,DATE
+iPad,PRODUCT
+451,CARDINAL
+95%,PERCENT
+iPad,PRODUCT
+96%,PERCENT
+Mac,ORG
+iPad,PRODUCT
+Mac,ORG
+IBM,ORG
+Apple,ORG
+zero,CARDINAL
+just a few hours,TIME
+Peloton,GPE
+Joeâs,GPE
+Woolworths,GPE
+Lawsonâs,GPE
+Sainsburyâs,GPE
+Lidl,ORG
+Carrefour,ORG
+Apple Pay,PRODUCT
+iOS,PRODUCT
+daily,DATE
+America,COUNTRY
+tens of thousands,CARDINAL
+iOS,PRODUCT
+First,ORDINAL
+the quarter,DATE
+$193 billion,MONEY
+$110 billion,MONEY
+$83 billion,MONEY
+the end of the quarter,DATE
+$22 billion,MONEY
+the March quarter,DATE
+$18.5 billion,MONEY
+64.7 million,CARDINAL
+Apple,ORG
+$3.4 billion,MONEY
+the June quarter,DATE
+Iâd,PERSON
+Tejas,PERSON
+Tim,PERSON
+the coming quarter,DATE
+April,DATE
+more than $1.5 billion,MONEY
+iPad,PRODUCT
+MacBook Air,PRODUCT
+iPhone SE,PRODUCT
+iPhone,PRODUCT
+Wearables,NORP
+year-over-year,DATE
+the June quarter,DATE
+the March quarter,DATE
+iPad,PRODUCT
+Mac,ORG
+year-over-year,DATE
+the June quarter,DATE
+two,CARDINAL
+First,ORDINAL
+App Store,PRODUCT
+the June quarter,DATE
+Second,ORDINAL
+AppleCare,PRODUCT
+AppleCare,PRODUCT
+third,ORDINAL
+App Store,PRODUCT
+Apple News,PRODUCT
+70,CARDINAL
+130,CARDINAL
+year-over-year,DATE
+over $350 billion,MONEY
+five-year,DATE
+today,DATE
+$50 billion,MONEY
+over $40 billion,MONEY
+6%,PERCENT
+quarterly,DATE
+today,DATE
+0.82,MONEY
+"May 14, 2020",DATE
+"May 11, 2020",DATE
+Apple,ORG
+Tejas Gala,PERSON
+Luca,PERSON
+two,CARDINAL
+first,ORDINAL
+Shannon,PERSON
+Cross Research,ORG
+Shannon,PERSON
+Tim,PERSON
+the second half of April,DATE
+youâre,NORP
+youâre,NORP
+youâre,NORP
+Tim Cook,PERSON
+Shannon,PERSON
+China,COUNTRY
+China,COUNTRY
+the end of January,DATE
+February,DATE
+February,DATE
+mid-February,DATE
+the second half of February,DATE
+about 30 days,DATE
+mid-March,DATE
+March,DATE
+February,DATE
+today,DATE
+April,DATE
+March,DATE
+China,COUNTRY
+January,DATE
+the first five weeks of the quarter,DATE
+The next five weeks,DATE
+China,COUNTRY
+March,DATE
+two,CARDINAL
+three weeks,DATE
+the end of the quarter,DATE
+April,DATE
+early April,DATE
+the end of March,DATE
+the second half of April,DATE
+April,DATE
+Luca,PERSON
+iPad,PRODUCT
+this quarter,DATE
+Shannon,PERSON
+Luca,PERSON
+the quarter,DATE
+youâre,NORP
+OpEx,ORG
+Luca Maestri,PERSON
+Shannon,PERSON
+Intel,ORG
+Tejas Gala,PERSON
+Shannon,PERSON
+Wamsi Mohan,PERSON
+America,COUNTRY
+Wamsi Mohan,PERSON
+Tim,PERSON
+Tim Cook,PERSON
+Wamsi Mohan,PERSON
+Tim,PERSON
+Apple,ORG
+the next several quarters,DATE
+Tim Cook,PERSON
+iPhone SE,PRODUCT
+iPad Pro,PRODUCT
+Magic Keyboard,PRODUCT
+MacBook Air,PRODUCT
+Everybodyâs,CARDINAL
+this quarter,DATE
+Wamsi Mohan,PERSON
+Tim,PERSON
+youâre,NORP
+Apple Card,PRODUCT
+iPhones,PRODUCT
+Tim Cook,PERSON
+Apple Card,PRODUCT
+iPhone,PRODUCT
+youâll,PERSON
+today,DATE
+United States,COUNTRY
+more degrees,QUANTITY
+Tejas Gala,PERSON
+Wamsi,PERSON
+Morgan,PERSON
+Katy Huberty,PERSON
+Katy Huberty,PERSON
+Tim,PERSON
+Apple,ORG
+Tim Cook,PERSON
+today,DATE
+ECG,COUNTRY
+us,GPE
+Katy Huberty,PERSON
+$50 billion,MONEY
+the last couple of years,DATE
+$50 billion,MONEY
+Luca Maestri,PERSON
+Katy,PERSON
+First,ORDINAL
+I,ORG
+the last several years,DATE
+the end of every quarter,DATE
+$50 billion,MONEY
+over $40 billion,MONEY
+over $90,MONEY
+the last several years,DATE
+a year from now,DATE
+the last several years,DATE
+Tejas Gala,PERSON
+Katy,PERSON
+Amit Daryanani,PERSON
+Evercore,ORG
+Amit Daryanani,PERSON
+two,CARDINAL
+first,ORDINAL
+the March quarter,DATE
+June quarter,DATE
+iPhones,PRODUCT
+Tim Cook,PERSON
+Amit,PERSON
+Tim,PERSON
+iPhone,PRODUCT
+the previous year,DATE
+Q2,ORG
+the first half of the calendar year,DATE
+the second half of the calendar year,DATE
+today,DATE
+this year,DATE
+Amit Daryanani,PERSON
+Tim,PERSON
+the last 12 months,DATE
+today,DATE
+Apple,ORG
+Tim Cook,PERSON
+one,CARDINAL
+the final assembly,ORG
+United States,COUNTRY
+China,COUNTRY
+this quarter,DATE
+Tejas Gala,PERSON
+Amit,PERSON
+Jeriel Ong,PERSON
+Deutsche Bank,ORG
+Jeriel Ong,PERSON
+Hi,PERSON
+the quarter,DATE
+the year,DATE
+Luca Maestri,PERSON
+Jeriel,PERSON
+Iâve,ORG
+the June quarter,DATE
+two,CARDINAL
+the March quarter,DATE
+App Store,PRODUCT
+two,CARDINAL
+the June quarter,DATE
+AppleCare,PRODUCT
+AppleCare,PRODUCT
+AppleCare,PRODUCT
+the June quarter,DATE
+App Store,PRODUCT
+Apple News,PRODUCT
+third,ORDINAL
+two,CARDINAL
+the June quarter,DATE
+Jeriel Ong,PERSON
+second,ORDINAL
+April,DATE
+Tim Cook,PERSON
+youâre,NORP
+No,GPE
+iPhone,PRODUCT
+iPhone,PRODUCT
+two,CARDINAL
+youâre,NORP
+iPad,PRODUCT
+iPad,PRODUCT
+youâre,NORP
+Tejas Gala,PERSON
+Jeriel,PERSON
+Samik Chatterjee,PERSON
+Samik Chatterjee,PERSON
+Hi,PERSON
+youâre,NORP
+China,COUNTRY
+Tim Cook,PERSON
+China,COUNTRY
+the full quarter,DATE
+China,COUNTRY
+iPad,PRODUCT
+Wearables,NORP
+the full quarter,DATE
+February,DATE
+China,COUNTRY
+March,DATE
+April,DATE
+February,DATE
+quarterly,DATE
+the quarter,DATE
+three-week,DATE
+China,COUNTRY
+China,COUNTRY
+three weeks,DATE
+China,COUNTRY
+Samik Chatterjee,PERSON
+youâre,NORP
+iPhone SE,PRODUCT
+iPhones,PRODUCT
+Tim Cook,PERSON
+iOS,PRODUCT
+Tejas Gala,PERSON
+today,DATE
+Chris Caso,PERSON
+Raymond,PERSON
+James,PERSON
+Chris Caso,PERSON
+iPhone SE,PRODUCT
+iPhone,PRODUCT
+iPhone 11,PRODUCT
+iPhone,PRODUCT
+Tim Cook,PERSON
+Chris,PERSON
+Chris Caso,PERSON
+the March quarter,DATE
+the year,DATE
+the second half,DATE
+Tim Cook,PERSON
+March,DATE
+Chris,PERSON
+NAND,GPE
+the June quarter,DATE
+Tejas Gala,PERSON
+Chris,PERSON
+two weeks,DATE
+Apple,ORG
+8888-203-1112,DATE
+719,CARDINAL
+3229513,DATE
+approximately 5 pm Pacific Time,TIME
+today,DATE
+Kristin,PERSON
+408,CARDINAL
+669,CARDINAL
+today,DATE

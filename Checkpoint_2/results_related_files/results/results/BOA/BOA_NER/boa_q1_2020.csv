@@ -1,0 +1,902 @@
+word,label
+Good day,DATE
+America,COUNTRY
+I,PERSON
+Lee,PERSON
+our first quarter,DATE
+I,CARDINAL
+bankofamerica.com,ORG
+the many years,DATE
+I,PERSON
+this quarter,DATE
+this morning,TIME
+first,ORDINAL
+I,PERSON
+Brian,PERSON
+I,PERSON
+Paul,PERSON
+CFO,GPE
+the quarter,DATE
+Brian,PERSON
+I,CARDINAL
+Brian,PERSON
+SEC,ORG
+Brian,PERSON
+Brian,PERSON
+Lee,PERSON
+the decade,DATE
+Today,DATE
+three,CARDINAL
+First,ORDINAL
+the quarter,DATE
+Second,ORDINAL
+third,ORDINAL
+Paul,PERSON
+I,PERSON
+two,CARDINAL
+three,CARDINAL
+the last couple months,DATE
+America,COUNTRY
+I,PERSON
+"209,000",CARDINAL
+this quarter,DATE
+I,PERSON
+COVID-19,PRODUCT
+America,COUNTRY
+United States,COUNTRY
+first,ORDINAL
+first quarter 2020,DATE
+America,COUNTRY
+$4 billion,MONEY
+loan,PRODUCT
+$3.6 billion,MONEY
+0.40,MONEY
+$3.3 billion,MONEY
+last year,DATE
+I,PERSON
+credit,PRODUCT
+$9.3 billion,MONEY
+the first quarter of 2020,DATE
+5%,PERCENT
+the first quarter of 2019,DATE
+credit,PRODUCT
+the past 12 months,DATE
+the last quarter or so,DATE
+the quarter,DATE
+as much as $130 billion,MONEY
+year end,DATE
+Tom,PERSON
+$2.4 billion,MONEY
+this quarter,DATE
+$67 billion,MONEY
+$7.9 billion,MONEY
+the quarter,DATE
+1,CARDINAL
+10.8%,PERCENT
+130,CARDINAL
+9.5%,PERCENT
+$700 billion,MONEY
+$120 billion,MONEY
+year end,DATE
+$149 billion,MONEY
+$67 billion,MONEY
+loan,PRODUCT
+Iâd,PERSON
+NII,DATE
+$12.3 billion,MONEY
+fourth quarter,DATE
+22%,PERCENT
+year-over-year,DATE
+investment banking,PRODUCT
+10%,PERCENT
+year-over-year,DATE
+a record quarter,DATE
+$13.5 billion,MONEY
+more than $1 billion,MONEY
+$163 million,MONEY
+last quarter,DATE
+the quarter,DATE
+8.3%,PERCENT
+four,CARDINAL
+this quarter,DATE
+daily,DATE
+first,ORDINAL
+"more than 150,000",CARDINAL
+"about 90,000",CARDINAL
+the last 60 days,DATE
+One,CARDINAL
+"2,000",CARDINAL
+March,DATE
+2020,CARDINAL
+20,MONEY
+"3,000",CARDINAL
+summer,DATE
+summer,DATE
+first,ORDINAL
+more than 1 million,CARDINAL
+early April,DATE
+two,CARDINAL
+five,CARDINAL
+One,CARDINAL
+"20,000",CARDINAL
+the quarter,DATE
+two-thirds,CARDINAL
+last year,DATE
+first,ORDINAL
+12 days ago,DATE
+"over 300,000",CARDINAL
+$2 billion,MONEY
+the quarter,DATE
+$67 billion,MONEY
+the quarter,DATE
+March,DATE
+debt capital markets,PRODUCT
+March,DATE
+the busiest month,DATE
+approximately $260 billion,MONEY
+$171 billion,MONEY
+April,DATE
+a single day,DATE
+$1.7 trillion,MONEY
+the past years,DATE
+the month end,DATE
+Tom,PERSON
+mid-month,DATE
+Tom,PERSON
+the end of the quarter,DATE
+$100 million,MONEY
+$250 million,MONEY
+$1.5 billion,MONEY
+each quarter,DATE
+the last decade,DATE
+I,CARDINAL
+six,CARDINAL
+a couple months ago,DATE
+the same period prior of 2020 January and February versus 2019 January and February,DATE
+this quarter,DATE
+six,CARDINAL
+credit card,PRODUCT
+year-over-year,DATE
+around 8%,PERCENT
+7% to 8%,PERCENT
+only 2%,PERCENT
+the month of March,DATE
+April,DATE
+the last few weeks,DATE
+mid-April,DATE
+about a low $50 billion,MONEY
+$60 billion,MONEY
+per week,DATE
+this quarter,DATE
+digital banking,PRODUCT
+Digital,ORG
+about 50%,PERCENT
+loan,PRODUCT
+week-by-week,DATE
+the first two weeks,DATE
+February,DATE
+55%,PERCENT
+40%,PERCENT
+60%,PERCENT
+seven,CARDINAL
+March,DATE
+$67 billion,MONEY
+the month of March,DATE
+45%,PERCENT
+40%,PERCENT
+92%,PERCENT
+less than $100 million,MONEY
+50%,PERCENT
+CET1,CARDINAL
+roughly 25,CARDINAL
+the quarter,DATE
+the first week of March,DATE
+the second week,DATE
+the third week of the month,DATE
+the last three weeks,DATE
+April,DATE
+credit,PRODUCT
+COVID-19,DISEASE
+the middle of the quarter,DATE
+Fed,ORG
+75%,PERCENT
+loan,PRODUCT
+$94 billion,MONEY
+$32 billion,MONEY
+65%,PERCENT
+checking,PRODUCT
+the 28th quarter of the last 29,DATE
+year-over-year,DATE
+$20 billion,MONEY
+Consumer Banking,PRODUCT
+the first quarter,DATE
+last year,DATE
+Paul,PERSON
+Paul,PERSON
+Paul,PERSON
+Brian,PERSON
+I,CARDINAL
+eight,CARDINAL
+$186 billion,MONEY
+$149 billion,MONEY
+loan,PRODUCT
+Brian,PERSON
+the end of the quarter,DATE
+$265 billion,MONEY
+year-end,DATE
+$6.5 billion,MONEY
+$4.8 billion,MONEY
+two,CARDINAL
+$7.9 billion,MONEY
+$4 billion,MONEY
+this quarter,DATE
+January 1,DATE
+five-year,DATE
+fed,ORG
+2022,DATE
+January 1,DATE
+$3.6 billion,MONEY
+$6.9 billion,MONEY
+year end,DATE
+day,DATE
+one,CARDINAL
+CET1,CARDINAL
+22,CARDINAL
+late March,DATE
+12,CARDINAL
+22,CARDINAL
+CET1,CARDINAL
+2022,DATE
+Q1 of 2022,DATE
+22,CARDINAL
+quarterly,DATE
+2025,DATE
+CET1,CARDINAL
+CET1,CARDINAL
+40,CARDINAL
+10.8%,PERCENT
+$70 billion,MONEY
+RWA,DATE
+counterparty,GPE
+loan,PRODUCT
+I,PERSON
+eight,CARDINAL
+nine,CARDINAL
+Brian,PERSON
+loan,PRODUCT
+the end of the quarter,DATE
+10,CARDINAL
+Year-over-year,DATE
+This quarter,DATE
+$19 billion,MONEY
+first,ORDINAL
+94%,PERCENT
+the past couple of weeks,DATE
+I,PERSON
+credit card,PRODUCT
+credit card,PRODUCT
+the quarter,DATE
+11,CARDINAL
+NII,DATE
+Q1,GPE
+$12.1 billion,MONEY
+$12.3 billion,MONEY
+Q4,CARDINAL
+One less day,DATE
+this quarter,DATE
+Two,CARDINAL
+First,ORDINAL
+loan,PRODUCT
+Second,ORDINAL
+I,CARDINAL
+NII,DATE
+I,PERSON
+loan,PRODUCT
+the past 90 days,DATE
+loan,PRODUCT
+nearly 80,CARDINAL
+the year,DATE
+12/31,DATE
+100,CARDINAL
+$6.5 billion,MONEY
+the following 12 months,DATE
+less than 100,CARDINAL
+NII,DATE
+the next 12 months,DATE
+less than $6.5 billion,MONEY
+I,PERSON
+First,ORDINAL
+year end,DATE
+Second,ORDINAL
+NII,DATE
+2020,DATE
+$11 billion,MONEY
+loan,PRODUCT
+12,CARDINAL
+$13.5 billion,MONEY
+this quarter,DATE
+2%,PERCENT
+2%,PERCENT
+2019,DATE
+2019,DATE
+savings,PRODUCT
+2019,DATE
+roughly $250 million,MONEY
+nearly $400 million,MONEY
+seasonally,DATE
+mid-$53 billion,MONEY
+this year,DATE
+As,CARDINAL
+mid-$53 billion,MONEY
+Brian,PERSON
+2020,DATE
+"150,000",CARDINAL
+13,CARDINAL
+years,DATE
+years,DATE
+the years,DATE
+One,CARDINAL
+six years of the last seven years,DATE
+many years,DATE
+loan,PRODUCT
+between $900 million and $1 billion,MONEY
+many quarters,DATE
+this quarter,DATE
+$1.1 billion,MONEY
+46,CARDINAL
+$163 million,MONEY
+Q4,GPE
+$4.8 billion,MONEY
+$3.6 billion,MONEY
+loan,PRODUCT
+14,CARDINAL
+credit,PRODUCT
+Q1,PERSON
+later this year,DATE
+2021,DATE
+15,CARDINAL
+12/31/19,CARDINAL
+1/1/20,CARDINAL
+$10.2 billion,MONEY
+year end,DATE
+$17.1 billion,MONEY
+$7 billion,MONEY
+67%,PERCENT
+year end,DATE
+loan,PRODUCT
+1.51%,PERCENT
+I,PERSON
+credit card,PRODUCT
+8.25%,PERCENT
+1.11%,PERCENT
+the past 10 years,DATE
+loan,PRODUCT
+the quarter,DATE
+2021,DATE
+Consumer Banking,PRODUCT
+16,CARDINAL
+Consumer Banking,PRODUCT
+$1.8 billion,MONEY
+COVID-19,DISEASE
+more than 75%,PERCENT
+45%,PERCENT
+2019,DATE
+12%,PERCENT
+COVID-19,DISEASE
+the quarter,DATE
+3%,PERCENT
+year-over-year,DATE
+150,CARDINAL
+$40 billion,MONEY
+Q1,PERSON
+8%,PERCENT
+18,CARDINAL
+I,PERSON
+I,CARDINAL
+17,CARDINAL
+digital banking,PRODUCT
+18,CARDINAL
+one-third,CARDINAL
+the last few weeks of the quarter,DATE
+19,CARDINAL
+COVID-19,DISEASE
+credit,PRODUCT
+March,DATE
+Q1,CARDINAL
+March,DATE
+the end of February,DATE
+Merrill Lynch,ORG
+Private Bank,PRODUCT
+$866 million,MONEY
+17%,PERCENT
+2019,DATE
+4%,PERCENT
+2%,PERCENT
+year-over-year,DATE
+AUM,DATE
+brokerage,PRODUCT
+NII,DATE
+the past 12 months,DATE
+20,CARDINAL
+21,CARDINAL
+COVID-19,DISEASE
+First,ORDINAL
+March,DATE
+loan,PRODUCT
+late in,DATE
+credit,PRODUCT
+$136 million,MONEY
+$1.9 billion,MONEY
+credit,PRODUCT
+21%,PERCENT
+roughly $450 million,MONEY
+Q1,GPE
+investment banking,PRODUCT
+$1.4 billion,MONEY
+investment banking,PRODUCT
+this quarter,DATE
+10%,PERCENT
+year-over-year,DATE
+20%,PERCENT
+year-over-year,DATE
+investment banking,PRODUCT
+9%,PERCENT
+Q1,CARDINAL
+the previous year,DATE
+investment banking,PRODUCT
+hundreds,CARDINAL
+the past few years,DATE
+22,CARDINAL
+Brian,PERSON
+loan,PRODUCT
+one,CARDINAL
+Quarter-over-quarter,DATE
+$94 billion,MONEY
+$58 billion,MONEY
+billions,CARDINAL
+23,CARDINAL
+treasury,ORG
+24,CARDINAL
+I,PERSON
+the quarter,DATE
+$1.5 billion,MONEY
+Q1,GPE
+34%,PERCENT
+year-over-year,DATE
+Year-over-year,DATE
+15%,PERCENT
+investment banking,PRODUCT
+2%,PERCENT
+year-over-year,DATE
+22%,PERCENT
+year-over-year,DATE
+39%,PERCENT
+13%,PERCENT
+Q1,CARDINAL
+last year,DATE
+credit,PRODUCT
+credit,PRODUCT
+$1.7 billion,MONEY
+25,CARDINAL
+26,CARDINAL
+$492 million,MONEY
+approximately $500 million,MONEY
+the end of the quarter,DATE
+this quarter,DATE
+11.5%,PERCENT
+ESG,CARDINAL
+the full year,DATE
+14% to 15%,PERCENT
+I,PERSON
+first,ORDINAL
+today,DATE
+Betsy Graseck,PERSON
+Morgan Stanley,ORG
+Betsy Graseck,PERSON
+I,PERSON
+10 years,DATE
+Brian,PERSON
+Paul,PERSON
+Paul,PERSON
+first,ORDINAL
+I,PERSON
+loan,PRODUCT
+Q1,GPE
+the second quarter,DATE
+2021,DATE
+Brian,PERSON
+Betsy,PERSON
+I,PERSON
+about 65%,PERCENT
+last yearâs,DATE
+fed,ORG
+one,CARDINAL
+I,PERSON
+the mid-2000s,DATE
+2008,DATE
+$25 billion,MONEY
+eight quarters later,DATE
+six quarters later,DATE
+12,CARDINAL
+half,CARDINAL
+Thereâs,CARDINAL
+credit,PRODUCT
+1%,PERCENT
+One,CARDINAL
+I,PERSON
+95%,PERCENT
+97%,PERCENT
+98%,PERCENT
+about 90%,PERCENT
+85%,PERCENT
+I,CARDINAL
+600,CARDINAL
+almost 700,CARDINAL
+95%,PERCENT
+only 5% or 10%,PERCENT
+VA,ORG
+95%,PERCENT
+75%,PERCENT
+80%,PERCENT
+Betsy Graseck,PERSON
+this quarter,DATE
+I,CARDINAL
+Brian,PERSON
+Brian,PERSON
+Lee,PERSON
+65%,PERCENT
+I,PERSON
+two,CARDINAL
+I,PERSON
+below 30%,PERCENT
+this quarter,DATE
+0.40,MONEY
+0.18,MONEY
+130,CARDINAL
+Betsy Graseck,PERSON
+John,PERSON
+John McDonald,PERSON
+Paul,PERSON
+2Q,CARDINAL
+the year,DATE
+Paul,PERSON
+I,CARDINAL
+I,PERSON
+the second quarter,DATE
+2021,DATE
+I,PERSON
+the end of the year,DATE
+John McDonald,PERSON
+Paul,PERSON
+I,PERSON
+loan,PRODUCT
+loan,PRODUCT
+years,DATE
+I,PERSON
+Brian,PERSON
+I,PERSON
+many years,DATE
+one,CARDINAL
+John McDonald,PERSON
+about 60%,PERCENT
+Paul,PERSON
+John McDonald,PERSON
+2019,DATE
+Paul,PERSON
+Brian,PERSON
+the end of the quarter,DATE
+loan,PRODUCT
+loan,PRODUCT
+Thereâs,CARDINAL
+John McDonald,PERSON
+Paul,PERSON
+John McDonald,PERSON
+I,PERSON
+Paul,PERSON
+the first quarter,DATE
+Thereâs,CARDINAL
+John McDonald,PERSON
+Mike Mayo,PERSON
+Wells Fargo,ORG
+Mike Mayo,PERSON
+Paul,PERSON
+Paul,PERSON
+Mike,PERSON
+Mike Mayo,PERSON
+Paul,PERSON
+Mike Mayo,PERSON
+I,CARDINAL
+the second quarter,DATE
+I,CARDINAL
+I,CARDINAL
+6%,PERCENT
+7%,PERCENT
+at least two,CARDINAL
+up to four,CARDINAL
+one,CARDINAL
+I,CARDINAL
+the second quarter or the third quarter,DATE
+Paul,PERSON
+fed,ORG
+bill,PERSON
+this quarter,DATE
+the end of the quarter,DATE
+the end of the second quarter,DATE
+loan,PRODUCT
+the quarter,DATE
+the quarter,DATE
+loan,PRODUCT
+the second quarter,DATE
+the second quarter,DATE
+Mike Mayo,PERSON
+I,PERSON
+Brian,PERSON
+I,PERSON
+Brian,PERSON
+Brian,PERSON
+one,CARDINAL
+Mike,PERSON
+credit,PRODUCT
+I,PERSON
+weekly,DATE
+credit,PRODUCT
+around $65 billion,MONEY
+January/February,DATE
+50,MONEY
+$51 billion,MONEY
+$52 billion,MONEY
+the last couple weeks,DATE
+year-over-year,DATE
+week,DATE
+the 10%,PERCENT
+the 16%,PERCENT
+15%,PERCENT
+16%,PERCENT
+I,CARDINAL
+75%,PERCENT
+one,CARDINAL
+checking account,PRODUCT
+Mike,PERSON
+I,PERSON
+the quarter,DATE
+Mike Mayo,PERSON
+Brian,PERSON
+I,CARDINAL
+Mike,PERSON
+Mike Mayo,PERSON
+Glenn Schorr,PERSON
+Evercore,ORG
+ISI,ORG
+Glenn Schorr,PERSON
+one,CARDINAL
+I,CARDINAL
+around 1%,PERCENT
+I,PERSON
+I,PERSON
+the last bunch of years,DATE
+I,PERSON
+Paul,PERSON
+$2.16 billion,MONEY
+the last 10 years,DATE
+$1.6 billion,MONEY
+January 1,DATE
+$1.11 billion,MONEY
+$1.16 billion,MONEY
+fed,ORG
+Brian,PERSON
+Glenn,PERSON
+Iâd,PERSON
+one,CARDINAL
+I,PERSON
+the start of the year,DATE
+130,CARDINAL
+I,PERSON
+X,DATE
+Paul,PERSON
+Thatâ,PERSON
+Glenn Schorr,PERSON
+Paul,PERSON
+private equity,PRODUCT
+less than 1%,PERCENT
+Glenn Schorr,PERSON
+I,CARDINAL
+Vivek Juneja,PERSON
+JPMorgan,ORG
+Vivek Juneja,PERSON
+Brian,PERSON
+Paul,PERSON
+Vivek,PERSON
+Vivek,PERSON
+Brian,PERSON
+Matt,PERSON
+Deutsche Bank,ORG
+Matt,PERSON
+1Q,CARDINAL
+I,CARDINAL
+bond,PRODUCT
+three,CARDINAL
+I,CARDINAL
+Brian,PERSON
+I,CARDINAL
+bond,PRODUCT
+Q1,GPE
+seasonally,DATE
+Q1,GPE
+NII,DATE
+NII,GPE
+six weeks to,DATE
+Matt,PERSON
+I,PERSON
+1Qâ,CARDINAL
+Brian,PERSON
+Matt,PERSON
+Brian,PERSON
+Matt,PERSON
+third,ORDINAL
+Brian,PERSON
+NII,GPE
+Q1,GPE
+Matt,PERSON
+1Q.,CARDINAL
+I,CARDINAL
+I,CARDINAL
+Brian,PERSON
+I,CARDINAL
+March,DATE
+I,PERSON
+loan,PRODUCT
+Matt,PERSON
+Brian,PERSON
+I,PERSON
+loan,PRODUCT
+Matt,PERSON
+Brian,PERSON
+Matt,PERSON
+Brian,PERSON
+I,PERSON
+Matt,PERSON
+150,CARDINAL
+200,CARDINAL
+Brian,PERSON
+loan,PRODUCT
+I,CARDINAL
+150,CARDINAL
+Matt,PERSON
+Paul,PERSON
+Brian,PERSON
+Matt,PERSON
+Paul,PERSON
+one,CARDINAL
+treasury,ORG
+I,PERSON
+Brian Kleinhanzl,PERSON
+KBW,ORG
+Brian Kleinhanzl,PERSON
+I,PERSON
+Brian,PERSON
+Brian Kleinhanzl,PERSON
+Brian,PERSON
+12 days ago,DATE
+hundreds of thousands,MONEY
+treasury,ORG
+thousands,CARDINAL
+thousands,CARDINAL
+thousands,CARDINAL
+I,PERSON
+Today,DATE
+first,ORDINAL
+"1,200",MONEY
+600,MONEY
+three weeks ago,DATE
+two weeks,DATE
+12 days ago,DATE
+several hundred thousand,CARDINAL
+"12,000",CARDINAL
+Brian Kleinhanzl,PERSON
+I,PERSON
+this year,DATE
+2021,DATE
+Brian,PERSON
+I,PERSON
+five,CARDINAL
+95%,PERCENT
+I,PERSON
+750,CARDINAL
+a month,DATE
+the fall,DATE
+the 180 days,DATE
+Paul,PERSON
+the end of the first quarter,DATE
+the second quarter,DATE
+up and third quarter,DATE
+credit,PRODUCT
+Paul,PERSON
+Brian Kleinhanzl,PERSON
+Brian,PERSON
+two,CARDINAL
+eight weeks,DATE
+I,PERSON
+I,PERSON
+Brian Kleinhanzl,PERSON
+Jefferies,ORG
+Ken,PERSON
+Paul,PERSON
+TED,PERSON
+$11 billion,MONEY
+Paul,PERSON
+fed,ORG
+the year,DATE
+loan,PRODUCT
+loan,PRODUCT
+$11 billion,MONEY
+the end of the year,DATE
+Ken,PERSON
+Paul,PERSON
+50,CARDINAL
+Ken,PERSON
+one,CARDINAL
+money market,PRODUCT
+mutual funds,PRODUCT
+Brian,PERSON
+$19 billion,MONEY
+two-thirds,CARDINAL
+about a third,CARDINAL
+the quarter,DATE
+thereâs,CARDINAL
+the quarter,DATE
+I,PERSON
+Paul,PERSON
+I,PERSON
+Q1,GPE
+Q1,GPE
+Thereâs,CARDINAL
+I,CARDINAL
+Brian,PERSON
+January,DATE
+February,DATE
+the second quarter,DATE
+June,DATE
+March,DATE
+$94 billion,MONEY
+quarter-over-quarter,DATE
+Ken,PERSON
+today,DATE
+Vivek Juneja,PERSON
+JPMorgan,ORG
+Vivek Juneja,PERSON
+loan,PRODUCT
+90%,PERCENT
+Paul,PERSON
+over 90%,PERCENT
+I,CARDINAL
+Vivek Juneja,PERSON
+I,PERSON
+the day,DATE
+2021,DATE
+2021,DATE
+Paul,PERSON
+I,PERSON
+30,DATE
+40,CARDINAL
+Vivek Juneja,PERSON
+Paul,PERSON
+Vivek Juneja,PERSON
+Brian,PERSON
+Vivek,PERSON
+Vivek Juneja,PERSON
+Brian,PERSON
+Vivek Juneja,PERSON
+I,PERSON
+Brian,PERSON
+this morning,TIME
+Brian,PERSON
+Vivek,PERSON
+10,CARDINAL
+this morning,TIME
+one,CARDINAL
+$4 billion,MONEY
+the end of the quarter,DATE
+130,CARDINAL
+the quarter,DATE
+I,PERSON
+next quarter,DATE

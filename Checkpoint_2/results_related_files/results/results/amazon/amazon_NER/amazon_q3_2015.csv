@@ -1,0 +1,545 @@
+word,label
+Good day,DATE
+Amazon.com,ORG
+Q3,QUARTER
+2015,DATE
+Today,DATE
+Phil Hardin,PERSON
+Phil Hardin,PERSON
+Q3,QUARTER
+2015,DATE
+today,DATE
+Brian Olsavsky,PERSON
+"today, October 22, 2015",DATE
+today,DATE
+SEC,ORG
+annual,DATE
+10-K.,CARDINAL
+today,DATE
+the quarter,DATE
+SEC,ORG
+the comparable period of 2014,DATE
+Brian,PERSON
+Brian,PERSON
+Phil,PERSON
+our third quarter,DATE
+72%,PERCENT
+$9.8 billion,MONEY
+$5.4 billion,MONEY
+$1.1 billion,MONEY
+12 months,DATE
+$3.1 billion,MONEY
+$99 million,MONEY
+12 months,DATE
+$637 million,MONEY
+$2.3 billion,MONEY
+$4.4 billion,MONEY
+AWS,ORG
+489 million,CARDINAL
+481 million,CARDINAL
+one year ago,DATE
+23%,PERCENT
+$25.4 billion,MONEY
+30%,PERCENT
+$1.3 billion,MONEY
+year-over-year,DATE
+26%,PERCENT
+approximately 294 million,CARDINAL
+approximately 272 million,CARDINAL
+approximately 244 million,CARDINAL
+prior-year,DATE
+46%,PERCENT
+42%,PERCENT
+prior-year,DATE
+$16.8 billion,MONEY
+66.1%,PERCENT
+71.1%,PERCENT
+$7.6 billion,MONEY
+30.1%,PERCENT
+approximately 50,CARDINAL
+year-over-year,DATE
+$3.1 billion,MONEY
+12.3%,PERCENT
+12.4%,PERCENT
+Tech,ORG
+$2.9 billion,MONEY
+11.4%,PERCENT
+10.8%,PERCENT
+$1.2 billion,MONEY
+4.8%,PERCENT
+4.7%,PERCENT
+the first quarter,DATE
+America,COUNTRY
+Amazon,ORG
+America,COUNTRY
+28%,PERCENT
+$15 billion,MONEY
+29%,PERCENT
+8%,PERCENT
+$3 billion,MONEY
+9%,PERCENT
+EGM,ORG
+35%,PERCENT
+$11.8 billion,MONEY
+79%,PERCENT
+America,COUNTRY
+America,COUNTRY
+$528 million,MONEY
+3.5%,PERCENT
+$60 million,MONEY
+the prior-year,DATE
+America,COUNTRY
+$11 million,MONEY
+7%,PERCENT
+$8.3 billion,MONEY
+$1.3 billion,MONEY
+year-over-year,DATE
+24%,PERCENT
+8%,PERCENT
+$2.3 billion,MONEY
+6%,PERCENT
+EGM,ORG
+14%,PERCENT
+$5.9 billion,MONEY
+32%,PERCENT
+EGM,ORG
+71%,PERCENT
+$56 million,MONEY
+$174 million,MONEY
+the prior-year,DATE
+$64 million,MONEY
+Amazon,ORG
+78%,PERCENT
+$2.1 billion,MONEY
+Amazon,ORG
+$521 million,MONEY
+25%,PERCENT
+$98 million,MONEY
+the prior-year,DATE
+AWS,PRODUCT
+$78 million,MONEY
+$993 million,MONEY
+3.9%,PERCENT
+approximately 460,CARDINAL
+year-over-year,DATE
+$25 million,MONEY
+$406 million,MONEY
+$544 million,MONEY
+the prior-year,DATE
+$161 million,MONEY
+$79 million or $,MONEY
+0.17,MONEY
+$437 million,MONEY
+0.95,MONEY
+$7.5 billion,MONEY
+year-over-year,DATE
+$14.4 billion,MONEY
+23%,PERCENT
+$9 billion,MONEY
+8.6,CARDINAL
+8.9,CARDINAL
+a year ago,DATE
+22%,PERCENT
+$14.4 billion,MONEY
+days,DATE
+79,CARDINAL
+74,DATE
+the prior year,DATE
+today,DATE
+today,DATE
+2015,DATE
+between $33.5 billion and $36.75 billion,MONEY
+between 14% and 25%,PERCENT
+approximately 340,CARDINAL
+between $80 million and $1.28 billion,MONEY
+$591 million,MONEY
+the fourth quarter of 2014,DATE
+approximately $620 million,MONEY
+between $700 million and $1.9 billion,MONEY
+$1.04 billion,MONEY
+the fourth quarter 2014,DATE
+Phil,PERSON
+Phil Hardin,PERSON
+Brian,PERSON
+first,ORDINAL
+Scott Devitt,PERSON
+Stifel Nicolaus,ORG
+Scott,PERSON
+Nicolaus & Co.,ORG
+first,ORDINAL
+Brian,PERSON
+Japan,COUNTRY
+Europe,LOC
+India,COUNTRY
+China,COUNTRY
+secondly,ORDINAL
+AWS,PRODUCT
+Brian,PERSON
+Scott,PERSON
+First,ORDINAL
+FX,ORG
+24%,PERCENT
+200,CARDINAL
+"1,100",CARDINAL
+year-over-year,DATE
+April of last year,DATE
+last year,DATE
+Q3,COUNTRY
+Prime Day,DATE
+about 200,CARDINAL
+a great day,DATE
+Amazon,ORG
+Prime Now,PRODUCT
+UK,GPE
+this quarter,DATE
+America,COUNTRY
+AWS,PRODUCT
+21.4% to 25%,PERCENT
+530,CARDINAL
+this year,DATE
+more than last year,CARDINAL
+eight,CARDINAL
+April of 2014,DATE
+April of 2014,DATE
+AWS,PRODUCT
+Amazon,ORG
+one-tenth,CARDINAL
+Amazon,ORG
+AWS,PRODUCT
+early days,DATE
+Mark,PERSON
+Mark A.,PERSON
+Citigroup,ORG
+"Global Markets, Inc. (Broker)
+
+Hello? Can you hear me?
+
+Brian",ORG
+Mark A.,PERSON
+Citigroup,ORG
+"Global Markets, Inc. (Broker)
+
+Okay. Thanks. A question hopefully",ORG
+AWS,PRODUCT
+the quarter,DATE
+the quarter,DATE
+secondly,ORDINAL
+the quarter,DATE
+Phil Hardin,PERSON
+Phil,PERSON
+AWS,PRODUCT
+echo,PRODUCT
+Brian,PERSON
+gap,ORG
+Amazon,ORG
+AWS,PRODUCT
+Brian,PERSON
+Mark,PERSON
+49%,PERCENT
+year-over-year,DATE
+30%,PERCENT
+14,CARDINAL
+this year,DATE
+123,CARDINAL
+four,CARDINAL
+23,CARDINAL
+Mark Mahaney,PERSON
+RBC Capital Markets,ORG
+Mark,PERSON
+RBC Capital Markets,ORG
+AWS,PRODUCT
+about two,CARDINAL
+America,COUNTRY
+secondly,ORDINAL
+the last eight months,DATE
+India,COUNTRY
+China,COUNTRY
+Brian,PERSON
+third,ORDINAL
+India,COUNTRY
+India,COUNTRY
+230%,PERCENT
+4x,CARDINAL
+last year,DATE
+this year,DATE
+"40,000",CARDINAL
+this year,DATE
+more than 250%,PERCENT
+year-over-year,DATE
+90%,PERCENT
+year-over-year,DATE
+last quarter,DATE
+India,COUNTRY
+Phil Hardin,PERSON
+Mark,PERSON
+China,COUNTRY
+Phil,PERSON
+a couple of quarters,DATE
+Amazon,ORG
+Chinese,NORP
+Amazon,ORG
+"about another 400,000",CARDINAL
+this quarter,DATE
+Eric Sheridan,PERSON
+UBS Investment,ORG
+Eric,PERSON
+UBS Securities,ORG
+3P,CARDINAL
+third,ORDINAL
+the next couple of years,DATE
+Brian,PERSON
+Eric,PERSON
+the 3P percent,PERCENT
+up to 46%,PERCENT
+400,CARDINAL
+year-over-year,DATE
+100,CARDINAL
+third,ORDINAL
+Justin Post,PERSON
+America,COUNTRY
+Merrill Lynch,ORG
+Justin Post,PERSON
+Merrill Lynch,ORG
+"Pierce, Fenner & Smith, Inc.",ORG
+EGM,ORG
+Prime Now,PRODUCT
+third,ORDINAL
+Phil Hardin,PERSON
+Phil,PERSON
+about 20 years,DATE
+Prime Now,PRODUCT
+Prime Now,PRODUCT
+today,DATE
+about 17,CARDINAL
+the next day,DATE
+same day,DATE
+Robert Peck,PERSON
+SunTrust,DATE
+Kunal Madhukar,PERSON
+Robinson,PERSON
+India,COUNTRY
+Phil Hardin,PERSON
+Phil,PERSON
+Kunal Madhukar,PERSON
+Robinson,PERSON
+Douglas Anmuth,PERSON
+JPMorgan,ORG
+Douglas,PERSON
+JPMorgan,ORG
+Amazon,ORG
+2014,DATE
+Brian,PERSON
+Doug,PERSON
+this quarter,DATE
+India,COUNTRY
+America,COUNTRY
+Phil,PERSON
+Prime Now,PRODUCT
+14,CARDINAL
+same-day,DATE
+16,CARDINAL
+14,CARDINAL
+"under $50,",MONEY
+Echo,PRODUCT
+AWS,PRODUCT
+530,CARDINAL
+this year,DATE
+this quarter,DATE
+about 30%,PERCENT
+Brian,PERSON
+Morgan Stanley,ORG
+Brian,PERSON
+Morgan Stanley,ORG
+Kindle,PRODUCT
+Brazil,QUARTER
+December of 2012,DATE
+Brazil,COUNTRY
+second,ORDINAL
+a couple of quarters ago,DATE
+over 50%,PERCENT
+Phil Hardin,PERSON
+Brazil,COUNTRY
+Phil,PERSON
+Kindle,PRODUCT
+Brazil,QUARTER
+Brazil,COUNTRY
+Brian,PERSON
+Brian,PERSON
+last year,DATE
+the end of last year,DATE
+last year in a year,DATE
+early in 2014,DATE
+53%,PERCENT
+America,COUNTRY
+50%,PERCENT
+Japan,COUNTRY
+U.K.,GPE
+Germany,COUNTRY
+Amazon,ORG
+Japan,COUNTRY
+Germany,COUNTRY
+this quarter,DATE
+Prime Now,PRODUCT
+U.K.,GPE
+Carlos Kirjner,PERSON
+Bernstein,ORG
+Carlos Kirjner,PERSON
+Bernstein,ORG
+two,CARDINAL
+tens of millions,CARDINAL
+the 50%,PERCENT
+two or three years,DATE
+secondly,ORDINAL
+Prime Now,PRODUCT
+the last few years,DATE
+15,MONEY
+Brian,PERSON
+Carlos,PERSON
+First,ORDINAL
+Prime Now,PRODUCT
+tens of thousands,CARDINAL
+daily,DATE
+Neil,PERSON
+Mizuho Securities,ORG
+Neil A.,PERSON
+India,COUNTRY
+Amazon,ORG
+Amazon,ORG
+gap,ORG
+Brian,PERSON
+India,COUNTRY
+India,COUNTRY
+230%,PERCENT
+250%,PERCENT
+90%,PERCENT
+India,COUNTRY
+Phil Hardin,PERSON
+Phil,PERSON
+Amazon,ORG
+Heath Terry,PERSON
+Goldman Sachs,ORG
+Goldman Sachs,ORG
+FedEx,ORG
+third,ORDINAL
+the holiday season,DATE
+Brian,PERSON
+23,CARDINAL
+Aaron Kessler,PERSON
+Raymond,PERSON
+James,PERSON
+Aaron,PERSON
+Kessler,PERSON
+Raymond,PERSON
+James,PERSON
+a few months,DATE
+Brian,PERSON
+Amazon,ORG
+a couple months,DATE
+Seattle,GPE
+Portland,GPE
+Prime Now,PRODUCT
+Prime Now,PRODUCT
+Brian Pitz,PERSON
+Jefferies & Company,ORG
+Brian,PERSON
+Pitz,PERSON
+Jefferies,ORG
+Japan,COUNTRY
+Fire TV,PRODUCT
+Fire TV,PRODUCT
+Prime Video,PRODUCT
+Brian,PERSON
+Brian,PERSON
+Japan,COUNTRY
+the second season,DATE
+this year,DATE
+annual,DATE
+Ben Schachter,PERSON
+Macquarie,ORG
+Ben Schachter,PERSON
+Macquarie,ORG
+99,MONEY
+one,CARDINAL
+the holiday season,DATE
+Phil Hardin,PERSON
+Phil,PERSON
+today,DATE
+Brian,PERSON
+the fall,DATE
+Stephen,PERSON
+Credit Suisse,ORG
+Stephen,PERSON
+Credit Suisse,ORG
+Brian,PERSON
+Prime Now,PRODUCT
+second,ORDINAL
+the end of 2014,DATE
+a little less than 10%,MONEY
+Brian,PERSON
+Prime Now,PRODUCT
+Prime Now,PRODUCT
+UK,GPE
+UK,GPE
+"up to 30,000",CARDINAL
+Q3,COUNTRY
+13,CARDINAL
+the end of 2014,DATE
+"15,000",CARDINAL
+10,CARDINAL
+Ron Josey,PERSON
+JMP Securities,ORG
+26%,PERCENT
+this year,DATE
+this quarter,DATE
+AWS,PRODUCT
+last quarter,DATE
+this quarter,DATE
+Phil Hardin,PERSON
+Phil,PERSON
+AWS,PRODUCT
+Prime Day,DATE
+second,ORDINAL
+AWS,PRODUCT
+last quarter,DATE
+Phil Hardin,PERSON
+Aurora,PERSON
+Aurora,PERSON
+Youssef Squali,PERSON
+Cantor Fitzgerald,ORG
+Youssef H. Squali,PERSON
+Cantor Fitzgerald,ORG
+Two,CARDINAL
+First,ORDINAL
+EU,ORG
+European,NORP
+AWS,PRODUCT
+Phil Hardin,PERSON
+Phil,PERSON
+AWS,PRODUCT
+EU,ORG
+AWS,PRODUCT
+AWS,PRODUCT
+AWS,PRODUCT
+second,ORDINAL
+Youssef H. Squali,PERSON
+Cantor Fitzgerald,ORG
+Phil Hardin,PERSON
+John Blackledge,PERSON
+Cowen & Company,ORG
+John Blackledge,PERSON
+Cowen & Co.,ORG
+Hi,PERSON
+Two,CARDINAL
+first,ORDINAL
+second,ORDINAL
+America,COUNTRY
+this quarter,DATE
+Amazon,ORG
+Brian,PERSON
+third,ORDINAL
+July,DATE
+Phil Hardin,PERSON
+today,DATE
+the end of the quarter,DATE
+Amazon.com,ORG
+next quarter,DATE

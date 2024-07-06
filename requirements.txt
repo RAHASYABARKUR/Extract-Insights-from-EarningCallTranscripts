@@ -1,0 +1,10 @@
+gensim
+nltk
+numpy
+sklearn
+scipy
+spacy
+pickle
+pytextrank
+pathlib
+os

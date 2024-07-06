@@ -1,0 +1,49 @@
+Our initial sales data tells us that the iPhone SE is popular in both developed and emerging markets, and the percentage of iPhone SE sales going to customers who are new to iPhone is greater than we've seen in the first weeks of availability for other iPhones launched in the last several years.
+Overall, we added millions of first-time smartphone buyers in the June quarter, and switchers accounted for the highest percentage of quarterly iPhone sales we've ever measured.
+The growth was broad-based, with App Store revenue up 37% to a new all-time high, in addition to strong increases in Music, iCloud, and AppleCare.
+We had our best iPad compare in 10 quarters, with revenue growing 7% thanks to the rollout of the 9.7-inch iPad Pro. We're proud to have the most exciting lineup of tablets and accessories in the world and exceptionally high customer satisfaction and engagement.
+Switchers and first-time smartphone buyers represented the lion's share of our iPhone sales in the quarter, and our installed base of iPhones in China has grown by 34% over the last year alone.
+Customers can look forward to more expressive ways to communicate with messages now with its own App Store, allowing users to create and share content, make payments, add stickers and more, all without leaving messages, which is now one of the largest messaging services in the world.
+Luca Maestri - Apple, Inc. Thank you, Tim. Revenue for the June quarter was $42.4 billion, near the high end of our guidance range, compared to $49.6 billion in the year-ago quarter.
+On a geographic basis, our revenue grew strongly in Japan to a new June quarter record, and we experienced healthy growth in a number of other important markets, including Russia, Brazil, Turkey, India, and Canada.
+Turning to Services, we generated $6 billion in revenue, an increase of 19% over the June quarter last year.
+Because of this continued growth, for the first nine months of our fiscal year, Services increased from 8% of our total revenue a year ago to 11% this year, and it represents an even higher percentage of our profitability.
+Next I'd like to talk about the Mac. In addition to the overall market slowdown, we faced a very difficult compare to the year-ago quarter, when we introduced a new MacBook Pro and a new iMac. Despite these challenges, Mac continues to gain a high percentage of new customers, and our Mac installed base has grown to a new all-time high at the end of the June quarter.
+As we move ahead into the September quarter, I'd like to review our outlook, which includes the types of forward-looking information that Nancy referred to at the beginning of the call.
+Nancy Paxton - Apple, Inc. Thank you, Luca.
+How are you thinking about commodity pricing and mix of the new products and that just as you look to how you guided gross margin?
+On the positive side, we're going to have leverage because we are guiding to a sequential increase in revenue, and we expect to have positive mix as we get into the September quarter, and these positives being offset more or less by what we call product transition costs, which are typical at this time of the year for us.
+We think that the best experience for users include apps, and so we want to do everything that we can do to continue building that.
+But there's an added factor this time around, which is you don't have the 4 million units of high-ASP, high-margin inventory drain in September like you did in the June quarter.
+And, Tim, can you speak to how you envision the upgrade rate of the iPhone installed base to play out over the next quarter or the next year?
+Starting with your comments on the June quarter, I just want to point out that when we talk about a $3.6 billion channel inventory reduction, that is not entirely related to iPhone.
+On the September quarter, when I look at the sequential increase for iPhone units that we are expecting, I would say that it is, even with the sell-through adjustments that you've talked about, it's still pretty much in line with what we've seen in the past.
+So I guess my question is, you have a mechanism, which is the Apple Upgrade Program, which takes replacement cycle out of the equation and puts people on buying the phone as a service.
+And then just more broadly, is Apple thinking about ways to sell not only the iPhone, but more of its products on a monthly type subscription basis, perhaps in a more bundled fashion so that you can add more predictability to what is now largely a transactional revenue model?
+Timothy Donald Cook - Apple, Inc. The iPhone demand is made up, as you know, of upgraders, switchers and new to smartphone.
+And we think that from a user point of view, as the smartphone itself becomes more and more essential to people's daily lives, which is a part of what I had talked about before, a part of bringing it into the home in a bigger way and in the car and at work and so forth, we think people will put more and more focus on what they're buying and the thing that Apple does best, which is provide this killer experience.
+Timothy Donald Cook - Apple, Inc. I notice there are people that want to call it a new computer platform, and we'll see.
+Luca, I just want to clarify that last point on ASPs on iPhone because last quarter it seemed that you were quite clear that that was a negative driver to the gross margin of the company.
+How do you think about that as an actual business opportunity as opposed to here's an Apple box and we sell some units, but it's not that meaningful to the overall company in terms of size?
+Timothy Donald Cook - Apple, Inc. Thank you for the question.
+Good day, everyone, and welcome to this Apple, Incorporated third quarter fiscal year 2016 earnings release conference call.
+Please note that some of the information you'll hear during our discussion today will consist of forward-looking statements, including without limitation those regarding revenues, gross margin, operating expenses, other income and expense, taxes, and future business outlook.
+Today we're pleased to report third quarter results that reflect stronger customer demand and business performance than we anticipated just 90 days ago and include several encouraging signs.
+We saw tremendous performance from our Services businesses, which grew 19% to a June quarter record of $6 billion.
+Most of our terrific Services performance during the quarter was fueled by our active installed base of devices, with installed base-related purchases of $10.3 billion accelerating to 29% growth year on year.
+With watchOS 3 coming this fall, customers will be able to update their Apple Watches with an enhanced user interface, significantly improved performance and all-new fitness and health capabilities, including activity sharing.
+We opened our 41st Greater China retail store during the quarter, and we also made a $1 billion investment in Didi Chuxing.
+According to China Mobile, there are more iPhones on their network than any other brand, with iPhone users ranking first in terms of customer loyalty, data usage and ARPU.
+By far, the largest portion of our global channel inventory reduction was in Greater China, so our underlying business there is stronger than our results imply.
+In the first three quarters of this fiscal year, our total revenue from Greater China was almost $40 billion, up 55% from the same timeframe just two years ago, while iPhone units were up 47%.
+This fall we'll also bring Apple Pay to Safari so users can easily make secure and private purchases when shopping on participating websites.
+Tens of millions of users around the world are enjoying Apple Pay today at stores and in app, with estimated monthly active users up more than 450% year on year last month.
+A recent survey by 451 Research found that among U.S. corporate buyers planning to purchase smartphones in the September quarter, 75% plan to purchase iPhones.
+This is the highest corporate purchase intent ever measured by the survey for the September quarter.
+Corporate buyers report a 94% satisfaction rate for iPad and a purchase intent of 71% for the September quarter.
+We spent $4 billion on repurchases of 41.2 million Apple shares through open-market transactions.
+You mentioned that 451 Research is finding business interest in phones, but their survey on consumers actually finds the lowest level of expectation for purchases in the next three months since 2008.
+I was wondering if I could direct one at Tim. And my belief is that one of the bigger longer-term concerns for Apple is that the replacement cycle could just structurally elongate over time, particularly as your installed base of customers becomes less affluent and more international.
+Jankowski - Goldman Sachs & Co. So can you just give us your perspective on the market, your expectations around getting those services back up, and also regaining share?
+Is this a business that ultimately impacts the Services line in any measurable way, or is Apple Pay generally about selling iPhones?
+So the combination of these two things obviously had an impact on ASPs. But I think as I said or Tim said during the prepared remarks, we do expect iPhone ASP to improve sequentially as we move into the September quarter because these two factors that I just mentioned are not going to repeat.

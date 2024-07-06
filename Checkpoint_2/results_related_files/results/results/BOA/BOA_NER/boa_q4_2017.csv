@@ -1,0 +1,1150 @@
+word,label
+Good day,DATE
+America,COUNTRY
+2017,DATE
+I,PERSON
+today,DATE
+SEC,ORG
+Brian,PERSON
+Paul,PERSON
+CFO,GPE
+4Q,CARDINAL
+Brian,PERSON
+2018,DATE
+Brian,PERSON
+Brian,PERSON
+Lee,PERSON
+today,DATE
+another strong quarter,DATE
+year,DATE
+the year,DATE
+twelfth,ORDINAL
+3,CARDINAL
+5%,PERCENT
+1%,PERCENT
+6%,PERCENT
+loan,PRODUCT
+the year,DATE
+the year,DATE
+$18 billion,MONEY
+$2.9 billion,MONEY
+$21 billion,MONEY
+18%,PERCENT
+2016,DATE
+Paul,PERSON
+more than $11 billion,MONEY
+14%,PERCENT
+about $10 billion,MONEY
+7%,PERCENT
+11%,PERCENT
+93,CARDINAL
+credit,PRODUCT
+60%,PERCENT
+the year,DATE
+3.4%,PERCENT
+shares,PRODUCT
+370 million,CARDINAL
+last year,DATE
+nearly 1 billion,MONEY
+5 billion,CARDINAL
+50,CARDINAL
+Hispanics,NORP
+This year,DATE
+15,MONEY
+last year,DATE
+the year end,DATE
+nearly 70%,PERCENT
+savings,PRODUCT
+Paul,PERSON
+$145 million,MONEY
+the fourth quarter,DATE
+brokerage,PRODUCT
+treasury,ORG
+first,ORDINAL
+Apple,ORG
+today,DATE
+Paul,PERSON
+the quarter,DATE
+Paul,PERSON
+Brian,PERSON
+I,CARDINAL
+2,CARDINAL
+$2.4 billion,MONEY
+0.20,MONEY
+Q4,GPE
+the quarter,DATE
+approximately $3 billion,MONEY
+$2.9 billion,MONEY
+0.27,MONEY
+two,CARDINAL
+First,ORDINAL
+approximately $950 million,MONEY
+$950 million,MONEY
+$1.9 billion,MONEY
+I,CARDINAL
+$5.3 billion,MONEY
+0.47,MONEY
+20%,PERCENT
+year-over-year,DATE
+11%,PERCENT
+90,CARDINAL
+year-over-year,DATE
+8%,PERCENT
+$21 billion,MONEY
+7%,PERCENT
+11%,PERCENT
+1%,PERCENT
+roughly $200 million,MONEY
+late December,DATE
+Brian,PERSON
+late December,DATE
+savings,PRODUCT
+$1 billion,MONEY
+$227 million,MONEY
+$333 million,MONEY
+credit,PRODUCT
+credit,PRODUCT
+credit,PRODUCT
+Q3,CARDINAL
+4,CARDINAL
+September 30,DATE
+$2.3 trillion,MONEY
+$10 billion,MONEY
+$14 billion,MONEY
+Q3,GPE
+$25 billion,MONEY
+$11 billion,MONEY
+the quarter,DATE
+$522 billion,MONEY
+the quarter,DATE
+125%,PERCENT
+$4.8 billion,MONEY
+Q3,GPE
+This quarter,DATE
+shares,PRODUCT
+more than $6.1 billion,MONEY
+$4 billion,MONEY
+$2.1 billion,MONEY
+$2.9 billion,MONEY
+174 million,CARDINAL
+shares,PRODUCT
+Q4,GPE
+509 million,CARDINAL
+shares,PRODUCT
+the past twelve months,DATE
+this quarter,DATE
+$5 billion,MONEY
+$12.9 billion,MONEY
+16.96,MONEY
+the year,DATE
+shares,PRODUCT
+CET1,CARDINAL
+this quarter,DATE
+RWA,ORG
+Q3,GPE
+$1.46 trillion,MONEY
+DTA,CARDINAL
+loan,PRODUCT
+loan,PRODUCT
+$22 billion,MONEY
+RWA,DATE
+CET1,CARDINAL
+34,CARDINAL
+11.5%,PERCENT
+52,CARDINAL
+11.7%,PERCENT
+9.5,CARDINAL
+5,CARDINAL
+$928 billion,MONEY
+UK,GPE
+$9 billion,MONEY
+Q4,GPE
+approximately $800 million,MONEY
+$29 billion,MONEY
+3%,PERCENT
+year-over-year,DATE
+Loan,PRODUCT
+Year-over-year,DATE
+$29 billion,MONEY
+loan,PRODUCT
+$49 billion,MONEY
+6%,PERCENT
+Consumer banking,PRODUCT
+9%,PERCENT
+credit,PRODUCT
+7%,PERCENT
+4%,PERCENT
+year-over-year,DATE
+$43 billion,MONEY
+nearly 3.5%,PERCENT
+year-over-year,DATE
+consumer banking,PRODUCT
+$48 billion,MONEY
+nearly 8%,PERCENT
+year-over-year,DATE
+year-over-year,DATE
+brokerage,PRODUCT
+AUM,DATE
+6,CARDINAL
+$1.2 billion,MONEY
+53,CARDINAL
+the quarter,DATE
+one,CARDINAL
+Q3,GPE
+$1 billion,MONEY
+$167 million,MONEY
+2017,DATE
+$227 million,MONEY
+Q4,CARDINAL
+$236 million,MONEY
+net reserve,ORG
+The net reserve release reflects continued improvement and our legacy consumer real estate and energy portfolios. Our reserve coverage remains strong with an allowance to,ORG
+loan,PRODUCT
+112,CARDINAL
+2.6,CARDINAL
+our full year,DATE
+7,CARDINAL
+credit,PRODUCT
+$769 million,MONEY
+$38 million,MONEY
+Q3,GPE
+2017,DATE
+credit card,PRODUCT
+2.78%,PERCENT
+NPL,CARDINAL
+$5.2 billion,MONEY
+Q3,GPE
+2008,DATE
+45%,PERCENT
+one,CARDINAL
+credit,PRODUCT
+more than $1 billion,MONEY
+Q3,GPE
+8,CARDINAL
+$11.5 billion,MONEY
+$11.7 billion,MONEY
+Q4,CARDINAL
+GAAP NII,PERSON
+$1.2 billion,MONEY
+more than 11%,PERCENT
+Q2 2017,DATE
+The increase year-over-year,DATE
+bond,PRODUCT
+16,CARDINAL
+Q4,CARDINAL
+2016,DATE
+2.39%,PERCENT
+2017,DATE
+NII,ORG
+$300 million,MONEY
+FED,ORG
+a full year,DATE
+$3.6 billion,MONEY
+9%,PERCENT
+$4.7 billion,MONEY
+2018,DATE
+loan,PRODUCT
+2017,DATE
+approximately $0.5 billion,MONEY
+2018,DATE
+2018,DATE
+the same full year,DATE
+2017,DATE
+Q1,GPE
+2018,DATE
+December,DATE
+two less days,DATE
+Q1 than,CARDINAL
+approximately $175 million,MONEY
+loan,PRODUCT
+Q1,GPE
+One,CARDINAL
+Q1,PERSON
+NII,ORG
+approximately $120 million,MONEY
+each quarter,DATE
+12/31,CARDINAL
+100%,PERCENT
+$3.3 billion,MONEY
+the subsequent 12 months,DATE
+September 30,DATE
+approximately two-thirds,CARDINAL
+9,CARDINAL
+quarter,CARDINAL
+this quarter,DATE
+just over $1 billion,MONEY
+Q1,GPE
+four quarters,DATE
+$13.3 billion,MONEY
+$140 million,MONEY
+1%,PERCENT
+Q4,QUARTER
+two,CARDINAL
+approximately $200 million,MONEY
+the prior year,DATE
+savings,PRODUCT
+2%,PERCENT
+savings,PRODUCT
+year-over-year,DATE
+companyâs,CARDINAL
+2017,DATE
+$120 million,MONEY
+the late quarter,DATE
+62%,PERCENT
+Consumer Banking,PRODUCT
+10,CARDINAL
+Q4,CARDINAL
+a tremendous year,DATE
+a full year,DATE
+$8.2 billion,MONEY
+14%,PERCENT
+2016,DATE
+50%,PERCENT
+the end of the year,DATE
+$2.2 billion,MONEY
+14%,PERCENT
+year-over-year,DATE
+24%,PERCENT
+Year-over-year,DATE
+over 600,CARDINAL
+10%,PERCENT
+4%,PERCENT
+the year-over-year,DATE
+Year-over-year,DATE
+9%,PERCENT
+8%,PERCENT
+Merrill,ORG
+brokerage,PRODUCT
+22%,PERCENT
+year-end,DATE
+savings,PRODUCT
+$107 million,MONEY
+Q4,QUARTER
+credit card,PRODUCT
+loan,PRODUCT
+$126 million,MONEY
+Q4,GPE
+1.21%,PERCENT
+11,CARDINAL
+I,PERSON
+10%,PERCENT
+year-over-year,DATE
+year-over-year,DATE
+bond,PRODUCT
+Q4,GPE
+about 90%,PERCENT
+first,ORDINAL
+savings,PRODUCT
+credit,PRODUCT
+7%,PERCENT
+year-over-year,DATE
+1.1 million,CARDINAL
+credit,PRODUCT
+the quarter,DATE
+last year,DATE
+one,CARDINAL
+5%,PERCENT
+1%,PERCENT
+4Q,CARDINAL
+Consumer Banking,PRODUCT
+roughly 80%,PERCENT
+9,CARDINAL
+10,CARDINAL
+10,CARDINAL
+brokerage,PRODUCT
+at least 760,CARDINAL
+4%,PERCENT
+Q4,CARDINAL
+the year end,DATE
+2017,DATE
+30,CARDINAL
+25,CARDINAL
+41,CARDINAL
+69,CARDINAL
+585,CARDINAL
+Merrill Lynch,ORG
+nearly 300,CARDINAL
+more than 3400,CARDINAL
+12,CARDINAL
+digital banking,PRODUCT
+digital banking,PRODUCT
+nearly 35 million,CARDINAL
+24 million,CARDINAL
+$669 billion,MONEY
+Q4,GPE
+over $2.5 trillion,MONEY
+10%,PERCENT
+1%,PERCENT
+Q4,CARDINAL
+day,DATE
+1.3 billion,CARDINAL
+23%,PERCENT
+half,CARDINAL
+loan,PRODUCT
+last quarter,DATE
+13,CARDINAL
+Q4âs,ORG
+$742 million,MONEY
+17%,PERCENT
+Q4,CARDINAL
+26%,PERCENT
+21%,PERCENT
+asset management,PRODUCT
+brokerage,PRODUCT
+7%,PERCENT
+year-over-year,DATE
+16%,PERCENT
+asset management,PRODUCT
+brokerage,PRODUCT
+4%,PERCENT
+This quarter,DATE
+AUM,DATE
+$18 billion,MONEY
+the year,DATE
+nearly $100 billion,MONEY
+Year-over-year,DATE
+3%,PERCENT
+14,CARDINAL
+$2.75 trillion,MONEY
+AUM,ORG
+loan,PRODUCT
+the reviews of previous quarters,DATE
+AUM,DATE
+brokerage,PRODUCT
+the year,DATE
+the second half of the year,DATE
+$157 billion,MONEY
+7%,PERCENT
+year-over-year,DATE
+Loan,PRODUCT
+15,CARDINAL
+$1.7 billion,MONEY
+6%,PERCENT
+Q4,QUARTER
+17%,PERCENT
+last year,DATE
+I,PERSON
+about full year,DATE
+2017,DATE
+a full year,DATE
+$20 billion,MONEY
+$7 billion,MONEY
+21%,PERCENT
+8%,PERCENT
+only 1%,PERCENT
+more than 400,CARDINAL
+the past few years,DATE
+Q4,CARDINAL
+year-over-year,DATE
+10%,PERCENT
+NII,DATE
+loan,PRODUCT
+16%,PERCENT
+year-over-year,DATE
+advisory,PRODUCT
+year-over-year,DATE
+200,CARDINAL
+43%,PERCENT
+$132 million,MONEY
+Q4,CARDINAL
+Half,CARDINAL
+half,CARDINAL
+several quarters,DATE
+4%,PERCENT
+year-over-year,DATE
+loan,PRODUCT
+savings,PRODUCT
+16,CARDINAL
+Q4,CARDINAL
+last year,DATE
+4%,PERCENT
+5%,PERCENT
+loan,PRODUCT
+one,CARDINAL
+2017,DATE
+all year,DATE
+year-over-year,DATE
+$14 billion,MONEY
+5%,PERCENT
+Q4,CARDINAL
+the second half of the year,DATE
+Q3,GPE
+Q4,GPE
+10%,PERCENT
+year-over-year,DATE
+nearly $2 billion,MONEY
+investment banking,PRODUCT
+$1.4 billion,MONEY
+the year,DATE
+16%,PERCENT
+Q4,CARDINAL
+Advisory,PRODUCT
+full year 2017,DATE
+three,CARDINAL
+investment banking,PRODUCT
+$6 billion,MONEY
+15%,PERCENT
+2016,DATE
+17,CARDINAL
+I,CARDINAL
+$3.5 billion,MONEY
+$0.5 billion,MONEY
+Year-over-year,DATE
+$238 million,MONEY
+2%,PERCENT
+year-over-year,DATE
+the middle of the quarter end through the end of the year,DATE
+the prior year,DATE
+$2.7 billion,MONEY
+9%,PERCENT
+Q4,QUARTER
+$1.7 billion,MONEY
+13%,PERCENT
+$1 billion,MONEY
+year-over-year,DATE
+5%,PERCENT
+Q4,CARDINAL
+18,CARDINAL
+the last three years,DATE
+First,ORDINAL
+the last three years,DATE
+$13 billion to $13.6 billion,MONEY
+last few years,DATE
+the last three years,DATE
+19,CARDINAL
+$2.7 billion,MONEY
+this quarter,DATE
+$2.9 billion,MONEY
+a little over $200 million,MONEY
+$0.4 billion,MONEY
+more than $130 million,MONEY
+year-over-year,DATE
+year-over-year,DATE
+Q4,PERSON
+2017,DATE
+this quarter,DATE
+2018,DATE
+2018,DATE
+around 29%,PERCENT
+approximately 20%,PERCENT
+two,CARDINAL
+one,CARDINAL
+Brian,PERSON
+Brian,PERSON
+Paul,PERSON
+Paul,PERSON
+first,ORDINAL
+nine,CARDINAL
+two,CARDINAL
+American,NORP
+first,ORDINAL
+second,ORDINAL
+nine,CARDINAL
+America,COUNTRY
+savings,PRODUCT
+second,ORDINAL
+end of day,DATE
+many quarters in a row,DATE
+Third,ORDINAL
+loan,PRODUCT
+loan,PRODUCT
+loan,PRODUCT
+$53 billion,MONEY
+2018,DATE
+fourth quarter,DATE
+$53 billion,MONEY
+$13.3 billion,MONEY
+the quarter,DATE
+$200 million,MONEY
+about $13.1 billion,MONEY
+four,CARDINAL
+52 and a quarter,DATE
+$400 million,MONEY
+the first quarter,DATE
+a couple hundred million dollars,MONEY
+fourth quarter,DATE
+$53 billion,MONEY
+youâve,ORG
+the second quarter of 2016,DATE
+first,ORDINAL
+$56 billion,MONEY
+$53 billion,MONEY
+2018,DATE
+I,PERSON
+savings,PRODUCT
+the year,DATE
+2017,DATE
+$16.6 billion,MONEY
+$16.8 billion,MONEY
+nine,CARDINAL
+first,ORDINAL
+savings,PRODUCT
+Paul,PERSON
+This year,DATE
+the tax act,LAW
+11%,PERCENT
+93,CARDINAL
+12%,PERCENT
+1%,PERCENT
+out few years ago,DATE
+100%,PERCENT
+150,CARDINAL
+more than ten,CARDINAL
+2018,DATE
+first,ORDINAL
+Betsy Graseck,PERSON
+Morgan Stanley,ORG
+Betsy Graseck,PERSON
+Brian,PERSON
+Paul,PERSON
+Betsy Graseck,PERSON
+Brian,PERSON
+I,CARDINAL
+the last two years,DATE
+I,PERSON
+$53 billion,MONEY
+youâve,ORG
+the full year,DATE
+youâve,PRODUCT
+Brian,PERSON
+I,PERSON
+Betsy,PERSON
+five years,DATE
+Tom,PERSON
+treasury,ORG
+Betsy Graseck,PERSON
+the last two years,DATE
+this year,DATE
+Brian,PERSON
+I,PERSON
+a hundred,CARDINAL
+only 23%,PERCENT
+about 30%,PERCENT
+Terry,PERSON
+Andy,PERSON
+Katy,PERSON
+Betsy Graseck,PERSON
+youâll,PERSON
+Brian,PERSON
+30%,PERCENT
+I,GPE
+Betsy Graseck,PERSON
+Brian,PERSON
+Betsy Graseck,PERSON
+Brian,PERSON
+John McDonald,PERSON
+Bernstein,ORG
+John McDonald,PERSON
+Brian,PERSON
+I,PERSON
+$53 billion,MONEY
+$53 billion,MONEY
+the next year,DATE
+Brian,PERSON
+I,PERSON
+Betsy,PERSON
+John,PERSON
+$53 billion,MONEY
+the next couple of years,DATE
+I,CARDINAL
+John,PERSON
+youâve,PERSON
+John McDonald,PERSON
+Paul,PERSON
+the fourth quarter,DATE
+Paul,PERSON
+I,PERSON
+next year,DATE
+John McDonald,PERSON
+Paul,PERSON
+the fourth quarter,DATE
+John,PERSON
+John McDonald,PERSON
+Steven Chubak,PERSON
+Nomura,ORG
+Steven Chubak,PERSON
+Hi,CARDINAL
+credit,PRODUCT
+Brian,PERSON
+NPL,ORG
+I,CARDINAL
+the coming quarters,DATE
+loan,PRODUCT
+season,DATE
+like $900 million,MONEY
+$1 billion,MONEY
+Paul,PERSON
+credit,PRODUCT
+the first three quarters of 2017,DATE
+loan,PRODUCT
+Steven Chubak,PERSON
+one,CARDINAL
+I,CARDINAL
+Brian,PERSON
+youâve,PERSON
+2019,DATE
+I,CARDINAL
+I,CARDINAL
+2018 to 2019,DATE
+Brian,PERSON
+a couple of years,DATE
+$53 billion approximate $1 billion,MONEY
+the next couple of years,DATE
+savings,PRODUCT
+Steven Chubak,PERSON
+one,CARDINAL
+one,CARDINAL
+Brian,PERSON
+30%,PERCENT
+I,CARDINAL
+Brian,PERSON
+I,PERSON
+27,CARDINAL
+26,DATE
+27,DATE
+26,CARDINAL
+I,PERSON
+the next couple years,DATE
+secondly,ORDINAL
+Steven Chubak,PERSON
+Glenn Schorr,PERSON
+Evercore,ORG
+ISI,ORG
+Glenn Schorr,PERSON
+I,PERSON
+Brian,PERSON
+I,PERSON
+I,PERSON
+Glenn Schorr,PERSON
+3%,PERCENT
+Paul,PERSON
+Brian,PERSON
+six months ago,DATE
+Merrill,ORG
+one day,DATE
+Paul,PERSON
+Glenn Schorr,PERSON
+I,PERSON
+Brian,PERSON
+Glenn Schorr,PERSON
+Matt,PERSON
+Deutsche Bank,ORG
+Matt,PERSON
+Brian,PERSON
+Matt,PERSON
+Matt,PERSON
+I,PERSON
+the full year,DATE
+I,CARDINAL
+I,CARDINAL
+$500 million,MONEY
+year-over-year,DATE
+I,PERSON
+bond,PRODUCT
+this year,DATE
+Paul,PERSON
+2018,DATE
+NIM,ORG
+loan,PRODUCT
+I,CARDINAL
+loan,PRODUCT
+bond,PRODUCT
+2017,DATE
+approximately $700 million,MONEY
+bond,PRODUCT
+the end of the year,DATE
+the end of 2016,DATE
+this year,DATE
+2017,DATE
+half,CARDINAL
+FTE,GPE
+2018,DATE
+Matt,PERSON
+I,PERSON
+Paul,PERSON
+I,PERSON
+I,PERSON
+America,COUNTRY
+Youâve,PERSON
+I,PERSON
+GUM,GPE
+fed,ORG
+2018,DATE
+Brian,PERSON
+Paul,PERSON
+Iâd,PERSON
+One,CARDINAL
+one,CARDINAL
+year-over-year,DATE
+$47 billion,MONEY
+checking,PRODUCT
+$30 billion,MONEY
+$47 billion,MONEY
+$29 billion,MONEY
+$37 billion,MONEY
+CDs,PRODUCT
+$4 billion,MONEY
+CDs,PRODUCT
+four,CARDINAL
+checking,PRODUCT
+I,PERSON
+checking,PRODUCT
+7000,MONEY
+this quarter,DATE
+Matt,PERSON
+Mike Mayo,PERSON
+Wells Fargo,ORG
+Mike Mayo,PERSON
+2017,DATE
+2016,DATE
+2018,DATE
+Brian,PERSON
+about $2.7 billion bucks,MONEY
+Mike Mayo,PERSON
+2016,DATE
+2017,DATE
+2018,DATE
+Brian,PERSON
+2017,DATE
+2018,DATE
+2017,DATE
+2018,DATE
+Mike Mayo,PERSON
+12,CARDINAL
+consumer banking,PRODUCT
+I,CARDINAL
+23%,PERCENT
+I,CARDINAL
+23%,PERCENT
+Brian,PERSON
+I,PERSON
+ATM,PRODUCT
+23%,PERCENT
+three or four years,DATE
+the 12%,PERCENT
+about a 1000,CARDINAL
+I,PERSON
+this year,DATE
+$1 billion,MONEY
+"the last five, six years",DATE
+Merrill,ORG
+America,COUNTRY
+$2 billion,MONEY
+$2.5 billion to $3 billion,MONEY
+Mike Mayo,PERSON
+12,CARDINAL
+one,CARDINAL
+consumer banking,PRODUCT
+Brian,PERSON
+I,PERSON
+50,CARDINAL
+50,CARDINAL
+I,CARDINAL
+Iâd,GPE
+10,CARDINAL
+about a 160,CARDINAL
+the last seven,DATE
+eight years,DATE
+300,CARDINAL
+161,CARDINAL
+Paul,PERSON
+161,CARDINAL
+Paul,PERSON
+Mike,PERSON
+Mike Mayo,PERSON
+Brian,PERSON
+digital banking,PRODUCT
+Brian,PERSON
+I,PERSON
+year-over-year,DATE
+$47 billion,MONEY
+I,CARDINAL
+Mike,PERSON
+Mike Mayo,PERSON
+Ken,PERSON
+Jefferies,ORG
+Ken,PERSON
+I,PERSON
+Iâd,PERSON
+loan,PRODUCT
+6%,PERCENT
+year-over-year,DATE
+loan,PRODUCT
+America,COUNTRY
+Paul,PERSON
+Loan,PRODUCT
+loan,PRODUCT
+loan,PRODUCT
+America,COUNTRY
+I,PERSON
+loan,PRODUCT
+the fourth quarter,DATE
+I,PERSON
+seasonally,DATE
+the first quarter,DATE
+next year,DATE
+I,CARDINAL
+loan,PRODUCT
+Ken,PERSON
+Paul,PERSON
+$71 billion,MONEY
+Paul,PERSON
+5 to 6,CARDINAL
+five,CARDINAL
+Ken,PERSON
+One,CARDINAL
+$300 million,MONEY
+that couple hundred million dollar,MONEY
+one,CARDINAL
+Brian,PERSON
+Ken,PERSON
+Paul,PERSON
+approximately $200 million,MONEY
+quarter-over-quarter,DATE
+90%,PERCENT
+$200 million,MONEY
+this quarter,DATE
+Ken,PERSON
+Paul,PERSON
+Saul,PERSON
+Martinez,PERSON
+UBS,ORG
+Saul,PERSON
+Martinez,PERSON
+Saul,PERSON
+Martinez,PERSON
+Brian,PERSON
+ROA,PRODUCT
+the 12%,PERCENT
+1%,PERCENT
+$53 billion,MONEY
+the next couple of years,DATE
+the next couple of years,DATE
+Brian,PERSON
+I,PERSON
+12,CARDINAL
+12,CARDINAL
+about 8%,PERCENT
+a couple years,DATE
+12,CARDINAL
+1%,PERCENT
+Saul,PERSON
+Martinez,PERSON
+I,CARDINAL
+I,CARDINAL
+Larry,PERSON
+I,PERSON
+Brian,PERSON
+I,PERSON
+four,CARDINAL
+Larry,PERSON
+years,DATE
+ESG,DATE
+I,CARDINAL
+I,PERSON
+$200 million,MONEY
+2 million,CARDINAL
+billions of dollars,MONEY
+$1 billion,MONEY
+$100 billion,MONEY
+half,CARDINAL
+some day,DATE
+Saul,PERSON
+Martinez,PERSON
+Marty,PERSON
+Vining Sparks,ORG
+Marty Mosby,PERSON
+two,CARDINAL
+$200 million,MONEY
+the first quarter,DATE
+the fourth quarter,DATE
+Brian,PERSON
+about $200 million,MONEY
+two,CARDINAL
+Brian,PERSON
+Marty,PERSON
+I,PERSON
+the fourth quarter,DATE
+$13.3 billion,MONEY
+$145 million,MONEY
+$150 million,MONEY
+one,CARDINAL
+1000,MONEY
+"under $100,000 $150,000",MONEY
+$50 million,MONEY
+the fourth quarter 2017,DATE
+$200 million,MONEY
+$13.3 billion,MONEY
+$13.1 billion,MONEY
+two,CARDINAL
+four,CARDINAL
+I,CARDINAL
+I,PERSON
+I,PERSON
+$1 billion,MONEY
+the first quarter,DATE
+2.50 per quarter,DATE
+earlier this quarter,DATE
+last quarter,DATE
+$13.3 billion,MONEY
+2.50,CARDINAL
+one quarter,DATE
+four quarters,DATE
+Paul,PERSON
+the quarter,DATE
+the fourth quarter,DATE
+Brian,PERSON
+year-over-year,DATE
+Marty Mosby,PERSON
+I,PERSON
+two,CARDINAL
+I,PERSON
+two,CARDINAL
+I,PERSON
+Paul,PERSON
+$22 million,MONEY
+the fourth quarter,DATE
+Brian,PERSON
+Marty,PERSON
+a given quarter,DATE
+Marty Mosby,PERSON
+One,CARDINAL
+I,PERSON
+Paul,PERSON
+Brian,PERSON
+$40 billion,MONEY
+$50 billion,MONEY
+year-over-year,DATE
+Paul,PERSON
+Brian,PERSON
+Gerard Cassidy,PERSON
+Gerard Cassidy,PERSON
+Hi,CARDINAL
+Brian,PERSON
+Brian,PERSON
+Gerard Cassidy,PERSON
+fourth quarter,DATE
+Brian,PERSON
+I,PERSON
+credit,PRODUCT
+today,DATE
+years,DATE
+credit,PRODUCT
+this quarter,DATE
+credit,PRODUCT
+year-over-year,DATE
+Gerard Cassidy,PERSON
+the end of the fourth quarter,DATE
+2018,DATE
+second,ORDINAL
+investment banking,PRODUCT
+I,PERSON
+400,CARDINAL
+Brian,PERSON
+Gerard Cassidy,PERSON
+Brian,PERSON
+Paul,PERSON
+Paul,PERSON
+investment banking,PRODUCT
+the year,DATE
+Q3,QUARTER
+Q4,GPE
+I,PERSON
+2018,DATE
+the year-end,DATE
+three,CARDINAL
+investment banking,PRODUCT
+Brian,PERSON
+one,CARDINAL
+the full year of 2017,DATE
+credit,PRODUCT
+6%,PERCENT
+2016,DATE
+2016,DATE
+2015,DATE
+a little under 3%,PERCENT
+credit,PRODUCT
+"6%,7%",PERCENT
+Paul,PERSON
+the month of December,DATE
+faster than the year,DATE
+7%,PERCENT
+6%,PERCENT
+Gerard Cassidy,PERSON
+I,PERSON
+30%,PERCENT
+I,CARDINAL
+40%,PERCENT
+Brian,PERSON
+I,PERSON
+I,CARDINAL
+70%,PERCENT
+I,CARDINAL
+Gerard Cassidy,PERSON
+Brian,PERSON
+Vivek Juneja,PERSON
+JP Morgan,PERSON
+Vivek Juneja,PERSON
+Paul,PERSON
+I,CARDINAL
+Q1,GPE
+Q4,CARDINAL
+December,DATE
+the day,DATE
+Paul,PERSON
+I,PERSON
+I,PERSON
+two fewer days,DATE
+Q4,GPE
+Q4,GPE
+loan,PRODUCT
+the quarter,DATE
+Vivek Juneja,PERSON
+Brian,PERSON
+One,CARDINAL
+2%,PERCENT
+Brian,PERSON
+about $175 million,MONEY
+$200 million,MONEY
+1 million,CARDINAL
+Iâd,PERSON
+I,PERSON
+1%,PERCENT
+Vivek Juneja,PERSON
+Brian Kleinhanzl,PERSON
+KBW,ORG
+Brian Kleinhanzl,PERSON
+I,PERSON
+the quarter,DATE
+up to 125%,PERCENT
+I,CARDINAL
+Paul,PERSON
+Paul,PERSON
+$10 million,MONEY
+daily,DATE
+every single quarter,DATE
+NII,DATE
+Brian Kleinhanzl,PERSON
+just one,CARDINAL
+the 2019,DATE
+I,CARDINAL
+I,CARDINAL
+$53 billion,MONEY
+2019,DATE
+Brian,PERSON
+$53 billion,MONEY
+2018,DATE
+6%,PERCENT
+I,CARDINAL
+I,PERSON
+one,CARDINAL
+400,CARDINAL
+400,CARDINAL
+tomorrow,DATE
+$53 billion,MONEY
+the end of the day,DATE
+12 quarters in a row,DATE
+Brian Kleinhanzl,PERSON
+Iâd,PERSON
+Brian,PERSON
+2018,DATE

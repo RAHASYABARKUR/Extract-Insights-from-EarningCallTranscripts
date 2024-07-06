@@ -1,0 +1,676 @@
+word,label
+Good day,DATE
+Apple,ORG
+first quarter fiscal year 2017,DATE
+Today,DATE
+Nancy Paxton,PERSON
+Nancy Paxton,PERSON
+Apple,ORG
+afternoon,TIME
+today,DATE
+first,ORDINAL
+Apple,ORG
+Tim Cook,PERSON
+Luca Maestri,PERSON
+today,DATE
+Apple,ORG
+2016,DATE
+SEC,ORG
+today,DATE
+the associated press,ORG
+Apple,ORG
+Tim,PERSON
+Timothy Donald Cook,PERSON
+Apple,ORG
+Nancy,PERSON
+Apple,ORG
+December quarter,DATE
+quarterly,DATE
+Apple,ORG
+iPhone,PRODUCT
+Apple Watch,PRODUCT
+Mac,ORG
+four,CARDINAL
+five,CARDINAL
+the quarter,DATE
+$78.4 billion,MONEY
+iPhone,PRODUCT
+a tremendous quarter,DATE
+iPhone 7,PRODUCT
+iPhone 7 Plus,PRODUCT
+Plus,CARDINAL
+iPhone 7 Plus,PRODUCT
+the quarter,DATE
+January,DATE
+iPhone 7 Plus,PRODUCT
+Apple,ORG
+iPhone 7,PRODUCT
+iPhone 7 Plus,PRODUCT
+Apple,ORG
+almost $7.2 billion,MONEY
+App Store,PRODUCT
+the holiday quarter,DATE
+$3 billion,MONEY
+December,DATE
+App Store,PRODUCT
+over 2.2 million,CARDINAL
+Apple,ORG
+over $60 billion,MONEY
+over $20 billion,MONEY
+2016,DATE
+the third quarter in a row,DATE
+AppleCare,PRODUCT
+Apple Pay,PRODUCT
+the past year,DATE
+hundreds of millions,CARDINAL
+billions of dollars,MONEY
+the December quarter,DATE
+year,DATE
+year,DATE
+four,CARDINAL
+Japan,COUNTRY
+Russia,COUNTRY
+New Zealand,COUNTRY
+Spain,COUNTRY
+13,CARDINAL
+Apple Pay,PRODUCT
+Nearly 2 million,CARDINAL
+this quarter,DATE
+monthly,DATE
+bill,PERSON
+Apple Pay,PRODUCT
+100,CARDINAL
+this year,DATE
+over 150 million,CARDINAL
+third,ORDINAL
+the next four years,DATE
+quarterly,DATE
+first,ORDINAL
+the December quarter,DATE
+Apple Watch,PRODUCT
+Apple Watch,PRODUCT
+Apple Watch,PRODUCT
+Apple Watch,PRODUCT
+AirPods,PRODUCT
+AirPods,PRODUCT
+today,DATE
+AirPods,PRODUCT
+full first year,DATE
+Apple Watch,PRODUCT
+Apple,ORG
+wearables,NORP
+over 200,CARDINAL
+five,CARDINAL
+10,CARDINAL
+United States,COUNTRY
+1 million,CARDINAL
+first,ORDINAL
+iOS,PRODUCT
+10,CARDINAL
+Siri,PRODUCT
+iOS,PRODUCT
+10,CARDINAL
+iPhone,PRODUCT
+iPad,PRODUCT
+Apple Watch,PRODUCT
+just this month,DATE
+iOS,PRODUCT
+Siri,PRODUCT
+Siri,PRODUCT
+iPhone,PRODUCT
+just a few years ago,DATE
+today,DATE
+iOS,PRODUCT
+iOS,PRODUCT
+Cisco,GPE
+up to eight,CARDINAL
+70%,PERCENT
+last quarter,DATE
+IBM,ORG
+iOS,PRODUCT
+later this spring,DATE
+iOS,PRODUCT
+more than 2.5 million,CARDINAL
+iOS,PRODUCT
+iOS,PRODUCT
+December quarter,DATE
+Luca,PERSON
+the quarter,DATE
+Luca Maestri,PERSON
+Apple,ORG
+Tim,PERSON
+the December quarter,DATE
+$78.4 billion,MONEY
+quarterly,DATE
+Apple,ORG
+Tim,PERSON
+iPhone,PRODUCT
+Apple Watch,PRODUCT
+Japan,COUNTRY
+Canada,COUNTRY
+France,COUNTRY
+Australia,COUNTRY
+Brazil,COUNTRY
+India,COUNTRY
+Turkey,COUNTRY
+Russia,COUNTRY
+year-over-year,DATE
+China,COUNTRY
+the September quarter,DATE
+China,COUNTRY
+12%,PERCENT
+China,COUNTRY
+a year ago,DATE
+quarterly,DATE
+a 14th week,DATE
+the quarter this year,DATE
+four,CARDINAL
+First,ORDINAL
+this year,DATE
+China,COUNTRY
+less than a year ago,DATE
+Second,ORDINAL
+iPhone 7,PRODUCT
+earlier in the September quarter,DATE
+iPhone 6s,PRODUCT
+the previous year,DATE
+the December quarter this year,DATE
+Third,ORDINAL
+this year,DATE
+100,CARDINAL
+fourth,ORDINAL
+year-ago,DATE
+one,CARDINAL
+$548 million,MONEY
+the quarter this year,DATE
+38.5%,PERCENT
+29.8%,PERCENT
+$17.9 billion,MONEY
+3.36,MONEY
+$27.1 billion,MONEY
+iPhone,PRODUCT
+78.3 million,CARDINAL
+5%,PERCENT
+last year,DATE
+iPhone,PRODUCT
+8%,PERCENT
+iPhone,PRODUCT
+Canada,COUNTRY
+Western Europe,COUNTRY
+Japan,COUNTRY
+Australia,COUNTRY
+Brazil,COUNTRY
+Turkey,COUNTRY
+Russia,COUNTRY
+Eastern Europe,COUNTRY
+Vietnam,COUNTRY
+iPhone,PRODUCT
+695,MONEY
+the December quarter,DATE
+619,MONEY
+the September quarter,DATE
+iPhone 7 Plus,PRODUCT
+last year,DATE
+only 1.2 million,CARDINAL
+iPhone,PRODUCT
+the quarter,DATE
+3.3 million,CARDINAL
+a year ago,DATE
+the quarter,DATE
+5,CARDINAL
+iPhone,PRODUCT
+451,CARDINAL
+97%,PERCENT
+iPhone,PRODUCT
+99%,PERCENT
+iPhone 7 Plus,PRODUCT
+iPhone,PRODUCT
+94%,PERCENT
+the March quarter,DATE
+78%,PERCENT
+iPhone,PRODUCT
+$7.2 billion,MONEY
+18%,PERCENT
+year,DATE
+year,DATE
+two,CARDINAL
+the 14th week,DATE
+this December quarter,DATE
+one,CARDINAL
+$548 million,MONEY
+a year ago,DATE
+App Store,PRODUCT
+Year-over-year,DATE
+43%,PERCENT
+the first 13 weeks of the quarter,DATE
+the quarter,DATE
+App Store,PRODUCT
+Google,ORG
+2016,DATE
+Mac,ORG
+5.4 million,CARDINAL
+quarterly,DATE
+Japan,COUNTRY
+China,COUNTRY
+India,COUNTRY
+Netherlands,COUNTRY
+Sweden,GPE
+the quarter,DATE
+4,CARDINAL
+Mac channel inventory,ORG
+iPad,PRODUCT
+13.1 million,CARDINAL
+China,COUNTRY
+India,COUNTRY
+first,ORDINAL
+"about 700,000",CARDINAL
+"900,000",CARDINAL
+last year,DATE
+the quarter,DATE
+five to seven-week,CARDINAL
+iPad,PRODUCT
+iPad,PRODUCT
+85%,PERCENT
+above $200,MONEY
+November,DATE
+451,CARDINAL
+94%,PERCENT
+iPad,PRODUCT
+97%,PERCENT
+iPad,PRODUCT
+96%,PERCENT
+iPad Pro,PRODUCT
+the next six months,DATE
+iPad,PRODUCT
+more than four,CARDINAL
+iPad Pro,PRODUCT
+96%,PERCENT
+66%,PERCENT
+the March quarter,DATE
+iPad,PRODUCT
+iPhone,PRODUCT
+iOS,PRODUCT
+iOS,PRODUCT
+the December quarter,DATE
+first,ORDINAL
+Singapore,COUNTRY
+second,ORDINAL
+Dubai,GPE
+the quarter,DATE
+$246.1 billion,MONEY
+$8.5 billion,MONEY
+$230.2 billion,MONEY
+94%,PERCENT
+United States,COUNTRY
+$77.1 billion,MONEY
+$10.5 billion,MONEY
+quarter end,DATE
+almost $15 billion,MONEY
+December quarter,DATE
+$3.1 billion,MONEY
+$5 billion,MONEY
+44.3 million,CARDINAL
+Apple,ORG
+$6 billion,MONEY
+44.8 million,CARDINAL
+an additional 4.4 million,CARDINAL
+65.3 million,CARDINAL
+the quarter,DATE
+$201 billion,MONEY
+$250 billion,MONEY
+$144 billion,MONEY
+annual,DATE
+the spring,DATE
+the quarter,DATE
+26%,PERCENT
+the March quarter,DATE
+Nancy,PERSON
+between $51.5 billion and $53.5 billion,MONEY
+$1.2 billion,MONEY
+year-over-year,DATE
+between 38% and 39%,PERCENT
+80,CARDINAL
+between $6.5 billion and $6.6 billion,MONEY
+OI&E,PERSON
+about $400 million,MONEY
+about 26%,PERCENT
+today,DATE
+0.57,MONEY
+"February 16, 2017",DATE
+"February 13, 2017",DATE
+Nancy Paxton,PERSON
+Apple,ORG
+one,CARDINAL
+one,CARDINAL
+one,CARDINAL
+first,ORDINAL
+first,ORDINAL
+Katy Huberty,PERSON
+Morgan Stanley,ORG
+Kathryn,PERSON
+Lynn,PERSON
+Huberty,PERSON
+Morgan Stanley,ORG
+First,ORDINAL
+Luca,PERSON
+the March quarter,DATE
+one,CARDINAL
+two,CARDINAL
+Luca Maestri,PERSON
+Apple,ORG
+Katy,PERSON
+100,CARDINAL
+the December to the March quarter,DATE
+the end of the December quarter,DATE
+80,CARDINAL
+two,CARDINAL
+today,DATE
+Kathryn,PERSON
+Lynn,PERSON
+Huberty,PERSON
+Morgan Stanley,ORG
+Tim,PERSON
+$200 billion-plus,MONEY
+TV,PRODUCT
+Timothy Donald Cook,PERSON
+Apple,ORG
+Katy,PERSON
+this year,DATE
+Apple,ORG
+I,ORG
+15 to 20,CARDINAL
+the last four years,DATE
+Apple Music,PRODUCT
+the year,DATE
+Apple,ORG
+a year ago,DATE
+a year,DATE
+Two,CARDINAL
+150 million,CARDINAL
+third,ORDINAL
+thirdly,ORDINAL
+Kathryn,PERSON
+Lynn,PERSON
+Huberty,PERSON
+Morgan Stanley,ORG
+Nancy Paxton,PERSON
+Apple,ORG
+Katy,PERSON
+Amit Daryanani,PERSON
+RBC Capital Markets,ORG
+Amit Daryanani,PERSON
+RBC Capital Markets,ORG
+first,ORDINAL
+18%,PERCENT
+year,DATE
+year,DATE
+iOS,PRODUCT
+two,CARDINAL
+Luca Maestri,PERSON
+Apple,ORG
+Amit,PERSON
+two,CARDINAL
+two,CARDINAL
+Tim,PERSON
+100,CARDINAL
+this year,DATE
+the next four years,DATE
+Amit Daryanani,PERSON
+RBC Capital Markets,ORG
+China,COUNTRY
+China,COUNTRY
+China,COUNTRY
+the year,DATE
+Timothy Donald Cook,PERSON
+Apple,ORG
+the quarter,DATE
+Luca,PERSON
+China,COUNTRY
+12%,PERCENT
+about 4,CARDINAL
+8,CARDINAL
+China,COUNTRY
+year,DATE
+year,DATE
+6%,PERCENT
+the prior three quarters,DATE
+iPhone 7,PRODUCT
+China,COUNTRY
+the quarter,DATE
+Kantar,GPE
+Singles,PERSON
+a huge day,DATE
+China,COUNTRY
+China,COUNTRY
+Mac,ORG
+year,DATE
+iPad,PRODUCT
+China,COUNTRY
+50%,PERCENT
+iPhone,PRODUCT
+China,COUNTRY
+first,ORDINAL
+6%,PERCENT
+year,DATE
+year,DATE
+two,CARDINAL
+Hong Kong,COUNTRY
+Nancy Paxton,PERSON
+Apple,ORG
+Amit,PERSON
+Cross Research,ORG
+Shannon,PERSON
+Shannon,PERSON
+Cross Research,ORG
+the next four years,DATE
+Luca Maestri,PERSON
+Apple,ORG
+Shannon,PERSON
+App Store,PRODUCT
+I,ORG
+43%,PERCENT
+13 weeks over 13 weeks,DATE
+the quarter,DATE
+App Store,PRODUCT
+China,COUNTRY
+App Store,PRODUCT
+digital music,ORG
+the last three quarters,DATE
+Tim,PERSON
+iCloud,PRODUCT
+AppleCare,PRODUCT
+the last 90 days,DATE
+Shannon,PERSON
+Cross Research,ORG
+this quarter,DATE
+iPhone 7 Plus,PRODUCT
+Luca Maestri,PERSON
+Apple,ORG
+Shannon,PERSON
+June of 2014,DATE
+about 2.5 years ago,DATE
+25%,PERCENT
+China,COUNTRY
+India,COUNTRY
+Brazil,COUNTRY
+Nancy Paxton,PERSON
+Apple,ORG
+Shannon,PERSON
+Brian,PERSON
+Drexel,ORG
+Brian,PERSON
+Luca,PERSON
+the quarter,DATE
+Luca Maestri,PERSON
+Apple,ORG
+38% to 38.5%,PERCENT
+38.5%,PERCENT
+the quarter,DATE
+Brian,PERSON
+Tim,PERSON
+India,COUNTRY
+India,COUNTRY
+iPhone,PRODUCT
+2017,DATE
+4,CARDINAL
+Timothy Donald Cook,PERSON
+Apple,ORG
+India,COUNTRY
+last quarter,DATE
+Nancy Paxton,PERSON
+Apple,ORG
+Brian,PERSON
+Goldman Sachs,ORG
+Simona Jankowski,PERSON
+Simona,PERSON
+Jankowski,PERSON
+Goldman Sachs,ORG
+Hi,PERSON
+iPhone,PRODUCT
+the quarter,DATE
+China,COUNTRY
+China,COUNTRY
+Timothy Donald Cook,PERSON
+Apple,ORG
+Simona,PERSON
+Tim,PERSON
+an exceptional quarter,DATE
+iPhone,PRODUCT
+iPhone 7 Plus,PRODUCT
+the quarter,DATE
+any quarter,DATE
+any quarter,DATE
+last year,DATE
+a quarter,DATE
+Simona,PERSON
+Jankowski,PERSON
+Goldman Sachs,ORG
+one,CARDINAL
+China,COUNTRY
+this year,DATE
+China,COUNTRY
+iPad,PRODUCT
+iPhone 7 Plus,PRODUCT
+iPhone,PRODUCT
+China,COUNTRY
+Timothy Donald Cook,PERSON
+Apple,ORG
+iPhone 7 Plus,PRODUCT
+today,DATE
+the following quarter,DATE
+Simona,PERSON
+Jankowski,PERSON
+Goldman Sachs,ORG
+Timothy Donald Cook,PERSON
+Apple,ORG
+Nancy Paxton,PERSON
+Apple,ORG
+Simona,PERSON
+Bernstein,ORG
+Toni Sacconaghi,PERSON
+Antonio,PERSON
+Sacconaghi,PERSON
+Bernstein,ORG
+iPhone,PRODUCT
+about 8%,PERCENT
+an extra week,DATE
+about 8%,PERCENT
+iPhone,PRODUCT
+Luca,PERSON
+iPhone 6,PRODUCT
+the last couple years,DATE
+the last two years,DATE
+Luca Maestri,PERSON
+Apple,ORG
+iPhones,PRODUCT
+iPhone,PRODUCT
+United States,COUNTRY
+annual,DATE
+Canada,COUNTRY
+Australia,COUNTRY
+Western Europe,COUNTRY
+Japan,COUNTRY
+United States,COUNTRY
+up to 20%,PERCENT
+30%,PERCENT
+40%,PERCENT
+Tim,PERSON
+last year,DATE
+6,CARDINAL
+Antonio,PERSON
+Sacconaghi,PERSON
+Bernstein,ORG
+Tim,PERSON
+April 2012,DATE
+one,CARDINAL
+Qualcomm,ORG
+Timothy Donald Cook,PERSON
+Apple,ORG
+April of 2012,DATE
+Qualcomm,ORG
+withheld $1 billion,MONEY
+Nancy Paxton,PERSON
+Apple,ORG
+Toni,PERSON
+Steve,PERSON
+UBS,ORG
+Steven,PERSON
+UBS Securities,ORG
+First,ORDINAL
+iPad,PRODUCT
+iPad,PRODUCT
+Timothy Donald Cook,PERSON
+Apple,ORG
+iPad,PRODUCT
+Steve,PERSON
+1.6 million,CARDINAL
+between the years,DATE
+the year-ago quarter,DATE
+"900,000",CARDINAL
+this quarter,DATE
+"700,000",CARDINAL
+the year-ago quarter,DATE
+iPad,PRODUCT
+13,CARDINAL
+iPad,PRODUCT
+that particular quarter,DATE
+iPads,PRODUCT
+the quarter,DATE
+one,CARDINAL
+iPad,PRODUCT
+iPads,PRODUCT
+first,ORDINAL
+iPad Pro,PRODUCT
+99%,PERCENT
+the quarter,DATE
+this quarter,DATE
+iPad,PRODUCT
+Steven,PERSON
+UBS Securities,ORG
+Tim,PERSON
+iPhone,PRODUCT
+Timothy Donald Cook,PERSON
+Apple,ORG
+every year,DATE
+one,CARDINAL
+Steven,PERSON
+UBS Securities,ORG
+Timothy Donald Cook,PERSON
+Apple,ORG
+Nancy Paxton,PERSON
+Apple,ORG
+Steve,PERSON
+today,DATE
+two weeks,DATE
+888,CARDINAL
+719,CARDINAL
+3378275,DATE
+approximately 5:00 PM Pacific Time,TIME
+today,DATE
+Kristin,PERSON
+408,CARDINAL
+Joan Hoover,PERSON
+Joan,PERSON
+408,CARDINAL
+408,CARDINAL
+today,DATE

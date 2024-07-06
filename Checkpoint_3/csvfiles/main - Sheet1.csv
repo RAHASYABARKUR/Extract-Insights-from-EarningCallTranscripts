@@ -1,0 +1,14 @@
+apple,amazon,boa,wellsfargo,jpmc,morgan ,goldmansachs,facebook,google,citi
+appl.pt,amazon.pt,fin.pt,fin.pt,fin.pt,fin.pt,fin.pt,facebook.pt,google.pt,fin.pt
+apple_path,amazon_path,boa_path,wellsfargo_path,jpmc_path,morgan_path,gs_path,facebook_path,google_path,citi_path
+apple_name,amazon_name,boa_name,wellsfargo_name,jpmc_name,morgan_name,gs_name,facebook_name,google_name,citi_name
+apple_quarter,amazon_quarter,boa_quarter,wellsfargo_quarter,jpmc_quarter,morgan_quarter,gs_quarter,facebook_quarter,google_quarter,citi_quarter
+Country,Country,Country,Country,Country,Country,Country,Country,Country,Country
+Country replace,Country replace,Country replace,Country replace,Country replace,Country replace,Country replace,Country replace,Country replace,Country replace
+apple,amazon,fin,fin,fin,fin,fin,amazon,amazon,fin
+apple replace,amazon replace,fin replace,fin replace,fin replace,fin replace,fin replace,amazon replace,amazon replace,fin replace
+prod_apple.csv,prod_amazon.csv,prod_boa.csv,prod_wellsfargo.csv,prod_jpmc.csv,prod_morgan.csv,prod_gs.csv,prod_facebook.csv,prod_google.csv,prod_cit.csv
+country_apple.csv,country_amazon.csv,country_boa.csv,country_wellsfargo.csv,country_jpmc.csv,country_morgan.csv,country_gs.csv,country_facebook.csv,country_google.csv,country_citi.csv
+country_apple.png,country_amazon.png,country_boa.png,country_wellsfargo.png,country_jpmc.png,country_morgan.png,country_gs.png,country_facebook.png,country_google.png,country_citi.png
+product_apple.mp4,product_amazon.mp4,product_boa.mp4,product_wellsfargo.mp4,product_jpmc.mp4,product_morgan.mp4,product_gs.mp4,product_facebook.mp4,product_google.mp4,product_citi.mp4
+22,15,22,22,22,22,22,22,22,22

@@ -1,0 +1,531 @@
+word,label
+operatorgood day,DATE
+the apple inc.,ORG
+tejas gala,PERSON
+afternoon,TIME
+first,ORDINAL
+today,DATE
+apple,ORG
+tim cook,PERSON
+today,DATE
+covid-19,DISEASE
+apple,ORG
+sec,ORG
+today,DATE
+the associated press release,ORG
+apple,ORG
+tim,PERSON
+tejas,GPE
+good afternoon,TIME
+today,DATE
+well.today,DATE
+apple,ORG
+$58.3 billion,MONEY
+quarterly,DATE
+wearables,NORP
+quarterly,DATE
+apple,ORG
+covid-19,DISEASE
+apple,ORG
+january,DATE
+apple,ORG
+apple,ORG
+covid-19,DISEASE
+q2,CARDINAL
+more than 30 million,CARDINAL
+ipad,PRODUCT
+macbook air,PRODUCT
+iphone,PRODUCT
+more than 7.5 million,CARDINAL
+more than 1 million,CARDINAL
+these every week,DATE
+a minute,TIME
+covid-19,DISEASE
+apple news,ORG
+125 million,CARDINAL
+monthly,DATE
+covid-19,DISEASE
+march,DATE
+april,DATE
+oprah,PERSON
+tv,PRODUCT
+facetime,PRODUCT
+daily,DATE
+this quarter,DATE
+first,ORDINAL
+later this quarter,DATE
+covid-19,DISEASE
+app,ORG
+cdc,ORG
+today,DATE
+app,ORG
+nearly 2 million,CARDINAL
+3 million,CARDINAL
+this month,DATE
+design.we,ORG
+americans,NORP
+two,CARDINAL
+one,CARDINAL
+apple,ORG
+apple,ORG
+the hour,TIME
+february,DATE
+the end of march,DATE
+ipads,PRODUCT
+tens of thousands,CARDINAL
+ontario,GPE
+canada,GPE
+glasgow,GPE
+scotland,GPE
+puerto rico,GPE
+"100,000",CARDINAL
+los angeles,GPE
+"350,000",CARDINAL
+new york city,GPE
+ipad,PRODUCT
+early march,DATE
+90 days,DATE
+apple watch,PRODUCT
+fda,ORG
+ecg,ORG
+apple watch,PRODUCT
+stanford,ORG
+ipad,PRODUCT
+iphone,PRODUCT
+covid-19,DISEASE
+apple,ORG
+the quarter,DATE
+$58.3 billion,MONEY
+$45 billion,MONEY
+three,CARDINAL
+the march quarter,DATE
+apple,ORG
+the first five weeks of the quarter,DATE
+a record second quarter,DATE
+the next five weeks of the quarter,DATE
+covid-19,DISEASE
+china,GPE
+iphone,PRODUCT
+china,GPE
+february,DATE
+china,GPE
+the last three weeks of the quarter,DATE
+china,GPE
+march 13,DATE
+iphone,PRODUCT
+wearables,NORP
+the coming quarter,DATE
+covid-19,DISEASE
+iphone,PRODUCT
+fiscal 2016,DATE
+2020,DATE
+five-year,DATE
+$350 billion,MONEY
+the united states,GPE
+apple,ORG
+maestri,PERSON
+tim,PERSON
+afternoon,TIME
+everyone.it,PERSON
+the end of january,DATE
+the quarter,DATE
+$58.3 billion,MONEY
+1%,PERCENT
+a year ago,DATE
+covid-19,DISEASE
+100,CARDINAL
+$45 billion,MONEY
+3%,PERCENT
+a very strong january,DATE
+the last three weeks of the quarter,DATE
+covid-19,DISEASE
+iphone,PRODUCT
+a year,DATE
+year-over-year,DATE
+17%,PERCENT
+$13.3 billion,MONEY
+this later,DATE
+38.4%,PERCENT
+30.3%,PERCENT
+380,CARDINAL
+covid-19,DISEASE
+65.4%,PERCENT
+100,CARDINAL
+the quarter,DATE
+14.4%,PERCENT
+16.5%,PERCENT
+$11.2 billion,MONEY
+2.55,MONEY
+4%,PERCENT
+$13.3 billion,MONEY
+$2.2 billion,MONEY
+a year ago.let,DATE
+iphone,PRODUCT
+$29 billion,MONEY
+7%,PERCENT
+year-over-year,DATE
+iphone,PRODUCT
+covid-19,DISEASE
+the quarter,DATE
+february,DATE
+the quarter,DATE
+first,ORDINAL
+five weeks,DATE
+covid-19,DISEASE
+china,GPE
+the next five weeks,DATE
+the last three weeks of the quarter,DATE
+the end of the quarter,DATE
+iphones,PRODUCT
+us,GPE
+451,CARDINAL
+iphone,PRODUCT
+99%,PERCENT
+iphone,PRODUCT
+11,DATE
+11,CARDINAL
+11,CARDINAL
+$13.3 billion,MONEY
+apple music,PRODUCT
+march quarter,DATE
+apple arcade,PERSON
+apple news+,PERSON
+tim,PERSON
+2020.app,CARDINAL
+third,ORDINAL
+over 30%,PERCENT
+year-over-year,DATE
+first,ORDINAL
+apple music,PRODUCT
+apple care,ORG
+march quarter,DATE
+three,CARDINAL
+the march quarter,DATE
+segments.we,PERSON
+515 million,CARDINAL
+125 million,CARDINAL
+a year ago,DATE
+over 35 million,CARDINAL
+600 million,CARDINAL
+2020.wearables,CARDINAL
+march quarter,DATE
+$6.3 billion,MONEY
+23%,PERCENT
+year-over-year,DATE
+five,CARDINAL
+wearables,NORP
+140,CARDINAL
+apple watch,PRODUCT
+over 75%,PERCENT
+apple watch,PRODUCT
+the quarter,DATE
+mac,ORG
+ipad,PRODUCT
+mac,ORG
+$5.4 billion,MONEY
+ipad,PRODUCT
+$4.4 billion,MONEY
+the end of the quarter,DATE
+ipad,PRODUCT
+first,ORDINAL
+macbook air,PRODUCT
+around half,CARDINAL
+ipads,PRODUCT
+the quarter,DATE
+mac,ORG
+ipad,PRODUCT
+451,CARDINAL
+95%,PERCENT
+ipad,PRODUCT
+96%,PERCENT
+ipads,PRODUCT
+mac,ORG
+ibm,ORG
+sap,ORG
+apple,ORG
+zero,CARDINAL
+just a few hours,TIME
+peloton,GPE
+new york,GPE
+joe,PERSON
+sainsbury's,ORG
+lidl,PERSON
+carrefour,ORG
+apple,ORG
+ios,PRODUCT
+daily,DATE
+bank of america,ORG
+tens of thousands,CARDINAL
+ios,PRODUCT
+first,ORDINAL
+the quarter,DATE
+$193 billion,MONEY
+$110 billion,MONEY
+$83 billion,MONEY
+the end of the quarter,DATE
+$22 billion,MONEY
+the march quarter,DATE
+$18.5 billion,MONEY
+64.7 million,CARDINAL
+apple,ORG
+$3.4 billion,MONEY
+the june quarter,DATE
+tim,PERSON
+the coming quarter,DATE
+april,DATE
+us,GPE
+more than $1.5 billion,MONEY
+ipad,PRODUCT
+macbook air,PRODUCT
+iphone,PRODUCT
+iphone,PRODUCT
+year-over-year,DATE
+the june quarter,DATE
+the march quarter,DATE
+ipad,PRODUCT
+mac,ORG
+year-over-year,DATE
+june,DATE
+two,CARDINAL
+first,ORDINAL
+the june quarter,DATE
+second,ORDINAL
+third,ORDINAL
+70,CARDINAL
+130,CARDINAL
+year-over-year,DATE
+over $350 billion,MONEY
+us,GPE
+five-year,DATE
+today,DATE
+$50 billion,MONEY
+over $40 billion,MONEY
+6%,PERCENT
+quarterly,DATE
+today,DATE
+0.82,MONEY
+"may 14, 2020",DATE
+may 11,DATE
+first,ORDINAL
+shannon cross,ORG
+cross research.shannon cross -- cross research,ORG
+tim,PERSON
+the second half of april,DATE
+shannon,GPE
+china,GPE
+china,GPE
+the end of january,DATE
+february,DATE
+february,DATE
+mid-february,DATE
+the second half of february,DATE
+about 30 days,DATE
+mid-march.and,GPE
+march,DATE
+february,DATE
+today,DATE
+april,DATE
+march,DATE
+china,GPE
+january,DATE
+the first five weeks of the quarter,DATE
+the next five weeks,DATE
+china,GPE
+march,DATE
+two,CARDINAL
+three-week's,DATE
+the end of the quarter,DATE
+april,DATE
+early april,DATE
+the end of march,DATE
+the second half of april,DATE
+april,DATE
+more.in,PERSON
+ipad,PRODUCT
+mac,ORG
+this quarter,DATE
+the quarter,DATE
+you.luca maestri,PERSON
+shannon,GPE
+intel,ORG
+shannon,PRODUCT
+bank of america,ORG
+tim,PERSON
+apple,ORG
+cook,PERSON
+mohan -- bank of america,ORG
+tim,PERSON
+apple,ORG
+the next several quarters,DATE
+iphone,PRODUCT
+ipad,PRODUCT
+macbook air,PRODUCT
+are.but,DATE
+this quarter,DATE
+bank of america,ORG
+tim,PERSON
+iphones,PRODUCT
+cook,PERSON
+apple,ORG
+iphone,PRODUCT
+today,DATE
+the united states,GPE
+more degrees,QUANTITY
+morgan stanley's,ORG
+katy huberty.katy huberty,PERSON
+morgan stanley,ORG
+tim,PERSON
+apple,ORG
+today,DATE
+ecg,ORG
+us,GPE
+morgan stanley,ORG
+$50 billion,MONEY
+the last couple of years,DATE
+$50 billion,MONEY
+first,ORDINAL
+the last several years,DATE
+the end of every quarter,DATE
+$50 billion,MONEY
+over $40 billion,MONEY
+over $90,MONEY
+the last several years,DATE
+a year from now,DATE
+m&a,ORG
+the last several years,DATE
+morgan stanley,ORG
+officerthank you.tejas gala,PERSON
+katy,PERSON
+daryanani,PERSON
+isi,ORG
+two,CARDINAL
+first,ORDINAL
+the march quarter,DATE
+june quarter,DATE
+iphones,PRODUCT
+expectation?tim,ORG
+tim,PERSON
+iphone,PRODUCT
+q2,LAW
+the previous year,DATE
+q2,CARDINAL
+the first half of the calendar year,DATE
+the second half of the calendar year,DATE
+today,DATE
+this year,DATE
+isi,ORG
+tim,PERSON
+apple,ORG
+the last 12 months,DATE
+today,DATE
+apple?tim cook,PERSON
+one,CARDINAL
+the final assembly,ORG
+the united states,GPE
+china,GPE
+this quarter,DATE
+jeriel ong,PERSON
+deutsche bank.jeriel ong,ORG
+deutsche bank,ORG
+the quarter,DATE
+the year,DATE
+the june quarter,DATE
+two,CARDINAL
+the march quarter,DATE
+two,CARDINAL
+the june quarter,DATE
+one,CARDINAL
+apple care,ORG
+apple,ORG
+june,DATE
+apple news,ORG
+third,ORDINAL
+two,CARDINAL
+the june quarter,DATE
+business.jeriel ong,PERSON
+deutsche bank,ORG
+second,ORDINAL
+april,DATE
+'20,DATE
+iphone,PRODUCT
+iphone,PRODUCT
+android,GPE
+two,CARDINAL
+ipad,PRODUCT
+ipad,PRODUCT
+jeriel,PERSON
+ong,PERSON
+deutsche bank,ORG
+jp morgan's,PERSON
+china,GPE
+china,GPE
+the full quarter,DATE
+china,GPE
+ipad,PRODUCT
+wearables,NORP
+the full quarter,DATE
+january,DATE
+february,DATE
+china,GPE
+march,DATE
+april,DATE
+there.to,PERSON
+february,DATE
+quarterly,DATE
+the quarter,DATE
+three-week,DATE
+china,GPE
+china,GPE
+three weeks,DATE
+china,GPE
+iphone,PRODUCT
+iphones,PRODUCT
+ios,PRODUCT
+today,DATE
+chris caso,PERSON
+raymond james.chris caso,PERSON
+raymond james -- analystyes,PERSON
+iphone,PRODUCT
+iphone,PRODUCT
+iphone,PRODUCT
+11,CARDINAL
+iphone,PRODUCT
+margins?tim,ORG
+raymond james,PERSON
+the march quarter,DATE
+year,DATE
+second,ORDINAL
+march,DATE
+chris,PERSON
+nand,GPE
+the june quarter,DATE
+nand,GPE
+decline.chris caso,PERSON
+raymond james,PERSON
+today,DATE
+two weeks,DATE
+888,CARDINAL
+203-1112,DATE
+719,CARDINAL
+457-0820,DATE
+3229513,DATE
+approximately 5:00 pm pacific time,TIME
+today,DATE
+kristin,PERSON
+408,CARDINAL
+974-2414,DATE
+669,CARDINAL
+57,CARDINAL
+tejas gala,PERSON
+relationstim cook,PERSON
+officerluca maestri,PERSON
+officershannon cross,ORG
+mohan -- bank of america,ORG
+morgan stanley,ORG
+daryanani,PERSON
+isi,ORG
+analystjeriel ong,PERSON
+deutsche bank,ORG
+jp morgan -- analystchris caso,PERSON
+raymond james,PERSON
+aapl analysisall,PERSON

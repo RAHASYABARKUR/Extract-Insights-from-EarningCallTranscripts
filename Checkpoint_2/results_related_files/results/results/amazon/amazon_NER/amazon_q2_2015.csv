@@ -1,0 +1,536 @@
+word,label
+Amazon.com,ORG
+Today,DATE
+Phil Hardin,PERSON
+Phil Hardin,PERSON
+2015,DATE
+today,DATE
+Brian Olsavsky,PERSON
+"today, July 23, 2015",DATE
+today,DATE
+SEC,ORG
+annual,DATE
+10-K.,ORDINAL
+today,DATE
+the quarter,DATE
+SEC,ORG
+the comparable period of 2014,DATE
+Brian,PERSON
+Brian,PERSON
+Phil,PERSON
+second,ORDINAL
+69%,PERCENT
+$8.98 billion,MONEY
+$4.37 billion,MONEY
+$1.04 billion,MONEY
+$4.61 billion,MONEY
+AWS,ORG
+17%,PERCENT
+6%,PERCENT
+ROIC,PRODUCT
+12 month,DATE
+five quarter,DATE
+488 million,CARDINAL
+480 million,CARDINAL
+one year ago,DATE
+20%,PERCENT
+$23.18 billion,MONEY
+27%,PERCENT
+$1.39 billion,MONEY
+year-over-year,DATE
+22%,PERCENT
+approximately 285 million,CARDINAL
+three,CARDINAL
+the preceding 12 month,DATE
+approximately 265 million,CARDINAL
+approximately 237 million,CARDINAL
+the comparable prior year,DATE
+45%,PERCENT
+41%,PERCENT
+the comparable prior year,DATE
+$15.16 billion,MONEY
+65.4%,PERCENT
+69.3%,PERCENT
+$6.95 billion,MONEY
+29.9%,PERCENT
+approximately 130,CARDINAL
+year-over-year,DATE
+$2.74 billion,MONEY
+11.8%,PERCENT
+11.8%,PERCENT
+Tech,ORG
+$2.70 billion,MONEY
+11.7%,PERCENT
+10.4%,PERCENT
+$1.1 billion,MONEY
+4.7%,PERCENT
+4.7%,PERCENT
+the first quarter,DATE
+America,COUNTRY
+Amazon,ORG
+two,CARDINAL
+America,COUNTRY
+26%,PERCENT
+$13.8 billion,MONEY
+6%,PERCENT
+$2.62 billion,MONEY
+7%,PERCENT
+EGM,ORG
+31%,PERCENT
+$10.99 billion,MONEY
+32%,PERCENT
+EGM,ORG
+80%,PERCENT
+America,COUNTRY
+America,COUNTRY
+113%,PERCENT
+$703 million,MONEY
+5.1%,PERCENT
+$9 million,MONEY
+America,COUNTRY
+111%,PERCENT
+3%,PERCENT
+$7.56 billion,MONEY
+$1.37 billion,MONEY
+year-over-year,DATE
+22%,PERCENT
+12%,PERCENT
+$2.09 billion,MONEY
+3%,PERCENT
+EGM,ORG
+10%,PERCENT
+$5.43 billion,MONEY
+31%,PERCENT
+EGM,ORG
+72%,PERCENT
+$19 million,MONEY
+$2 million,MONEY
+the prior year,DATE
+$89 million,MONEY
+Amazon,ORG
+81%,PERCENT
+$1.82 billion,MONEY
+Amazon,ORG
+407%,PERCENT
+$391 million,MONEY
+21.4%,PERCENT
+$71 million,MONEY
+AWS,ORG
+314%,PERCENT
+166%,PERCENT
+$1.07 billion,MONEY
+4.6%,PERCENT
+approximately 250,CARDINAL
+year-over-year,DATE
+$9 million,MONEY
+168%,PERCENT
+$464 million,MONEY
+$15 million,MONEY
+the prior year,DATE
+$266 million,MONEY
+$92 million or $0.19,MONEY
+$126 million,MONEY
+0.27,MONEY
+$6.02 billion,MONEY
+year-over-year,DATE
+$14 billion,MONEY
+12%,PERCENT
+$7.47 billion,MONEY
+8.9,CARDINAL
+9.1,CARDINAL
+a year ago,DATE
+18%,PERCENT
+$12.39 billion,MONEY
+days,DATE
+74,CARDINAL
+71,DATE
+the prior year,DATE
+today,DATE
+today,DATE
+2015,DATE
+between $23.3 billion and $25.5 billion,MONEY
+between 13% and 24%,PERCENT
+approximately 620,CARDINAL
+between $480 million,MONEY
+$70 million,MONEY
+$544 million,MONEY
+the third quarter of 2014,DATE
+approximately $580 million,MONEY
+between $100 million and $650 million,MONEY
+$136 million,MONEY
+the third quarter of 2014,DATE
+first,ORDINAL
+Phil,PERSON
+Phil Hardin,PERSON
+Brian,PERSON
+first,ORDINAL
+Mark,PERSON
+Mark,PERSON
+the quarter,DATE
+AWS,PRODUCT
+AWS,PRODUCT
+AWS,PRODUCT
+AWS,PRODUCT
+today,DATE
+AWS,PRODUCT
+Brian,PERSON
+Mark,PERSON
+81%,PERCENT
+49%,PERCENT
+last year,DATE
+AWS,PRODUCT
+India,COUNTRY
+81%,PERCENT
+11,CARDINAL
+India,COUNTRY
+Eric Sheridan,PERSON
+UBS,ORG
+Eric,PERSON
+UBS Securities,ORG
+India,COUNTRY
+Brian,PERSON
+Eric,PERSON
+India,COUNTRY
+India,COUNTRY
+over $25 million,MONEY
+25 million,CARDINAL
+India,COUNTRY
+India,COUNTRY
+Eric,PERSON
+UBS Securities,ORG
+Justin Post,PERSON
+Merrill Lynch,ORG
+Justin Post,PERSON
+Merrill Lynch,ORG
+"Pierce, Fenner & Smith, Inc.",ORG
+year-over-year,DATE
+year,DATE
+year,DATE
+secondly,ORDINAL
+AWS,PRODUCT
+Brian,PERSON
+second,ORDINAL
+Phil,PERSON
+year-over-year,DATE
+over 350,CARDINAL
+Justin Post,PERSON
+Merrill Lynch,ORG
+"Pierce, Fenner & Smith, Inc.",ORG
+year-over-year,DATE
+Brian,PERSON
+two,CARDINAL
+at least two,CARDINAL
+AWS,PRODUCT
+this year,DATE
+Jeff,PERSON
+Bezos,PERSON
+decades,DATE
+fourth,ORDINAL
+fifth,ORDINAL
+Justin Post,PERSON
+Merrill Lynch,ORG
+"Pierce, Fenner & Smith, Inc.",ORG
+Mark Mahaney,PERSON
+RBC Capital Markets,ORG
+Mark,PERSON
+RBC Capital Markets,ORG
+EGM,ORG
+one,CARDINAL
+Brian,PERSON
+America,COUNTRY
+this quarter,DATE
+America,COUNTRY
+200,CARDINAL
+800,CARDINAL
+half,CARDINAL
+Japanese,NORP
+April 1 of 2014,DATE
+last year,DATE
+half,CARDINAL
+800,CARDINAL
+Prime membership,PRODUCT
+the end of the year,DATE
+Prime membership,PRODUCT
+America,COUNTRY
+Mark,PERSON
+RBC Capital Markets,ORG
+Brian,PERSON
+Morgan Stanley,ORG
+Brian,PERSON
+Morgan Stanley,ORG
+two,CARDINAL
+first,ORDINAL
+America,COUNTRY
+America,COUNTRY
+U.K.,GPE
+Germany,COUNTRY
+Brian,PERSON
+America,COUNTRY
+5.1%,PERCENT
+3.9%,PERCENT
+Q1,GPE
+3%,PERCENT
+year-over-year,DATE
+year-over-year,DATE
+India,COUNTRY
+Brian,PERSON
+Morgan Stanley,ORG
+Douglas Anmuth,PERSON
+JPMorgan,ORG
+Douglas,PERSON
+JPMorgan,ORG
+two,CARDINAL
+First,ORDINAL
+Prime Day,DATE
+Brian,PERSON
+Amazon,ORG
+the holidays later in the year,DATE
+"18,000",CARDINAL
+a quarter,DATE
+Brian,PERSON
+second,ORDINAL
+first,ORDINAL
+38%,PERCENT
+year-over-year,DATE
+this particular quarter,DATE
+Prime Day,DATE
+Prime Day,DATE
+millions,CARDINAL
+any other day,DATE
+Christmas,DATE
+July,DATE
+a bigger day,DATE
+Black Friday,DATE
+266%,PERCENT
+300%,PERCENT
+a great day,DATE
+Amazon,ORG
+Carlos Kirjner,PERSON
+Bernstein,ORG
+Carlos Kirjner,PERSON
+Bernstein,ORG
+two,CARDINAL
+AWS,PRODUCT
+at least 80%,PERCENT
+AWS,PRODUCT
+secondly,ORDINAL
+Prime Now,PRODUCT
+Brian,PERSON
+second,ORDINAL
+Prime Now,PRODUCT
+Amazon Fresh,PRODUCT
+Prime Now,PRODUCT
+nine,CARDINAL
+three,CARDINAL
+the quarter,DATE
+first,ORDINAL
+London,GPE
+AWS,PRODUCT
+AWS,PRODUCT
+Carlos,PERSON
+Carlos Kirjner,PERSON
+Bernstein,ORG
+Heath Terry,PERSON
+Goldman Sachs,ORG
+Goldman Sachs,ORG
+AWS,PRODUCT
+AWS,PRODUCT
+Brian,PERSON
+this year,DATE
+up to 49,CARDINAL
+2006,DATE
+over 350,CARDINAL
+this year,DATE
+Carlos,PERSON
+Goldman Sachs,ORG
+Youssef Squali,PERSON
+Cantor Fitzgerald,ORG
+Youssef H. Squali,PERSON
+Cantor Fitzgerald,ORG
+AWS,PRODUCT
+Brian,PERSON
+Brian,PERSON
+AWS,PRODUCT
+Amazon,ORG
+AWS,PRODUCT
+AWS,PRODUCT
+AWS,PRODUCT
+AWS,PRODUCT
+Youssef H. Squali,PERSON
+Cantor Fitzgerald,ORG
+Ron Josey,PERSON
+JMP Securities,ORG
+Brian,PERSON
+the year,DATE
+earlier this year,DATE
+last year,DATE
+2Q 2014,DATE
+third,ORDINAL
+third,ORDINAL
+45%,PERCENT
+47%,PERCENT
+Brian,PERSON
+first,ORDINAL
+first,ORDINAL
+third,ORDINAL
+Brian,PERSON
+FDA,PRODUCT
+third,ORDINAL
+2014,DATE
+about 71%,PERCENT
+20%,PERCENT
+third,ORDINAL
+the last several quarters,DATE
+AWS,PRODUCT
+49,CARDINAL
+Paul,PERSON
+Barclays,ORG
+Paul,PERSON
+Barclays,ORG
+one,CARDINAL
+two,CARDINAL
+Brian,PERSON
+two,CARDINAL
+Q3,COUNTRY
+this year,DATE
+A,CARDINAL
+Paul,PERSON
+Barclays,ORG
+Gene Munster,PERSON
+Piper Jaffray,ORG
+Eugene,PERSON
+C.,PERSON
+Munster,PERSON
+Piper Jaffray,ORG
+afternoon,TIME
+Brian,PERSON
+Gene,PERSON
+first,ORDINAL
+Amazon,ORG
+AWS,PRODUCT
+Amazon,ORG
+last year,DATE
+Eugene,PERSON
+Munster,PERSON
+Piper Jaffray,ORG
+Brian Pitz,PERSON
+Jefferies & Company,ORG
+Brian,PERSON
+Pitz,PERSON
+Jefferies,ORG
+2015,DATE
+the year,DATE
+"the next 6, 12",DATE
+18 months,DATE
+Brian,PERSON
+the year last year,DATE
+109,CARDINAL
+19,CARDINAL
+the year,DATE
+Brian,PERSON
+Brian,PERSON
+Pitz,PERSON
+Jefferies,ORG
+Colin Sebastian,PERSON
+Baird Equity Research,ORG
+Colin A.,PERSON
+Sebastian,PERSON
+the great quarter,DATE
+Prime membership,PRODUCT
+secondly,ORDINAL
+Fire Phone,PRODUCT
+Amazon,ORG
+Brian,PERSON
+Fire Phone,PRODUCT
+Colin,PERSON
+Sebastian,PERSON
+Ross Sandler,PERSON
+Deutsche Bank,ORG
+Ross Sandler,PERSON
+Deutsche Bank,ORG
+Brian,PERSON
+the next quarter,DATE
+a few quarters,DATE
+2015,DATE
+prior years,DATE
+AWS,PRODUCT
+America,COUNTRY
+2016,DATE
+2017,DATE
+next year,DATE
+another year,DATE
+Brian,PERSON
+Amazon,ORG
+Prime Now,PRODUCT
+Fire TV,PRODUCT
+Echo,PRODUCT
+same-day,DATE
+AWS,PRODUCT
+India,COUNTRY
+India,COUNTRY
+today,DATE
+Mexico,COUNTRY
+Amazon,ORG
+two,CARDINAL
+Kerry Rice,PERSON
+Needham,ORG
+Needham,ORG
+Brian,PERSON
+first,ORDINAL
+Sunday,DATE
+Sunday,DATE
+Needham,ORG
+Steven,PERSON
+Credit Suisse,ORG
+Steve,PERSON
+Credit Suisse,ORG
+Brian,PERSON
+India,COUNTRY
+first,ORDINAL
+China,COUNTRY
+JOYO,PERSON
+JOYO,PERSON
+China,COUNTRY
+Brian,PERSON
+first,ORDINAL
+India,COUNTRY
+India,COUNTRY
+China,COUNTRY
+Brian,PERSON
+India,COUNTRY
+Steve,PERSON
+Credit Suisse,ORG
+John Blackledge,PERSON
+Cowen & Company,ORG
+John,PERSON
+Cowen & Co.,ORG
+Amazon,ORG
+Amazon,ORG
+the second quarter,DATE
+Amazon,ORG
+Brian,PERSON
+America,COUNTRY
+John,PERSON
+Cowen & Co.,ORG
+Scott Tilghman,PERSON
+B. Riley,PERSON
+Scott Tilghman,PERSON
+Riley & Co.,ORG
+Three,CARDINAL
+first,ORDINAL
+Second,ORDINAL
+the beginning of the year,DATE
+third,ORDINAL
+Brian,PERSON
+Brian,PERSON
+first,ORDINAL
+EGM,ORG
+EGM,ORG
+the last four quarters,DATE
+EGM,ORG
+third,ORDINAL
+Phil Hardin,PERSON
+today,DATE
+the end of the quarter,DATE
+Amazon.com,ORG
+next quarter,DATE

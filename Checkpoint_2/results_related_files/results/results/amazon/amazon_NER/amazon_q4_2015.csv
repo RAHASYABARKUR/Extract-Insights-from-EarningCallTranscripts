@@ -1,0 +1,577 @@
+word,label
+Amazon.com,ORG
+2015,DATE
+Today,DATE
+Phil Hardin,PERSON
+Phil Hardin,PERSON
+2015,DATE
+today,DATE
+Brian Olsavsky,PERSON
+"today, January 28, 2016",DATE
+today,DATE
+SEC,ORG
+annual,DATE
+10-K.,CARDINAL
+today,DATE
+the quarter,DATE
+SEC,ORG
+the comparable period of 2014,DATE
+Brian,PERSON
+Brian Olsavsky,PERSON
+Phil,PERSON
+our fourth quarter,DATE
+74%,PERCENT
+$11.9 billion,MONEY
+$7.3 billion,MONEY
+$1.9 billion,MONEY
+$4.7 billion,MONEY
+$529 million,MONEY
+$2.5 billion,MONEY
+$2.2 billion,MONEY
+$4.6 billion,MONEY
+AWS,PRODUCT
+490 million,CARDINAL
+483 million,CARDINAL
+one year ago,DATE
+22%,PERCENT
+$35.7 billion,MONEY
+26%,PERCENT
+$1.2 billion,MONEY
+year-over-year,DATE
+26%,PERCENT
+approximately 304 million,CARDINAL
+approximately 280 million,CARDINAL
+approximately 254 million,CARDINAL
+the comparable prior year,DATE
+51%,PERCENT
+47%,PERCENT
+Amazon,ORG
+nearly 50%,PERCENT
+Amazon,ORG
+1 million,CARDINAL
+$24.3 billion,MONEY
+68.1%,PERCENT
+70.5%,PERCENT
+$9.7 billion,MONEY
+27.1%,PERCENT
+approximately 100,CARDINAL
+year-over-year,DATE
+$4.4 billion,MONEY
+12.3%,PERCENT
+11.3%,PERCENT
+Tech,ORG
+$3.2 billion,MONEY
+9%,PERCENT
+8.2%,PERCENT
+$1.7 billion,MONEY
+4.8%,PERCENT
+5.1%,PERCENT
+the first quarter,DATE
+America,COUNTRY
+Amazon,ORG
+America,COUNTRY
+24%,PERCENT
+$21.5 billion,MONEY
+11%,PERCENT
+$3.9 billion,MONEY
+12%,PERCENT
+EGM,ORG
+28%,PERCENT
+$17.3 billion,MONEY
+America,COUNTRY
+$1 billion,MONEY
+4.7%,PERCENT
+$733 million,MONEY
+the prior year,DATE
+America,COUNTRY
+$6 million,MONEY
+12%,PERCENT
+$11.8 billion,MONEY
+$1.1 billion,MONEY
+year-over-year,DATE
+22%,PERCENT
+3%,PERCENT
+$3.3 billion,MONEY
+5%,PERCENT
+EGM,ORG
+19%,PERCENT
+$8.5 billion,MONEY
+31%,PERCENT
+$60 million,MONEY
+$65 million,MONEY
+the prior year,DATE
+$47 million,MONEY
+Amazon,ORG
+69%,PERCENT
+$2.4 billion,MONEY
+Amazon,ORG
+$687 million,MONEY
+28.5%,PERCENT
+$240 million,MONEY
+the prior year,DATE
+AWS,PRODUCT
+$60 million,MONEY
+$1.8 billion,MONEY
+4.9%,PERCENT
+approximately 140,CARDINAL
+year-over-year,DATE
+$20 million,MONEY
+88%,PERCENT
+$1.1 billion,MONEY
+$453 million,MONEY
+$482 million or $1,MONEY
+$214 million,MONEY
+0.45,MONEY
+the full year,DATE
+20%,PERCENT
+$107 billion,MONEY
+26%,PERCENT
+year-over-year,DATE
+America,COUNTRY
+25%,PERCENT
+$63.7 billion,MONEY
+26%,PERCENT
+year-over-year,DATE
+6%,PERCENT
+$35.4 billion,MONEY
+21%,PERCENT
+year-over-year,DATE
+year-over-year,DATE
+Germany,COUNTRY
+18%,PERCENT
+Japan,COUNTRY
+19%,PERCENT
+UK,ORG
+16%,PERCENT
+AWS,ORG
+70%,PERCENT
+$7.9 billion,MONEY
+$4.5 billion,MONEY
+4.2%,PERCENT
+approximately 220,CARDINAL
+year-over-year,DATE
+16,MONEY
+$2.2 billion,MONEY
+$178 million,MONEY
+the prior year,DATE
+$2.4 billion,MONEY
+year-over-year,DATE
+$19.8 billion,MONEY
+23%,PERCENT
+$10.2 billion,MONEY
+8.5,CARDINAL
+8.6,CARDINAL
+a year ago,DATE
+24%,PERCENT
+$20.4 billion,MONEY
+days,DATE
+77,CARDINAL
+73,CARDINAL
+the prior year,DATE
+today,DATE
+today,DATE
+2016,DATE
+between $26.5 billion and $29 billion,MONEY
+between 17% and 28%,PERCENT
+approximately 130,CARDINAL
+between $100 million and $700 million,MONEY
+$255 million,MONEY
+first quarter of 2015,DATE
+approximately $600 million,MONEY
+between $700 million and $1.3 billion,MONEY
+$706 million,MONEY
+the first quarter of 2015,DATE
+first,ORDINAL
+Phil,PERSON
+Phil Hardin,PERSON
+Brian,PERSON
+first,ORDINAL
+Stephen,PERSON
+Credit Suisse,ORG
+Stephen,PERSON
+Brian,PERSON
+AWS,PRODUCT
+the fourth quarter,DATE
+AWS,PRODUCT
+Brian Olsavsky,PERSON
+Stephen,PERSON
+AWS,PRODUCT
+$10 billion,MONEY
+January,DATE
+EC2,ORG
+51st,ORDINAL
+AWS years ago,DATE
+722,CARDINAL
+2015,DATE
+40%,PERCENT
+year-over-year,DATE
+each year,DATE
+Stephen,PERSON
+Jason Helfstein,PERSON
+Oppenheimer,ORG
+Jason Helfstein,PERSON
+fourth quarter,DATE
+US,GPE
+Brian Olsavsky,PERSON
+Q4,PERSON
+the holiday,DATE
+quarter,DATE
+nearly 50%,PERCENT
+third,ORDINAL
+third,ORDINAL
+up to 47%,PERCENT
+400,CARDINAL
+year-over-year,DATE
+a very busy quarter,DATE
+US,GPE
+Jason Helfstein,PERSON
+Brian Olsavsky,PERSON
+Jason Helfstein,PERSON
+Brian Olsavsky,PERSON
+one,CARDINAL
+this year,DATE
+Prime Now,PRODUCT
+11.59,CARDINAL
+New Year,DATE
+Aram Rubinson,PERSON
+Wolfe Research,ORG
+Aram Rubinson,PERSON
+Two,CARDINAL
+Brian Olsavsky,PERSON
+Aram,PERSON
+Amazon,ORG
+this past year,DATE
+Brian,PERSON
+Morgan Stanley,ORG
+Brian,PERSON
+two,CARDINAL
+first,ORDINAL
+about 200,CARDINAL
+the fourth quarter,DATE
+the fourth quarter,DATE
+India,COUNTRY
+Brian Olsavsky,PERSON
+year-over-year,DATE
+first,ORDINAL
+$4 billion,MONEY
+88%,PERCENT
+year-over-year,DATE
+500,CARDINAL
+year-over-year,DATE
+Amazon,ORG
+the prior year,DATE
+Q3,GPE
+Q4,GPE
+Colin Sebastian,PERSON
+Baird Equity Research,ORG
+Colin Sebastian,PERSON
+AWS,PRODUCT
+prior years,DATE
+Brian Olsavsky,PERSON
+AWS,PRODUCT
+year-over-year,DATE
+AWS,PRODUCT
+2013 to 2014,DATE
+over $9 billion,MONEY
+prior year,DATE
+Brian Olsavsky,PERSON
+$5 billion,MONEY
+2013,DATE
+$8.9 billion,MONEY
+2014,DATE
+over $9 billion,MONEY
+2015,DATE
+Evercore,ORG
+ISI,ORG
+Amazon,ORG
+Prime Video,PRODUCT
+Brian Olsavsky,PERSON
+Prime Video,PRODUCT
+Prime Video,PRODUCT
+viewing hours,TIME
+Prime Video,PRODUCT
+year-over-year,DATE
+year-over-year,DATE
+Amazon Studios,PRODUCT
+2014,DATE
+2015,DATE
+Mozart,PERSON
+two,CARDINAL
+Amazon Studios,PRODUCT
+this year,DATE
+"Season 2, Bosch",DATE
+February,DATE
+first,ORDINAL
+2015,DATE
+Prime Video,PRODUCT
+February,DATE
+Phil Hardin,PERSON
+Phil,PERSON
+Showtime,ORG
+Starz,DATE
+Mark Mahaney,PERSON
+RBC Capital Markets,ORG
+Mark Mahaney,PERSON
+Two,CARDINAL
+Amazon,ORG
+a couple of years,DATE
+Brian Olsavsky,PERSON
+Mark,PERSON
+Amazon,ORG
+April,DATE
+Amazon,ORG
+"more than 200,000",CARDINAL
+500,CARDINAL
+Mark,PERSON
+Mark,PERSON
+Brian,PERSON
+the quarter,DATE
+Brian Olsavsky,PERSON
+Mark,PERSON
+22%,PERCENT
+1000,CARDINAL
+year-over-year,DATE
+Prime membership,PRODUCT
+50%,PERCENT
+51%,PERCENT
+47%,PERCENT
+US,GPE
+this year,DATE
+FREE Same-Day,DATE
+Prime Now,PRODUCT
+Prime Video,PRODUCT
+Japan,COUNTRY
+First,ORDINAL
+India,COUNTRY
+India,COUNTRY
+Amazon,ORG
+India,COUNTRY
+India,COUNTRY
+diwali,PERSON
+the shopping season,DATE
+2014,DATE
+Q4,GPE
+India,COUNTRY
+Douglas Anmuth,PERSON
+JPMorgan,ORG
+Douglas Anmuth,PERSON
+Two,CARDINAL
+first,ORDINAL
+America,COUNTRY
+the 28%,PERCENT
+second,ORDINAL
+last quarter,DATE
+'16,DATE
+Brian Olsavsky,PERSON
+America,COUNTRY
+28%,PERCENT
+the last 4 years,DATE
+700,CARDINAL
+Q3,COUNTRY
+200,CARDINAL
+Q3,COUNTRY
+last year,DATE
+America,COUNTRY
+31% to 27%,PERCENT
+This year,DATE
+35% to 28%,PERCENT
+decades,DATE
+AWS,PRODUCT
+fourth,ORDINAL
+fifth,ORDINAL
+26%,PERCENT
+AWS,PRODUCT
+Heath Terry,PERSON
+Goldman Sachs,ORG
+Heath Terry,PERSON
+AWS,PRODUCT
+Amazon,ORG
+AWS,PRODUCT
+this year,DATE
+three,CARDINAL
+Brian Olsavsky,PERSON
+Korea,COUNTRY
+five,CARDINAL
+first,ORDINAL
+AWS,PRODUCT
+2014,DATE
+over $9 billion,MONEY
+2015,DATE
+AWS,PRODUCT
+the year,DATE
+2015,DATE
+69%,PERCENT
+$10 billion,MONEY
+year-over-year,DATE
+quarter-over-quarter,DATE
+Heath Terry,PERSON
+Kerry Rice,PERSON
+Needham,ORG
+Kerry Rice,PERSON
+First,ORDINAL
+the holiday season,DATE
+December,DATE
+the holiday season,DATE
+Amazon,ORG
+Phil Hardin,PERSON
+Phil,PERSON
+Q4,PERSON
+half,CARDINAL
+second,ORDINAL
+Prime Now,PRODUCT
+Brian,PERSON
+two hours,TIME
+Carlos Kirjner,PERSON
+Bernstein,ORG
+Carlos Kirjner,PERSON
+two,CARDINAL
+AWS,PRODUCT
+800,CARDINAL
+Aurora,PERSON
+Redshift,NORP
+EC2,PERSON
+first,ORDINAL
+second,ORDINAL
+Last year,DATE
+$1.3 billion,MONEY
+'15,DATE
+Phil Hardin,PERSON
+Carlos,PERSON
+Phil,PERSON
+AWS,PRODUCT
+margin year-over-year,DATE
+about $60 million this quarter,MONEY
+this year,DATE
+Brian Pitz,PERSON
+Jefferies,ORG
+Brian Pitz,PERSON
+Amazon,ORG
+Twitch,PRODUCT
+Phil Hardin,PERSON
+Phil,PERSON
+today,DATE
+Twitch,PRODUCT
+Twitch,PRODUCT
+Twitch,PRODUCT
+Brian Pitz,PERSON
+Brian Olsavsky,PERSON
+the year,DATE
+123,CARDINAL
+14,CARDINAL
+23,CARDINAL
+US,GPE
+four year-over-year,DATE
+Gene Munster,PERSON
+Piper Jaffray,ORG
+Gene Munster,PERSON
+2016,DATE
+second,ORDINAL
+Brian Olsavsky,PERSON
+2016,DATE
+quarter-to-quarter,DATE
+year-to-year,DATE
+year-over-year,DATE
+Phil Hardin,PERSON
+Phil,PERSON
+"more than 30,000",CARDINAL
+Justin Post,PERSON
+America,COUNTRY
+Merrill Lynch,ORG
+Justin Post,PERSON
+Two,CARDINAL
+the quarter,DATE
+secondly,ORDINAL
+last year,DATE
+Brian Olsavsky,PERSON
+First,ORDINAL
+quarter,DATE
+the year,DATE
+the last six weeks of the year,DATE
+Phil Hardin,PERSON
+Phil,PERSON
+first party,ORG
+third party,ORG
+AWS,PRODUCT
+Paul,PERSON
+Barclays,ORG
+Paul,PERSON
+same-day,DATE
+Brian Olsavsky,PERSON
+the same-day,DATE
+US,GPE
+Prime Now,PRODUCT
+more than 25,CARDINAL
+Prime Now,PRODUCT
+two hours,TIME
+Ron Josey,DATE
+JMP Securities,ORG
+Ron Josey,PERSON
+North American,NORP
+just under 50,CARDINAL
+this quarter,DATE
+4.7%,PERCENT
+200,CARDINAL
+the prior three quarters,DATE
+4Q,CARDINAL
+prior quarters,DATE
+Prime Now,PRODUCT
+hour,TIME
+two-hour,TIME
+Brian Olsavsky,PERSON
+nearly 50%,PERCENT
+third,ORDINAL
+US,GPE
+Phil Hardin,PERSON
+Phil,PERSON
+Neil,PERSON
+Mizuho,GPE
+Neil,PERSON
+Two,CARDINAL
+Echo,PRODUCT
+Echo,PRODUCT
+secondly,ORDINAL
+Brian Olsavsky,PERSON
+Echo,PRODUCT
+Echo,PRODUCT
+Echo,PRODUCT
+Alexa,PRODUCT
+Echo,PRODUCT
+last year,DATE
+Echo,PRODUCT
+AWS,PRODUCT
+Echo,PRODUCT
+Alexa,PRODUCT
+Prime Now,PRODUCT
+one,CARDINAL
+John Blackledge,PERSON
+Cowen & Company,ORG
+John Blackledge,PERSON
+Two,CARDINAL
+First,ORDINAL
+12.5%,PERCENT
+11%,PERCENT
+last year,DATE
+2016,DATE
+second,ORDINAL
+Prime Now,PRODUCT
+25,CARDINAL
+Prime Now,PRODUCT
+2016,DATE
+Brian Olsavsky,PERSON
+70,CARDINAL
+year-over-year,DATE
+Phil Hardin,PERSON
+Prime Now,PRODUCT
+Phil,PERSON
+more than 25,CARDINAL
+the last year,DATE
+today,DATE
+US,GPE
+UK,GPE
+Japan,COUNTRY
+Italy,COUNTRY
+Phil Hardin,PERSON
+today,DATE
+the end of the quarter,DATE
+Amazon.com,ORG
+next quarter,DATE

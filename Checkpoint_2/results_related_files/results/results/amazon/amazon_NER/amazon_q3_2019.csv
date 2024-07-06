@@ -1,0 +1,248 @@
+word,label
+Amazon.com,ORG
+2019,DATE
+Shelly Kay,PERSON
+Shelly Kay,PERSON
+Q3,COUNTRY
+2019,DATE
+today,DATE
+Brian Olsavsky,PERSON
+Dave Fildes,PERSON
+the quarter,DATE
+the comparable period of,DATE
+2018,DATE
+"today, October 24, 2019",DATE
+SEC,ORG
+annual,DATE
+SEC,ORG
+today,DATE
+SEC,ORG
+first,ORDINAL
+Eric Sheridan,PERSON
+UBS,ORG
+Eric Sheridan,PERSON
+Q3,GPE
+over Q2,CARDINAL
+AWS,PRODUCT
+Brian Olsavsky,PERSON
+Eric,PERSON
+the last few years,DATE
+Whole Foods,PRODUCT
+the last couple of years,DATE
+Q3,GPE
+about 300,CARDINAL
+this year,DATE
+very tight few weeks of the holiday season,DATE
+the year,DATE
+two,CARDINAL
+Diwali,PERSON
+India,COUNTRY
+Q4,LOC
+last year,DATE
+this year,DATE
+Japan,COUNTRY
+8% to 10%,PERCENT
+October 1,DATE
+Q3,GPE
+the end of the quarter,DATE
+many years ago,DATE
+Japan,COUNTRY
+150,CARDINAL
+Q3,COUNTRY
+300,CARDINAL
+year-over-year,DATE
+Q4,LOC
+about 40,CARDINAL
+Q3,COUNTRY
+about 80,CARDINAL
+September,DATE
+AWS,PRODUCT
+Las Vegas,PERSON
+"65,000",CARDINAL
+Doug Anmuth,PERSON
+JPMorgan,ORG
+Doug Anmuth,PERSON
+Brian,PERSON
+One Day,DATE
+the past several months,DATE
+youâve,LOC
+the holiday season,DATE
+4Q,CARDINAL
+Brian Olsavsky,PERSON
+second,ORDINAL
+$800 million,MONEY
+Q3,COUNTRY
+$1.5 billion,MONEY
+year-over-year,DATE
+One Day,DATE
+daily,DATE
+Q4,GPE
+daily,DATE
+Youssef Squali,PERSON
+Robinson,NORP
+Youssef Squali,PERSON
+Brian,PERSON
+400,CARDINAL
+Prime Day,DATE
+a record day,DATE
+one,CARDINAL
+youâre,NORP
+Brian Olsavsky,PERSON
+second,ORDINAL
+two-fold,CARDINAL
+AWS,PRODUCT
+AWS,PRODUCT
+31%,PERCENT
+2017,DATE
+this year,DATE
+thousands,CARDINAL
+a year,DATE
+Q3,QUARTER
+year-over-year,DATE
+AWS,PRODUCT
+year-over-year,DATE
+secondary,ORDINAL
+30%,PERCENT
+Q3,COUNTRY
+this year,DATE
+9%,PERCENT
+last year,DATE
+year-over-year,DATE
+prior quarters,DATE
+Brian,PERSON
+Morgan Stanley,ORG
+Brian,PERSON
+two,CARDINAL
+the next one to two years,DATE
+Two Day,DATE
+secondly,ORDINAL
+One Day,DATE
+Brian Olsavsky,PERSON
+Amazon,ORG
+Amazon,ORG
+quarterly,DATE
+Heath Terry,PERSON
+Goldman Sachs,ORG
+Heath Terry,PERSON
+last mile,QUANTITY
+third,ORDINAL
+quarter,DATE
+"100,000",CARDINAL
+AWS,PRODUCT
+Brian Olsavsky,PERSON
+first,ORDINAL
+third,ORDINAL
+"close to 100,000",CARDINAL
+Q3,COUNTRY
+22%,PERCENT
+Stephen,PERSON
+Credit Suisse,ORG
+Stephen,PERSON
+Brian,PERSON
+AWS,PRODUCT
+first,ORDINAL
+Brian Olsavsky,PERSON
+10-Q,ORDINAL
+$27 billion,MONEY
+AWS,PRODUCT
+AWS,PRODUCT
+54%,PERCENT
+year-over-year,DATE
+Lloyd Walmsley,ORG
+Deutsche Bank,ORG
+Lloyd Walmsley,PERSON
+$37 million,MONEY
+youâve,ORG
+Brian Olsavsky,PERSON
+first,ORDINAL
+45%,PERCENT
+this quarter,DATE
+37%,PERCENT
+last quarter,DATE
+45%,PERCENT
+third,ORDINAL
+Dave Fildes,PERSON
+Lloyd,PERSON
+Dave,PERSON
+Fire TV,PRODUCT
+20,CARDINAL
+Fire TV,PRODUCT
+first,ORDINAL
+Fire TV,PRODUCT
+Fire TV,PRODUCT
+OTT,ORG
+Fire TV,PRODUCT
+IMDb TV,CARDINAL
+Amazon,ORG
+third,ORDINAL
+early days,DATE
+Scott Devitt,PERSON
+Scott Devitt,PERSON
+the past two quarters,DATE
+Brian Olsavsky,PERSON
+Scott,PERSON
+the last two quarters,DATE
+Amazon,ORG
+the last six months,DATE
+Mark Mahaney,PERSON
+RBC Capital Markets,ORG
+Mark Mahaney,PERSON
+AWS,PRODUCT
+first,ORDINAL
+Brian,PERSON
+first,ORDINAL
+youâve,WORK_OF_ART
+third,ORDINAL
+AWS,PRODUCT
+Brian Olsavsky,PERSON
+Mark,PERSON
+AWS,PRODUCT
+us,GPE
+quarter-to-quarter,DATE
+Dave Fildes,PERSON
+Mark,PERSON
+Dave,PERSON
+AWS,PRODUCT
+Colin Sebastian,PERSON
+Baird,NORP
+Colin Sebastian,PERSON
+first,ORDINAL
+secondly,ORDINAL
+Amazon,ORG
+Amazon,ORG
+Dave Fildes,PERSON
+Colin,PERSON
+Dave,PERSON
+second,ORDINAL
+Iâd,PERSON
+third,ORDINAL
+Amazon,ORG
+3P,CARDINAL
+3P,CARDINAL
+first,ORDINAL
+Justin Post,PERSON
+America,COUNTRY
+Merrill Lynch,ORG
+Justin Post,PERSON
+the shorter holiday season,DATE
+the quarter,DATE
+Amazon,ORG
+secondly,ORDINAL
+third,ORDINAL
+Amazon,ORG
+Brian Olsavsky,PERSON
+third,ORDINAL
+third,ORDINAL
+1P,CARDINAL
+the holiday season,DATE
+Christmas Day,DATE
+November 15,DATE
+November 1,DATE
+December 25,DATE
+Friday,DATE
+Monday,DATE
+Dave Fildes,PERSON
+today,DATE
+the end of the quarter,DATE
+Amazon,ORG
+next quarter,DATE

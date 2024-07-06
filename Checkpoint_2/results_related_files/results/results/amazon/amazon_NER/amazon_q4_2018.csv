@@ -1,0 +1,350 @@
+word,label
+Amazon.com,ORG
+2018,DATE
+Today,DATE
+Dave Fildes,PERSON
+Dave Fildes,PERSON
+2018,DATE
+today,DATE
+Brian Olsavsky,PERSON
+today,DATE
+the quarter,DATE
+the comparable period of,DATE
+2017,DATE
+"today, January 31, 2019",DATE
+today,DATE
+SEC,ORG
+annual,DATE
+SEC,ORG
+today,DATE
+SEC,ORG
+first,ORDINAL
+Justin Post,PERSON
+Merrill Lynch,ORG
+Justin Post,PERSON
+14%,PERCENT
+the quarter,DATE
+last year,DATE
+20s,ORDINAL
+secondly,ORDINAL
+Q4,GPE
+Brian Olsavsky,PERSON
+first,ORDINAL
+Dave Fildes,PERSON
+Justin,PERSON
+Dave,PERSON
+second,ORDINAL
+2018,DATE
+about 300 million,CARDINAL
+the quarter,DATE
+26%,PERCENT
+FX,ORG
+300 million,CARDINAL
+Brian Olsavsky,PERSON
+Dave,PERSON
+AWS,PRODUCT
+Whole Foods,PRODUCT
+the quarter,DATE
+a great quarter,DATE
+the quarter,DATE
+AWS,PRODUCT
+the quarter,DATE
+the quarter,DATE
+Mark Mahaney,PERSON
+RBC Capital Markets,ORG
+Mark Mahaney,PERSON
+India,COUNTRY
+Secondly,ORDINAL
+third,ORDINAL
+the quarter,DATE
+Brian Olsavsky,PERSON
+Mark,PERSON
+first,ORDINAL
+India,COUNTRY
+India,COUNTRY
+India,COUNTRY
+India,COUNTRY
+Dave,PERSON
+Dave Fildes,PERSON
+the last few months or so,DATE
+Brian Olsavsky,PERSON
+110,CARDINAL
+year-over-year,DATE
+AWS,PRODUCT
+14%,PERCENT
+year-over-year,DATE
+AWS,PRODUCT
+Doug Anmuth,PERSON
+JPMorgan,ORG
+Doug Anmuth,PERSON
+India,COUNTRY
+Brian,PERSON
+India,COUNTRY
+US,GPE
+UK,GPE
+the fourth quarter holidays,DATE
+Brian Olsavsky,PERSON
+India,COUNTRY
+India,COUNTRY
+Indian,NORP
+Indian,NORP
+Indian,NORP
+Dave Fildes,PERSON
+Doug,PERSON
+second,ORDINAL
+the holiday,DATE
+the fourth quarter,DATE
+the holidays,DATE
+Brian,PERSON
+the holiday season,DATE
+first,ORDINAL
+Alexa,PRODUCT
+this quarter,DATE
+Mark,PERSON
+Mark,PERSON
+Whole Foods,PRODUCT
+more recent quarters,DATE
+last year,DATE
+this year,DATE
+Dave Fildes,PERSON
+2018,DATE
+"the prior two years, 2016",DATE
+2017,DATE
+greater than 30%,PERCENT
+2018,DATE
+15%,PERCENT
+Amazon,ORG
+the prior two years,DATE
+48%,PERCENT
+2016,DATE
+38%,PERCENT
+2017,DATE
+Whole Foods,PRODUCT
+Souq,PERSON
+68%,PERCENT
+Last year,DATE
+14%,PERCENT
+2017,DATE
+2018,DATE
+AWS,PRODUCT
+AWS,PRODUCT
+14%,PERCENT
+14%,PERCENT
+AWS,PRODUCT
+10%,PERCENT
+last year,DATE
+69%,PERCENT
+2017,DATE
+2018,DATE
+2016,DATE
+â17,NORP
+2018,DATE
+Heath Terry,PERSON
+Goldman Sachs,ORG
+Heath Terry,PERSON
+the fourth quarter,DATE
+Q3,GPE
+Brian Olsavsky,PERSON
+33%,PERCENT
+Q1,GPE
+1%,PERCENT
+negative 1%,PERCENT
+Q3,COUNTRY
+17%,PERCENT
+Q4,GPE
+the quarter,DATE
+Q3,GPE
+the 17%,PERCENT
+AWS,PRODUCT
+AWS,PRODUCT
+the year right now,DATE
+2018,DATE
+the lighter year,DATE
+2016,DATE
+2017,DATE
+the year,DATE
+the first quarter,DATE
+the first three months,DATE
+Brian,PERSON
+Morgan Stanley,ORG
+Brian,PERSON
+two,CARDINAL
+first,ORDINAL
+AWS,PRODUCT
+the fourth quarter,DATE
+the quarter,DATE
+Brian Olsavsky,PERSON
+180,CARDINAL
+year-over-year,DATE
+AWS,PRODUCT
+46%,PERCENT
+Third,ORDINAL
+Amazon,ORG
+Amazon,ORG
+Dave,PERSON
+Echo,PRODUCT
+the quarter,DATE
+Amazon,ORG
+Q4,GPE
+Dave Fildes,PERSON
+Brian,PERSON
+2018,DATE
+approximately $1 billion,MONEY
+Colin Sebastian,PERSON
+Robert W. Baird,PERSON
+Colin Sebastian,PERSON
+two,CARDINAL
+the quarter,DATE
+India,COUNTRY
+UK,GPE
+Brian Olsavsky,PERSON
+second,ORDINAL
+third,ORDINAL
+more than half,CARDINAL
+third,ORDINAL
+Amazon,ORG
+third,ORDINAL
+15%,PERCENT
+Q3,GPE
+19%,PERCENT
+Diwali,PERSON
+Diwali,PERSON
+this year,DATE
+Q3,GPE
+last year,DATE
+Q3,COUNTRY
+Lloyd Walmsley,ORG
+Deutsche Bank,ORG
+Lloyd Walmsley,PERSON
+Two,CARDINAL
+First,ORDINAL
+secondly,ORDINAL
+Amazon,ORG
+Brian Olsavsky,PERSON
+Lloyd,PERSON
+first,ORDINAL
+Amazon.com,ORG
+Dave Fildes,PERSON
+Amazon,ORG
+Amazon,ORG
+Amazon,ORG
+the quarter,DATE
+year-over-year,DATE
+Eric Sheridan,PERSON
+UBS,ORG
+Eric Sheridan,PERSON
+two,CARDINAL
+a couple of years,DATE
+two,CARDINAL
+Lloyd's,ORG
+Brian Olsavsky,PERSON
+Prime video,PRODUCT
+today,DATE
+2019,DATE
+hours,TIME
+10,CARDINAL
+3,CARDINAL
+Ryan,PERSON
+the quarter,DATE
+Dave Fildes,PERSON
+second,ORDINAL
+IMDB,ORG
+one,CARDINAL
+US,GPE
+IMDB,PRODUCT
+Fire TV,PRODUCT
+Thursday Night,TIME
+Jason Helfstein,PERSON
+Oppenheimer,ORG
+Jason Helfstein,PERSON
+Just two,CARDINAL
+third quarter,DATE
+606,CARDINAL
+secondly,ORDINAL
+year-over-year,DATE
+Brian Olsavsky,PERSON
+Jason,PERSON
+3%,PERCENT
+Whole Foods,PRODUCT
+Amazon Books,PRODUCT
+Amazon,ORG
+Amazon,ORG
+the quarter,DATE
+Whole Foods,PRODUCT
+Q3,COUNTRY
+2017,DATE
+Q4,PERSON
+Amazon,ORG
+about 5 days,DATE
+last year,DATE
+year-over-year,DATE
+second,ORDINAL
+Prime Now,PRODUCT
+app,ORG
+Whole Foods,PRODUCT
+Whole Foods,PRODUCT
+approximately 6%,PERCENT
+year-over-year,DATE
+as negative 3%,PERCENT
+Dave Fildes,PERSON
+second,ORDINAL
+97%,PERCENT
+year-over-year,DATE
+the fourth quarter,DATE
+the prior year,DATE
+Iâd,GPE
+Dan,PERSON
+BMO Capital Markets,ORG
+Dan,PERSON
+Good afternoon,TIME
+Brian,PERSON
+Amazon,ORG
+the holiday season,DATE
+third,ORDINAL
+2019,DATE
+the quarter,DATE
+Brian Olsavsky,PERSON
+November,DATE
+New York City,GPE
+Virginia,GPE
+two,CARDINAL
+$5 billion,MONEY
+more than 50000,CARDINAL
+Nashville,GPE
+5000,CARDINAL
+New York,GPE
+Virginia,GPE
+Nashville,GPE
+Amazon,ORG
+over 100 million,CARDINAL
+two days,DATE
+over 3 million,CARDINAL
+"10,000",CARDINAL
+Amazon,ORG
+third,ORDINAL
+two,CARDINAL
+third,ORDINAL
+the last few years,DATE
+Ross Sandler,PERSON
+Barclays,ORG
+Ross Sandler,PERSON
+AWS,PRODUCT
+3Q,CARDINAL
+2019,DATE
+America,COUNTRY
+India,COUNTRY
+America,COUNTRY
+Brian Olsavsky,PERSON
+AWS,PRODUCT
+the 29.3%,PERCENT
+the quarter,DATE
+between quarters,DATE
+the prior three quarters,DATE
+year-over-year,DATE
+almost 280,CARDINAL
+one,CARDINAL
+Dave Fildes,PERSON
+today,DATE
+the end of the quarter,DATE
+Amazon,ORG
+next quarter,DATE

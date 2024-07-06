@@ -1,0 +1,330 @@
+word,label
+Amazon.com,ORG
+Shelly,PERSON
+Shelly Kay,PERSON
+2019,DATE
+today,DATE
+Brian Olsavsky,PERSON
+Dave Fildes,PERSON
+the quarter,DATE
+the comparable period of,DATE
+2018,DATE
+"today, July 25, 2019",DATE
+SEC,ORG
+Annual,DATE
+SEC,ORG
+today,DATE
+SEC,ORG
+first,ORDINAL
+Brian,PERSON
+Morgan Stanley,ORG
+Brian,PERSON
+two,CARDINAL
+the quarter,DATE
+AWS,PRODUCT
+AWS,PRODUCT
+this quarter,DATE
+Brian Olsavsky,PERSON
+Brian,PERSON
+AWS,PRODUCT
+$24 billion to $33 billion,MONEY
+37%,PERCENT
+$9 billion,MONEY
+second,ORDINAL
+last year,DATE
+AWS,PRODUCT
+2015,DATE
+AWS,PRODUCT
+one-day,DATE
+last quarter,DATE
+one-day,DATE
+one-day,DATE
+America,COUNTRY
+one-day,DATE
+the quarter,DATE
+one-day,DATE
+Prime Day earlier in,DATE
+the month,DATE
+one-day,DATE
+the next few quarters,DATE
+America,COUNTRY
+future quarters,DATE
+about $800 million,MONEY
+one day,DATE
+the additional one day,DATE
+Q2,GPE
+the off-season,DATE
+Q3,GPE
+today,DATE
+two-day,DATE
+many years ago,DATE
+first,ORDINAL
+one-day,DATE
+a number of quarters,DATE
+America,COUNTRY
+one-day,DATE
+Heath Terry,PERSON
+Goldman Sachs,ORG
+Heath Terry,PERSON
+AWS,PRODUCT
+Brian Olsavsky,PERSON
+second,ORDINAL
+Amazon,ORG
+tens of thousands,CARDINAL
+AWS,PRODUCT
+more than 200,CARDINAL
+2018,DATE
+multibillion-dollar,MONEY
+Aurora,PERSON
+the first half of last year,DATE
+about 50%,PERCENT
+the first half of last year,DATE
+Justin Post,PERSON
+Merrill Lynch,ORG
+Justin Post,PERSON
+first,ORDINAL
+one-day,DATE
+one-day,DATE
+second,ORDINAL
+3P,CARDINAL
+one,CARDINAL
+third,ORDINAL
+first-party,ORG
+Brian Olsavsky,PERSON
+today,DATE
+one-day,DATE
+two days,DATE
+one day,DATE
+Amazon,ORG
+one-day,DATE
+1P to 3P,CARDINAL
+third,ORDINAL
+3P,CARDINAL
+our 3P percent,PERCENT
+this quarter,DATE
+54%,PERCENT
+third,ORDINAL
+billions of dollars,MONEY
+Amazon,ORG
+third,ORDINAL
+Prime Day,DATE
+more than $2 billion,MONEY
+Jason Helfstein,PERSON
+Oppenheimer,ORG
+Jason Helfstein,PERSON
+Alexa,PRODUCT
+India,COUNTRY
+two,CARDINAL
+Brian Olsavsky,PERSON
+India,COUNTRY
+the last 18 months,DATE
+Indian,NORP
+India,COUNTRY
+Amazon,ORG
+India,COUNTRY
+nine,CARDINAL
+zero,CARDINAL
+Amazon,ORG
+zero,CARDINAL
+Indian,NORP
+Diwali,PERSON
+this year,DATE
+Diwali,PERSON
+Q4,LOC
+last year,DATE
+this year,DATE
+the holiday,DATE
+the quarter,DATE
+Dave Fildes,PERSON
+Jason,PERSON
+Dave,PERSON
+Alexa,PRODUCT
+Alexa,PRODUCT
+hundreds of third,CARDINAL
+Alexa,PRODUCT
+BMW,ORG
+Europe,LOC
+Alexa,PRODUCT
+Alexa,PRODUCT
+third,ORDINAL
+Alexa,PRODUCT
+Youssef Squali,PERSON
+SunTrust,DATE
+Youssef Squali,PERSON
+Two,CARDINAL
+one-day,DATE
+4Q,CARDINAL
+$800 million,MONEY
+the next several quarters,DATE
+Brian Olsavsky,PERSON
+Youssef,PERSON
+one-day,DATE
+this quarter,DATE
+last year,DATE
+last quarter,DATE
+one-day,DATE
+$800 million,MONEY
+America,COUNTRY
+the quarter,DATE
+Q3,GPE
+Q3,COUNTRY
+the end of the quarter,DATE
+Q3,GPE
+future quarters,DATE
+Dave Fildes,PERSON
+Amazon,ORG
+Mark Mahaney,PERSON
+RBC Capital Markets,ORG
+Mark Mahaney,PERSON
+Brian,PERSON
+one-day,DATE
+one-day,DATE
+Brian Olsavsky,PERSON
+one-day,DATE
+one-day,DATE
+America,COUNTRY
+2-day,DATE
+one-day,DATE
+America,COUNTRY
+one,CARDINAL
+Q3,COUNTRY
+one-day,DATE
+48%,PERCENT
+year-over-year,DATE
+First,ORDINAL
+AWS,PRODUCT
+Prime Video,PRODUCT
+Prime Video,PRODUCT
+36%,PERCENT
+year-over-year,DATE
+13%,PERCENT
+Alexa,PRODUCT
+AWS,PRODUCT
+AWS,PRODUCT
+Ross Sandler,PERSON
+Barclays,ORG
+Ross Sandler,PERSON
+two,CARDINAL
+America,COUNTRY
+3.5,CARDINAL
+one-day,DATE
+America,COUNTRY
+one-day,DATE
+Brian,PERSON
+AWS,PRODUCT
+the quarter,DATE
+AWS,PRODUCT
+Brian Olsavsky,PERSON
+second,ORDINAL
+AWS,PRODUCT
+quarter-to-quarter,DATE
+last year,DATE
+AWS,PRODUCT
+Amazon,ORG
+9%,PERCENT
+10%,PERCENT
+last year,DATE
+a year,DATE
+2017,DATE
+69%,PERCENT
+21%,PERCENT
+9% to 21%,PERCENT
+2019,DATE
+AWS,PRODUCT
+America,COUNTRY
+17%,PERCENT
+Q1 to 20%,PERCENT
+one-day,DATE
+one,CARDINAL
+one-day,DATE
+Mark,PERSON
+Mark,PERSON
+First,ORDINAL
+Amazon,ORG
+first,ORDINAL
+secondly,ORDINAL
+last year,DATE
+the last year,DATE
+Q3,COUNTRY
+half of the year,DATE
+Brian Olsavsky,PERSON
+first,ORDINAL
+Mark,PERSON
+Brian Olsavsky,PERSON
+first,ORDINAL
+first,ORDINAL
+Amazon,ORG
+the U.S. last June,DATE
+$99 to $119,MONEY
+four quarters,DATE
+Q3,GPE
+this year,DATE
+the next 12 months,DATE
+United Arab Emirates,GPE
+this quarter,DATE
+Q3,GPE
+Colin Sebastian,PERSON
+Robert W. Baird,PERSON
+Colin Sebastian,PERSON
+first,ORDINAL
+3PL,CARDINAL
+one-day,DATE
+first,ORDINAL
+third,ORDINAL
+Amazon,ORG
+Brian Olsavsky,PERSON
+first,ORDINAL
+one-day,DATE
+first,ORDINAL
+this year,DATE
+one-day,DATE
+Prime Day,DATE
+two biggest days,DATE
+Prime Day,DATE
+other quarters,DATE
+AWS,PRODUCT
+Whole Foods,PRODUCT
+Kindle,PRODUCT
+Amazon Music,PRODUCT
+800,CARDINAL
+quarter-over-quarter,DATE
+Jefferies,ORG
+Brian,PERSON
+the next quarter,DATE
+one day,DATE
+the next quarter,DATE
+Brian Olsavsky,PERSON
+one-day,DATE
+Q3,GPE
+America,COUNTRY
+one-day,DATE
+AWS,PRODUCT
+Whole Foods,PRODUCT
+Prime Now,PRODUCT
+last year,DATE
+2019,DATE
+Q1,GPE
+the year,DATE
+the year,DATE
+Eric Sheridan,PERSON
+UBS,ORG
+Eric Sheridan,PERSON
+Two,CARDINAL
+later this year,DATE
+next year,DATE
+Dave Fildes,PERSON
+Eric,PERSON
+Dave,PERSON
+one,CARDINAL
+OTT,ORG
+Amazon,ORG
+third,ORDINAL
+Fire TV,PRODUCT
+first,ORDINAL
+America,COUNTRY
+United States,COUNTRY
+Dave Fildes,PERSON
+today,DATE
+the end of the quarter,DATE
+Amazon,ORG
+next quarter,DATE

@@ -1,0 +1,17 @@
+Named Entity Recognition:
+
+To capture named entities of an earning call. To extract factual information within a call using spacy's built in ner annotation tool. Also, by custom adding to the list using spacy's entity ruler and phrase matcher.
+This can be improved using better input file. It's accuracy can be improved using trained model. Difficulty while using trained model is it requires large input file
+
+
+Clustering of companies:
+
+Used unsupervised learning k means model for clustering the text.
+
+Observed that accuracy is quite low for text classification.
+
+Considering sentiment, linguistic complexity and products discussed in earning calls it would be better to use supervised learning model knn algorithm. Unable to find trained datasets in google. Will try to cluster based on other similar datasets. Based on results, the model to be used will be finalized.
+
+https://drive.google.com/folderview?id=10oJXsjUhyetifZnoaFMYXKsup2uCNwAD
+
+The following drive link contains pre trained models which has to be downloaded (entire folder) to test the codes.

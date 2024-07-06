@@ -1,0 +1,344 @@
+word,label
+the Amazon.com First Quarter 2019,DATE
+Today,DATE
+Shelly Kay,PERSON
+Shelly Kay,PERSON
+2019,DATE
+today,DATE
+Brian Olsavsky,PERSON
+Dave Fildes,PERSON
+today,DATE
+the quarter,DATE
+the comparable period of,DATE
+2018,DATE
+"today, April 25, 2019",DATE
+today,DATE
+SEC,ORG
+annual,DATE
+SEC,ORG
+today,DATE
+SEC,ORG
+first,ORDINAL
+Mark Mahaney,PERSON
+RBC Capital Markets,ORG
+Mark Mahaney,PERSON
+two,CARDINAL
+first,ORDINAL
+10%,PERCENT
+16%,PERCENT
+last quarter,DATE
+India,COUNTRY
+India,COUNTRY
+Brian Olsavsky,PERSON
+Mark,PERSON
+10%,PERCENT
+last quarter,DATE
+AWS,PRODUCT
+Kindle,PRODUCT
+Amazon Music,PRODUCT
+Whole Foods,PRODUCT
+India,COUNTRY
+India,COUNTRY
+last quarter,DATE
+a few days,DATE
+the full quarter,DATE
+India,COUNTRY
+Q3,COUNTRY
+Q4,GPE
+Diwali,NORP
+India,COUNTRY
+Doug Anmuth,PERSON
+J.P. Morgan,ORG
+Doug Anmuth,PERSON
+two,CARDINAL
+first,ORDINAL
+Brian,PERSON
+1Q,CARDINAL
+2Q,CARDINAL
+second,ORDINAL
+the second quarter,DATE
+Brian Olsavsky,PERSON
+Doug,PERSON
+last quarter,DATE
+2018,DATE
+over 30%,PERCENT
+a year,DATE
+2016,DATE
+2017,DATE
+15%,PERCENT
+last year,DATE
+48%,PERCENT
+2016,DATE
+38%,PERCENT
+Whole Foods,PRODUCT
+Souq,PERSON
+2017,DATE
+14%,PERCENT
+last year,DATE
+69%,PERCENT
+2017,DATE
+10%,PERCENT
+last year,DATE
+12%,PERCENT
+last year,DATE
+2019,DATE
+the next three quarters,DATE
+Two-Day,DATE
+One-Day,DATE
+20 plus years,DATE
+approximately $800 million,MONEY
+faster than Two-Day,CARDINAL
+years,DATE
+one day,DATE
+same day,DATE
+one to two hour,CARDINAL
+Prime Now,PRODUCT
+same day,DATE
+Prime Now,PRODUCT
+Two-Day,TIME
+One-Day,DATE
+the past months,DATE
+one-day,DATE
+one-day,DATE
+minimal,PERSON
+Q1,GPE
+each year,DATE
+Doug Anmuth,PERSON
+Brian Olsavsky,PERSON
+Justin Post,PERSON
+Merrill Lynch,ORG
+Justin Post,PERSON
+churn,ORG
+Brian Olsavsky,PERSON
+Justin,PERSON
+2018,DATE
+hours,TIME
+hours,TIME
+today,DATE
+churn,ORG
+one-day,DATE
+Eric Sheridan,PERSON
+UBS,ORG
+Eric Sheridan,PERSON
+the last quarter,DATE
+Brian Olsavsky,PERSON
+America,COUNTRY
+Amazon,ORG
+Amazon,ORG
+Amazon,ORG
+Amazon,ORG
+36%,PERCENT
+Stephen,PERSON
+Credit Suisse,ORG
+Stephen,PERSON
+Whole Foods,PRODUCT
+Brian Olsavsky,PERSON
+Stephen,PERSON
+Whole Foods,PRODUCT
+hundreds of millions of dollars,MONEY
+75,CARDINAL
+75,CARDINAL
+metros,ORDINAL
+Prime Now,PRODUCT
+over 30,CARDINAL
+Prime Now,PRODUCT
+last quarter,DATE
+Whole Foods,PRODUCT
+Prime Now,PRODUCT
+app,ORG
+last quarter,DATE
+6%,PERCENT
+Q4,GPE
+Q1,GPE
+Whole Foods,PRODUCT
+third,ORDINAL
+Whole Foods,PRODUCT
+the summer of,DATE
+2017,DATE
+BMO Capital Markets,ORG
+Daniel Salmon,PERSON
+afternoon,TIME
+Brian,PERSON
+Eric,PERSON
+$800 million,MONEY
+one-day,DATE
+this quarter,DATE
+$800 million,MONEY
+Brian Olsavsky,PERSON
+two-day,DATE
+two-day,DATE
+one-day,DATE
+the year,DATE
+2019,DATE
+Anthony DiClemente,PERSON
+Evercore,ORG
+Anthony DiClemente,PERSON
+Jeff,PERSON
+third,ORDINAL
+first,ORDINAL
+3P,CARDINAL
+3P,CARDINAL
+3P,CARDINAL
+third,ORDINAL
+Amazon,ORG
+third,ORDINAL
+second,ORDINAL
+Brian Olsavsky,PERSON
+third,ORDINAL
+three,CARDINAL
+third,ORDINAL
+billions of dollars,MONEY
+Jeff,PERSON
+third,ORDINAL
+the last few years,DATE
+one-day,DATE
+Dave Fildes,PERSON
+Anthony,PERSON
+Dave,PERSON
+Homecoming,PERSON
+Ryan,PERSON
+January,DATE
+the first quarter,DATE
+about $130 million,MONEY
+2019,DATE
+the second half of the year,DATE
+the year,DATE
+John Blackledge,PERSON
+Cowen and Company,ORG
+John Blackledge,PERSON
+one-day,DATE
+the end of the year,DATE
+about 100 million,CARDINAL
+two-day,DATE
+one-day,DATE
+100 million,CARDINAL
+one-day,DATE
+second,ORDINAL
+Whole Foods,PRODUCT
+Brian Olsavsky,PERSON
+one-day,DATE
+two-day,DATE
+two-day,DATE
+one-day,DATE
+the year,DATE
+third,ORDINAL
+one-day,DATE
+Dave Fildes,PERSON
+Dave,PERSON
+Brian,PERSON
+Whole Foods,PRODUCT
+500,CARDINAL
+75,CARDINAL
+Amazon Fresh,PRODUCT
+Prime Now,PRODUCT
+two-hour,TIME
+Ben Schachter,PERSON
+Macquarie,ORG
+Ben Schachter,PERSON
+one-day,DATE
+Amazon,ORG
+$800 million,MONEY
+the quarter,DATE
+Brian Olsavsky,PERSON
+Ben,PERSON
+third,ORDINAL
+$800 million,MONEY
+today,DATE
+the end of the quarter,DATE
+future quarters,DATE
+AWS,PRODUCT
+one-day,DATE
+AWS,PRODUCT
+over $30 billion,MONEY
+42%,PERCENT
+$2 billion,MONEY
+320,CARDINAL
+Volkswagen,NORP
+"more than 30,000",CARDINAL
+"1,500",CARDINAL
+Volkswagen,LANGUAGE
+the quarter,DATE
+AWS,PRODUCT
+AWS,PRODUCT
+Mark,PERSON
+Citi,GPE
+Mark,PERSON
+AWS,PRODUCT
+3%,PERCENT
+4%,PERCENT
+the quarter,DATE
+one-day,DATE
+$800 million,MONEY
+US,GPE
+UK,GPE
+Germany,COUNTRY
+Brian Olsavsky,PERSON
+Mark,PERSON
+second,ORDINAL
+America,COUNTRY
+April,DATE
+the quarter,DATE
+this quarter,DATE
+one-day,DATE
+the end of the quarter,DATE
+AWS,PRODUCT
+quarterly,DATE
+last year,DATE
+48%,PERCENT
+49%,PERCENT
+46% and 46%,PERCENT
+the first half of the year,DATE
+Amazon,ORG
+AWS,PRODUCT
+42%,PERCENT
+$30 billion,MONEY
+greater than $30 billion,MONEY
+Heath Terry,PERSON
+Goldman Sachs,ORG
+Heath Terry,PERSON
+several years,DATE
+Brian Olsavsky,PERSON
+2016,DATE
+2017,DATE
+tens and more millions of dollars,CARDINAL
+2018,DATE
+the year,DATE
+AWS,PRODUCT
+6 to 12 months,CARDINAL
+today,DATE
+China,COUNTRY
+19,CARDINAL
+China,COUNTRY
+Brian,PERSON
+Morgan Stanley,ORG
+Brian,PERSON
+one-day,DATE
+Amazon,ORG
+first,ORDINAL
+Brian,PERSON
+last year,DATE
+one-day,DATE
+one-day,DATE
+second,ORDINAL
+Brian Olsavsky,PERSON
+Brian,PERSON
+one-day,DATE
+one to two hours,TIME
+same day,DATE
+two days,DATE
+one-day,DATE
+half,CARDINAL
+two-day,DATE
+one-day,DATE
+same-day,DATE
+two-hour,TIME
+over 20 years,DATE
+Dave Fildes,PERSON
+Brian,PERSON
+Dave,PERSON
+Amazon,ORG
+Amazon,ORG
+today,DATE
+the end of the quarter,DATE
+Amazon,ORG
+next quarter,DATE

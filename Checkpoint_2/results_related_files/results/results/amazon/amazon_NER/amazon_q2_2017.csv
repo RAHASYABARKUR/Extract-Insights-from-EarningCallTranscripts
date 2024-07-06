@@ -1,0 +1,267 @@
+word,label
+Amazon.com,ORG
+Today,DATE
+Darin Manney,PERSON
+Darin Manney - Amazon.com,PERSON
+2017,DATE
+today,DATE
+Brian Olsavsky,PERSON
+today,DATE
+the quarter,DATE
+the comparable period of 2016,DATE
+"today, July 27, 2017",DATE
+today,DATE
+SEC,ORG
+annual,DATE
+SEC,ORG
+today,DATE
+SEC,ORG
+Whole Foods,PRODUCT
+one,CARDINAL
+first,ORDINAL
+Heath Terry,PERSON
+Goldman Sachs,ORG
+Heath Terry,PERSON
+Goldman Sachs,ORG
+Q3,GPE
+the quarter,DATE
+Brian,PERSON
+First,ORDINAL
+Q3,COUNTRY
+last year,DATE
+the second half of the year,DATE
+Q3,GPE
+Amazon,ORG
+nearly 40%,PERCENT
+last year,DATE
+this year,DATE
+Last year,DATE
+30%,PERCENT
+about 80%,PERCENT
+last year,DATE
+this year,DATE
+about 80%,PERCENT
+last year,DATE
+between second half of 2016,DATE
+the second half of 2015,DATE
+the first half this year,DATE
+year-over-year,DATE
+Q3,COUNTRY
+AWS,PRODUCT
+the trailing 12 months,DATE
+71%,PERCENT
+last year,DATE
+AWS,PRODUCT
+the quarter year-over-year,DATE
+Colin Sebastian,PERSON
+Robert W. Baird,PERSON
+Colin,PERSON
+Sebastian,PERSON
+Brian,PERSON
+Colin,PERSON
+First,ORDINAL
+Whole Foods,PRODUCT
+Whole Foods,PRODUCT
+Amazon Fresh,PRODUCT
+Prime Now,PRODUCT
+Amazon,ORG
+Prime Now,PRODUCT
+Amazon Fresh,PRODUCT
+Amazon,ORG
+Whole Foods,PRODUCT
+Justin Post,PERSON
+Merrill Lynch,ORG
+Justin Post,PERSON
+America,COUNTRY
+Merrill Lynch,ORG
+the second quarter,DATE
+India,COUNTRY
+Amazon,ORG
+Brian,PERSON
+America,COUNTRY
+AWS,PRODUCT
+$14 billion,MONEY
+last quarter,DATE
+$16 billion,MONEY
+year-over-year,DATE
+130,CARDINAL
+Echo,PRODUCT
+Alexa,PRODUCT
+Echo,PRODUCT
+Alexa,PRODUCT
+India,COUNTRY
+AWS,PRODUCT
+Prime Now,PRODUCT
+Amazon Fresh,PRODUCT
+year-over-year,DATE
+42%,PERCENT
+AWS,ORG
+two,CARDINAL
+Echo,PRODUCT
+Seattle,GPE
+last week,DATE
+third,ORDINAL
+Mark,PERSON
+Mark A.,PERSON
+Citigroup,ORG
+"Global Markets, Inc.
+
+Thank",ORG
+last mile,QUANTITY
+AWS,PRODUCT
+Q3,GPE
+Brian,PERSON
+second,ORDINAL
+AWS,PRODUCT
+Amazon,ORG
+Amazon,ORG
+nearly 40%,PERCENT
+last year,DATE
+this year,DATE
+just over 30%,PERCENT
+Douglas Anmuth,PERSON
+JPMorgan,ORG
+Douglas,PERSON
+JPMorgan,ORG
+AWS,PRODUCT
+the first full quarter,DATE
+2Q,CARDINAL
+Mark,PERSON
+secondly,ORDINAL
+annual,DATE
+Brian,PERSON
+every day,DATE
+AWS,PRODUCT
+$14 billion to $16 billion,MONEY
+year-over-year,DATE
+AWS,PRODUCT
+more than 30,CARDINAL
+the last year-and-a-half,DATE
+California Polytechnic State University,ORG
+five,CARDINAL
+France,COUNTRY
+China,COUNTRY
+Sweden,GPE
+Hong Kong,GPE
+second,ORDINAL
+East,LOC
+the first half of this year,DATE
+Mark Mahaney,PERSON
+RBC Capital Markets,ORG
+Mark Mahaney,PERSON
+RBC Capital Markets,ORG
+AWS,PRODUCT
+AWS,PRODUCT
+AWS,PRODUCT
+six quarters,DATE
+AWS,PRODUCT
+Brian,PERSON
+quarter-to-quarter,DATE
+71%,PERCENT
+AWS,PRODUCT
+AWS,PRODUCT
+two,CARDINAL
+Brian,PERSON
+Morgan Stanley,ORG
+Brian,PERSON
+Morgan Stanley,ORG
+two,CARDINAL
+first,ORDINAL
+Prime Now,PRODUCT
+one to two-hour,CARDINAL
+the next year,DATE
+second,ORDINAL
+over 50%,PERCENT
+Brian,PERSON
+second,ORDINAL
+53%,PERCENT
+year,DATE
+52%,PERCENT
+Prime membership,PRODUCT
+monthly,DATE
+Prime membership,PRODUCT
+Q4,GPE
+Q1,GPE
+this year,DATE
+second,ORDINAL
+Prime Now,PRODUCT
+Prime Now,PRODUCT
+50,CARDINAL
+eight,CARDINAL
+Dan,PERSON
+BMO Capital Markets,ORG
+Daniel Salmon - BMO Capital Markets,PERSON
+United States,COUNTRY
+afternoon,TIME
+Brian,PERSON
+second,ORDINAL
+Echo,PRODUCT
+Brian,PERSON
+Echo,PRODUCT
+late June,DATE
+42%,PERCENT
+AWS,ORG
+Eric Sheridan,PERSON
+UBS,ORG
+Eric,PERSON
+UBS Securities,ORG
+two,CARDINAL
+Number two,CARDINAL
+quarter-over-quarter,DATE
+year-on-year,DATE
+Brian,PERSON
+second,ORDINAL
+$792 million,MONEY
+$1.2 billion,MONEY
+51%,PERCENT
+42%,PERCENT
+each year,DATE
+the 51%,PERCENT
+year-over-year,DATE
+America,COUNTRY
+Prime Video,PRODUCT
+last year,DATE
+200,CARDINAL
+Prime Now,PRODUCT
+Amazon Fresh,PRODUCT
+America,COUNTRY
+America,COUNTRY
+Prime membership,PRODUCT
+America,COUNTRY
+India,COUNTRY
+India,COUNTRY
+India,COUNTRY
+Brian Fitzgerald,PERSON
+Jefferies,ORG
+Brian,PERSON
+Fitzgerald,ORDINAL
+Jefferies,ORG
+Kivas,PERSON
+Darin Manney - Amazon.com,PERSON
+Brian,PERSON
+Darin,PERSON
+up to three years,DATE
+three,CARDINAL
+Jason Helfstein,PERSON
+Oppenheimer,ORG
+Jason Helfstein,PERSON
+Oppenheimer,ORG
+58%,PERCENT
+the first quarter,DATE
+53%,PERCENT
+year-over-year,DATE
+one,CARDINAL
+Brian,PERSON
+first,ORDINAL
+Jason Helfstein,PERSON
+Oppenheimer,ORG
+58%,PERCENT
+the first quarter,DATE
+53%,PERCENT
+Brian,PERSON
+the past three quarters,DATE
+Darin Manney - Amazon.com,PERSON
+Brian,PERSON
+today,DATE
+Amazon.com,ORG
+next quarter,DATE
